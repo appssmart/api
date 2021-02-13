@@ -47,11 +47,11 @@
       "google_native_exit_screen_first": "ca-app-pub-5593017128924568/5682010824",
       "google_native_exit_screen_second": "ca-app-pub-5593017128924568/3357447424",
       "is_active": "1",
-      "front_native": "4",
-      "inner_native": "2",
-      "interstitial_priority": "2",
-      "spalsh_interstial_type": "2",
-      "exit_interstial_type": "2",
+      "front_native": "3",
+      "inner_native": "1",
+      "interstitial_priority": "1",
+      "spalsh_interstial_type": "1",
+      "exit_interstial_type": "1",
       "ad_interval_time": "1",
       "gg_app_id": ""
     }
