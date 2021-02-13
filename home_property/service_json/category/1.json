@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "Espn",
+            "category_link": "https://www.espn.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Marca",
+            "category_link": "https://www.marca.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "AS",
+            "category_link": "https://as.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "MLB",
+            "category_link": "http://mlb.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "BFSTRMS",
+            "category_link": "http://bfstrms.xyz/",
+            "main_category_id": "1",
+            "is_active": "1"
+        }
+    ]
+}
