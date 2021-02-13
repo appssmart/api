@@ -80,12 +80,6 @@
             "is_active": "1"
         },
         {
-            "id": "14",
-            "category_name": "Ration Card",
-            "category_icon": "http://services.birthdaysongwithnamemaker.com/public/img/digital_seva/ration_card.png",
-            "is_active": "1"
-        },
-        {
             "id": "15",
             "category_name": "Voter Id",
             "category_icon": "http://services.birthdaysongwithnamemaker.com/public/img/digital_seva/voter_id.png",
