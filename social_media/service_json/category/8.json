@@ -1,0 +1,26 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "22",
+            "category_name": "Goodreads",
+            "category_link": "https://www.goodreads.com/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+        {
+            "id": "23",
+            "category_name": "Houzz",
+            "category_link": "https://www.houzz.com/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+        {
+            "id": "24",
+            "category_name": "Last",
+            "category_link": "https://www.last.fm/",
+            "main_category_id": "8",
+            "is_active": "1"
+        }
+    ]
+}

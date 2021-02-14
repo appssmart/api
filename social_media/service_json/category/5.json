@@ -1,0 +1,26 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "13",
+            "category_name": "Yelp",
+            "category_link": "https://www.yelp.com/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "14",
+            "category_name": "Zomato",
+            "category_link": "https://www.zomato.com/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "15",
+            "category_name": "Trip Advisor",
+            "category_link": "https://www.tripadvisor.ca/",
+            "main_category_id": "5",
+            "is_active": "1"
+        }
+    ]
+}

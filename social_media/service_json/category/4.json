@@ -1,0 +1,19 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "11",
+            "category_name": "Pinterest",
+            "category_link": "https://www.pinterest.com/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "12",
+            "category_name": "Flip Board",
+            "category_link": "https://flipboard.com/",
+            "main_category_id": "4",
+            "is_active": "1"
+        }
+    ]
+}

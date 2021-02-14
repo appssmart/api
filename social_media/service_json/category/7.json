@@ -1,0 +1,26 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "19",
+            "category_name": "Polyvore",
+            "category_link": "https://www.ssense.com/en-in?utm_source=polyvore.com&utm_medium=redirect",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "20",
+            "category_name": "Etsy",
+            "category_link": "https://www.etsy.com/",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "21",
+            "category_name": "Fancy",
+            "category_link": "https://fancy.com/",
+            "main_category_id": "7",
+            "is_active": "1"
+        }
+    ]
+}

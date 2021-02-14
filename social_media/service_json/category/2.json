@@ -1,0 +1,19 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "6",
+            "category_name": "Instagram",
+            "category_link": "https://www.instagram.com/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "7",
+            "category_name": "Snapchat",
+            "category_link": "https://www.snapchat.com/",
+            "main_category_id": "2",
+            "is_active": "1"
+        }
+    ]
+}

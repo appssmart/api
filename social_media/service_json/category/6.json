@@ -1,0 +1,26 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "16",
+            "category_name": "Wordpress",
+            "category_link": "https://wordpress.org/",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "17",
+            "category_name": "Medium",
+            "category_link": "https://medium.com/",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "18",
+            "category_name": "Tumblr",
+            "category_link": "https://www.tumblr.com/",
+            "main_category_id": "6",
+            "is_active": "1"
+        }
+    ]
+}

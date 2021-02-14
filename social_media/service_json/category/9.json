@@ -1,0 +1,26 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "25",
+            "category_name": "Airbnb",
+            "category_link": "https://www.airbnb.ca/",
+            "main_category_id": "9",
+            "is_active": "1"
+        },
+        {
+            "id": "26",
+            "category_name": "Uber",
+            "category_link": "https://www.uber.com/",
+            "main_category_id": "9",
+            "is_active": "1"
+        },
+        {
+            "id": "27",
+            "category_name": "Taskrabbit",
+            "category_link": "https://www.taskrabbit.com/",
+            "main_category_id": "9",
+            "is_active": "1"
+        }
+    ]
+}
