@@ -2,37 +2,30 @@
     "status": "1",
     "data": [
         {
-            "id": "16",
-            "category_name": "Gazz Etta",
-            "category_link": "https://www.gazzetta.it/",
+            "id": "26",
+            "category_name": "Immowelt Land For Sale - Germany",
+            "category_link": "https://www.immowelt.de/",
             "main_category_id": "4",
             "is_active": "1"
         },
         {
-            "id": "17",
-            "category_name": "Flash Score",
-            "category_link": "https://www.flashscore.com/",
+            "id": "28",
+            "category_name": "Wg Gesucht Property For Sale - Germany",
+            "category_link": "https://www.wg-gesucht.de/",
             "main_category_id": "4",
             "is_active": "1"
         },
         {
-            "id": "18",
-            "category_name": "Mundo Deportivo",
-            "category_link": "https://www.mundodeportivo.com/",
+            "id": "29",
+            "category_name": "Nestoria Rentals Near Me - Germany",
+            "category_link": "https://www.nestoria.de/",
             "main_category_id": "4",
             "is_active": "1"
         },
         {
-            "id": "19",
-            "category_name": "Kooora",
-            "category_link": "https://www.kooora.com/",
-            "main_category_id": "4",
-            "is_active": "1"
-        },
-        {
-            "id": "20",
-            "category_name": "247 Sports",
-            "category_link": "https://247sports.com/",
+            "id": "31",
+            "category_name": "O Uccino Apartment For Rent - Germany",
+            "category_link": "https://o-uccino.com/front",
             "main_category_id": "4",
             "is_active": "1"
         }

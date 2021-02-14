@@ -3,36 +3,29 @@
     "data": [
         {
             "id": "1",
-            "category_name": "Espn",
-            "category_link": "https://www.espn.com/",
+            "category_name": "Zillow : Apartment For Rent - USA",
+            "category_link": "https://www.zillow.com/",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "2",
-            "category_name": "Marca",
-            "category_link": "https://www.marca.com/",
-            "main_category_id": "1",
-            "is_active": "1"
-        },
-        {
-            "id": "3",
-            "category_name": "AS",
-            "category_link": "https://as.com/",
+            "category_name": "Realtor : Home For Rent - USA",
+            "category_link": "https://www.realtor.com/",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "4",
-            "category_name": "MLB",
-            "category_link": "http://mlb.com/",
+            "category_name": "Redfin : Apartments Near Me - USA",
+            "category_link": "https://www.redfin.com/",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "5",
-            "category_name": "BFSTRMS",
-            "category_link": "http://bfstrms.xyz/",
+            "id": "6",
+            "category_name": "Trulia : Land For Sale - USA",
+            "category_link": "https://www.trulia.com/",
             "main_category_id": "1",
             "is_active": "1"
         }

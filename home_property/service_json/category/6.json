@@ -2,37 +2,30 @@
     "status": "1",
     "data": [
         {
-            "id": "26",
-            "category_name": "YR NO",
-            "category_link": "https://www.yr.no/",
+            "id": "41",
+            "category_name": "MagicBricks Rentals Near Me - India",
+            "category_link": "https://www.magicbricks.com/",
             "main_category_id": "6",
             "is_active": "1"
         },
         {
-            "id": "27",
-            "category_name": "Championat",
-            "category_link": "https://www.championat.com/",
+            "id": "44",
+            "category_name": "Housing Home For Rent - India",
+            "category_link": "https://housing.com/",
             "main_category_id": "6",
             "is_active": "1"
         },
         {
-            "id": "28",
-            "category_name": "NBA",
-            "category_link": "http://nba.com/",
+            "id": "46",
+            "category_name": "Homely Real Estate- India",
+            "category_link": "https://www.homely.com.au/",
             "main_category_id": "6",
             "is_active": "1"
         },
         {
-            "id": "29",
-            "category_name": "Nbc Sports",
-            "category_link": "http://nbcsports.com/",
-            "main_category_id": "6",
-            "is_active": "1"
-        },
-        {
-            "id": "30",
-            "category_name": "Sofa Score",
-            "category_link": "https://www.sofascore.com/",
+            "id": "48",
+            "category_name": "Zango Real Estate- India",
+            "category_link": "https://zango.com.au/sale/",
             "main_category_id": "6",
             "is_active": "1"
         }

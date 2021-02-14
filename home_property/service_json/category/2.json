@@ -2,37 +2,37 @@
     "status": "1",
     "data": [
         {
-            "id": "6",
-            "category_name": "Yahoo Sports",
-            "category_link": "https://sports.yahoo.com/",
+            "id": "11",
+            "category_name": "The One Spot - Australia",
+            "category_link": "https://www.theonespot.com.au/",
             "main_category_id": "2",
             "is_active": "1"
         },
         {
-            "id": "7",
-            "category_name": "HUPU",
-            "category_link": "https://www.hupu.com/",
+            "id": "13",
+            "category_name": "Mitula Homes - Australia",
+            "category_link": "https://properties.mitula.com.au/",
             "main_category_id": "2",
             "is_active": "1"
         },
         {
-            "id": "8",
-            "category_name": "Premier League",
-            "category_link": "https://www.premierleague.com/",
+            "id": "14",
+            "category_name": "Homely Real Estate- Australia",
+            "category_link": "https://www.homely.com.au/",
             "main_category_id": "2",
             "is_active": "1"
         },
         {
-            "id": "9",
-            "category_name": "Cricbuzz",
-            "category_link": "https://www.cricbuzz.com/",
+            "id": "54",
+            "category_name": "Homely Real Estate- Australia",
+            "category_link": "https://www.homely.com.au/",
             "main_category_id": "2",
             "is_active": "1"
         },
         {
-            "id": "10",
-            "category_name": "NFL",
-            "category_link": "https://www.nfl.com/",
+            "id": "56",
+            "category_name": "Zango Real Estate- Australia",
+            "category_link": "https://zango.com.au/sale/",
             "main_category_id": "2",
             "is_active": "1"
         }
