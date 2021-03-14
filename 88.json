@@ -52,7 +52,7 @@
       "interstitial_priority": "1",
       "spalsh_interstial_type": "1",
       "exit_interstial_type": "1",
-      "ad_interval_time": "1",
+      "ad_interval_time": "20",
       "gg_app_id": ""
     }
   ]
