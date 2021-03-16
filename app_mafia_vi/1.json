@@ -10,15 +10,15 @@
   "qureka_banner":"",
   "fb":{
     "appID":"ca-app-pub-3940256099942544~3347511713",
-    "interstitial":"",
-    "banner":"",
-    "native":""
+    "interstitial":"VID_HD_16_9_46S_LINK#420293385732349_420294042398950",
+    "banner":"IMG_16_9_APP_INSTALL#2312433698835503_2964953543583512",
+    "native":"IMG_16_9_APP_INSTALL#2312433698835503_2964952163583650"
   },
   "admob":{
     "appID":"ca-app-pub-3940256099942544~3347511713",
-    "interstitial":"",
-    "banner":"",
-    "native":"",
-    "app_open":""
+    "interstitial":"ca-app-pub-3940256099942544/1033173712",
+    "banner":"ca-app-pub-3940256099942544/6300978111",
+    "native":"ca-app-pub-3940256099942544/2247696110",
+    "app_open":"ca-app-pub-3940256099942544/3419835294"
   }
 }
