@@ -13,7 +13,7 @@
       "fb_medium_rectangle": "",
       "fb_rewarded_video": "",
       "fb_Interstitial": "460129745116497_460129911783147",
-      "fb_Interstitial_type": "0",
+      "fb_Interstitial_type": "1",
       "fb_Interstitial_splash": "460129745116497_460129911783147",
       "fb_interstial_spalsh_type": "1",
       "fb_interstial_exit": "460129745116497_460129911783147",
@@ -52,7 +52,7 @@
       "interstitial_priority": "1",
       "spalsh_interstial_type": "1",
       "exit_interstial_type": "1",
-      "ad_interval_time": "1",
+      "ad_interval_time": "10",
       "gg_app_id": ""
     }
   ]
