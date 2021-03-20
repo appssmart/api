@@ -13,10 +13,10 @@
       "fb_medium_rectangle": "",
       "fb_rewarded_video": "",
       "fb_Interstitial": "781248582786321_781248746119638",
-      "fb_Interstitial_type": "0",
-      "fb_Interstitial_splash": "781248582786321_781248746119638",
+      "fb_Interstitial_type": "1",
+      "fb_Interstitial_splash": "781248582786321_784408419137004",
       "fb_interstial_spalsh_type": "1",
-      "fb_interstial_exit": "781248582786321_781248746119638",
+      "fb_interstial_exit": "781248582786321_784408415803671",
       "fb_interstial_exit_type": "0",
       "gg_native": "",
       "gg_native_start_one": "",
@@ -52,7 +52,7 @@
       "interstitial_priority": "1",
       "spalsh_interstial_type": "1",
       "exit_interstial_type": "1",
-      "ad_interval_time": "1",
+      "ad_interval_time": "10",
       "gg_app_id": ""
     }
   ]
