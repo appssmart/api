@@ -1,9 +1,7 @@
 {
-
   "package_name":"com.digiseva.digitalseve",
-  "isScroll":true,
   "ad_delay":1,
-  "isScroll":true,
+  "isScroll":false,
   "isAdmob":true,
   "isFB":true,  
   "isOddEven":true,  
