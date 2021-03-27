@@ -4,6 +4,7 @@
   "isScroll":true,
   "isAdmob":true,
   "isFB":true,  
+  "isOddEven":true,  
   "Admob_Interstitial": true,
   "Fb_Interstitial": true,
   "qureka":"https://www.google.com/",
