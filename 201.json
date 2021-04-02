@@ -3,24 +3,24 @@
   "ad_delay":1,
   "isScroll":false,
   "isAdmob":true,
-  "isAdmobBanner":false,
+  "isAdmobBanner":true,
   "isFB":true,  
-  "isOddEven":false,  
+  "isOddEven":true,  
   "Admob_Interstitial": true,
-  "Fb_Interstitial": false,
+  "Fb_Interstitial": true,
   "qureka":"https://www.google.com/",
   "qureka_banner":"https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/img_url.png",
   "fb":{
     "appID":"ca-app-pub-3940256099942544~3347511713",
     "interstitial":"VID_HD_16_9_46S_LINK#2075257289283253_2075257409283241",
-    "native":"IMG_16_9_APP_INSTAsdfsdfLL#2075257289283253_2075257612616554",
-	"banner":"IMG_16_9_APP_INSTALL#2075asdd257289283253_2075257612616554"
+    "native":"IMG_16_9_APP_INSTALL#2075257289283253_2075257612616554",
+	"banner":"IMG_16_9_APP_INSTALL#2075257289283253_2075257612616554"
   },
   "admob":{
-    "appID":"ca-app-pub-9878620asd086001673~1570977019",
-    "interstitial":"ca-app-pub-9878620sadsad086001673/7944813672",    
-    "native":"ca-app-pub-98786200sdfsdf86001673/4005568662",
-    "app_open":"ca-app-pub-98786asdadas20086001673/4539921136",
-	"banner":"ca-app-pub-9878asdd620086001673/9066323652"
+    "appID":"ca-app-pub-3940256099942544~3347511713",
+    "interstitial":"ca-app-pub-3940256099942544/1033173712",    
+    "native":"ca-app-pub-3940256099942544/2247696110",
+    "app_open":"ca-app-pub-3940256099942544/3419835294",
+	"banner":"ca-app-pub-3940256099942544/6300978111"
   }
 }
