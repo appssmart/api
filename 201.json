@@ -5,7 +5,7 @@
   "isAdmob":true,
   "isAdmobBanner":false,
   "isFB":true,  
-  "isOddEven":true,  
+  "isOddEven":false,  
   "Admob_Interstitial": true,
   "Fb_Interstitial": false,
   "qureka":"https://www.google.com/",
