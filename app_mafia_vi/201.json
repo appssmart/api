@@ -7,7 +7,7 @@
   "isFB":true,  
   "isOddEven":true,  
   "Admob_Interstitial": true,
-  "Fb_Interstitial": false,
+  "Fb_Interstitial": true,
   "qureka":"https://www.google.com/",
   "qureka_banner":"https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/img_url.png",
   "fb":{
