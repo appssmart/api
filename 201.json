@@ -3,7 +3,7 @@
   "ad_delay":1,
   "isScroll":false,
   "isAdmob":true,
-  "isAdmobBanner":true,
+  "isAdmobBanner":false,
   "isFB":true,  
   "isOddEven":true,  
   "Admob_Interstitial": true,
