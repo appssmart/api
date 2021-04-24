@@ -2,21 +2,21 @@
   "status": "1",
   "data": [
     {
-      "id": "101",
-      "fb_native": "",
-      "fb_native_exit_screen_first": "",
-      "fb_native_exit_screen_second": "",
-      "fb_native_banner": "",
-      "fb_native_banner_exit_screen_first": "",
-      "fb_native_banner_exit_screen_second": "",
+      "id": "298",
+      "fb_native": "725861348108804_726412351387037",
+      "fb_native_exit_screen_first": "725861348108804_726412351387037",
+      "fb_native_exit_screen_second": "725861348108804_726412351387037",
+      "fb_native_banner": "725861348108804_726412394720366",
+      "fb_native_banner_exit_screen_first": "725861348108804_726412394720366",
+      "fb_native_banner_exit_screen_second": "725861348108804_726412394720366",
       "fb_banner": "",
       "fb_medium_rectangle": "",
       "fb_rewarded_video": "",
-      "fb_Interstitial": "",
+      "fb_Interstitial": "725861348108804_725862214775384",
       "fb_Interstitial_type": "0",
-      "fb_Interstitial_splash": "",
-      "fb_interstial_spalsh_type": "1",
-      "fb_interstial_exit": "",
+      "fb_Interstitial_splash": "725861348108804_726412268053712",
+      "fb_interstial_spalsh_type": "0",
+      "fb_interstial_exit": "725861348108804_726412318053707",
       "fb_interstial_exit_type": "0",     
       "google_banner": "ca-app-pub-3940465445645256099942544/6300978111",
       "google_interstial": "ca-app-pub-39405465544256099942544/1033173712",
@@ -38,9 +38,9 @@
       "interstitial_priority": "1",
       "spalsh_interstial_type": "1",
       "exit_interstial_type": "1",
-      "ad_interval_time": "10",
+      "ad_interval_time": "1",
 	  "img_url": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/img_url.png",
-	  "weblink": "https://www.google.com/"	  
+	  "weblink": "http://664.win.qureka.com/"	  
     }
   ]
 }
