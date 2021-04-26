@@ -2,23 +2,23 @@
     "status": "1",
     "data": [
         {
-            "id": "16",
-            "category_name": "Wordpress",
-            "category_link": "https://wordpress.org/",
+            "id": "29",
+            "category_name": "Elpha",
+            "category_link": "https://elpha.com/",
             "main_category_id": "6",
             "is_active": "1"
         },
         {
-            "id": "17",
-            "category_name": "Medium",
-            "category_link": "https://medium.com/",
+            "id": "30",
+            "category_name": "Yubo",
+            "category_link": "https://yubo.live/",
             "main_category_id": "6",
             "is_active": "1"
         },
         {
-            "id": "18",
-            "category_name": "Tumblr",
-            "category_link": "https://www.tumblr.com/",
+            "id": "31",
+            "category_name": "House Party",
+            "category_link": "https://houseparty.com/",
             "main_category_id": "6",
             "is_active": "1"
         }
