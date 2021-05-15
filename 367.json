@@ -35,7 +35,7 @@
       "is_active": "1",
       "front_native": "4",
       "inner_native": "2",
-      "interstitial_priority": "2",
+      "interstitial_priority": "4",
       "spalsh_interstial_type": "2",
       "exit_interstial_type": "2",
       "ad_interval_time": "1",
