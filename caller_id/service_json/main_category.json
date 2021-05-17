@@ -3,62 +3,50 @@
     "data": [
         {
             "id": "1",
-            "category_name": "Social Networks",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/1_dating_btn.png",
+            "category_name": "Called Id",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/called_id.jpg",
             "is_active": "1"
         },
         {
             "id": "2",
-            "category_name": "Media Sharing Networks",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/2_dating_btn.png",
+            "category_name": "Driving School",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/driving_school.jpg",
             "is_active": "1"
         },
         {
             "id": "3",
-            "category_name": "Discussion Forums ",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/3_dating_btn.png",
+            "category_name": "Fancy Number Allocation",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/fancy_number_allocation.jpg",
             "is_active": "1"
         },
         {
             "id": "4",
-            "category_name": "Bookmarking & Content Curation Networks",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/4_dating_btn.png",
+            "category_name": "Learners License",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/learners_license.jpg",
             "is_active": "1"
         },
         {
             "id": "5",
-            "category_name": "Consumer Review Networks",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/5_dating_btn.png",
+            "category_name": "Licence Details",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/licence_details.jpg",
             "is_active": "1"
         },
         {
             "id": "6",
-            "category_name": "Blogging & Publishing Networks",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/6_dating_btn.png",
+            "category_name": "Natiolal Permit",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/natiolal_permit.jpg",
             "is_active": "1"
         },
         {
             "id": "7",
-            "category_name": "Social shopping networks",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/7_dating_btn.png",
+            "category_name": "Test Appointment",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/test_appointment.jpg",
             "is_active": "1"
         },
         {
             "id": "8",
-            "category_name": "Interest-Based Networks",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/8_dating_btn.png",
-            "is_active": "1"
-        },
-        {
-            "id": "9",
-            "category_name": "Sharing Economy Networks",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/9_dating_btn.png",
-            "is_active": "1"
-        },
-        {
-            "id": "10",
-            "category_name": "Anonymous Social Networks",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/10_dating_btn.png",
+            "category_name": "Vehicle Registration",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/vehicle_registration.jpg",
             "is_active": "1"
         }
     ]
