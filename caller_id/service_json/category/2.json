@@ -25,7 +25,7 @@
         {
             "id": "11", 
             "category_name": "North",
-            "category_link": "http://www.morth.nic.in/",
+            "category_link": "https://www.morth.nic.in",
             "main_category_id": "2",
             "is_active": "1"
         },
