@@ -9,9 +9,9 @@
         },
         {
             "id": "2",
-            "category_name": "Driving School",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/caller_id/img/driving_school.jpg",
-            "is_active": "1"
+            "category_name": "Learners License",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/caller_id/img/learners_license.jpg",
+            "is_active": "1"            
         },
         {
             "id": "3",
@@ -21,8 +21,8 @@
         },
         {
             "id": "4",
-            "category_name": "Learners License",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/caller_id/img/learners_license.jpg",
+			"category_name": "Driving School",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/caller_id/img/driving_school.jpg",
             "is_active": "1"
         },
         {

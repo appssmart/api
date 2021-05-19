@@ -3,38 +3,52 @@
     "data": [
         {
             "id": "16",
-            "category_name": "Reddit",
-            "category_link": "https://www.reddit.com/",
+            "category_name": "User Manual",
+            "category_link": "https://vahan.parivahan.gov.in/fancy/faces/public/usermanual.xhtml",
             "main_category_id": "3",
             "is_active": "1"
         },
         {
             "id": "17",
-            "category_name": "Quora",
-            "category_link": "https://www.quora.com/",
+            "category_name": "Final Auction Result",
+            "category_link": "https://vahan.parivahan.gov.in/fancy/faces/public/show_final_result.xhtml",
             "main_category_id": "3",
             "is_active": "1"
         },
         {
             "id": "18",
-            "category_name": "Digg",
-            "category_link": "https://digg.com/",
+            "category_name": "Show Auction Status",
+            "category_link": "https://vahan.parivahan.gov.in/fancy/faces/public/showAuctionStatus.xhtml",
             "main_category_id": "3",
             "is_active": "1"
         },
 		{
             "id": "19",
-            "category_name": "Pinterest",
-            "category_link": "https://www.pinterest.com/",
+            "category_name": "View Registration Series",
+            "category_link": "https://vahan.parivahan.gov.in/fancy/faces/public/seriesOpenStatus.xhtml",
             "main_category_id": "3",
             "is_active": "1"
         },
         {
             "id": "20",
-            "category_name": "Flip Board",
-            "category_link": "https://flipboard.com/",
+            "category_name": "Bidding Updates",
+            "category_link": "https://vahan.parivahan.gov.in/fancy/faces/public/appbiddingprocess.xhtml",
             "main_category_id": "3",
             "is_active": "1"
-        } 
+        }, 
+		{
+            "id": "21",
+            "category_name": "Choice Numbers",
+            "category_link": "https://vahan.parivahan.gov.in/fancy/faces/public/checkfancynumberavailability.xhtml",
+            "main_category_id": "3",
+            "is_active": "1"
+        },
+		{
+            "id": "22",
+            "category_name": "Search by Numbers",
+            "category_link": "https://vahan.parivahan.gov.in/fancy/faces/public/applicantSearchByNumber.xhtml",
+            "main_category_id": "3",
+            "is_active": "1"
+        },
     ]
 }

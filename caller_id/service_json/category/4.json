@@ -2,39 +2,40 @@
     "status": "1",
     "data": [
         {
-            "id": "21",
-            "category_name": "Triller",
-            "category_link": "https://triller.co/",
-            "main_category_id": "4",
-            "is_active": "1"
-        },
-        {
-            "id": "22",
-            "category_name": "Flip Board",
-            "category_link": "https://flipboard.com/",
-            "main_category_id": "4",
-            "is_active": "1"
-        },
-		{
             "id": "23",
-            "category_name": "WT Social",
-            "category_link": "https://wt.social/",
+            "category_name": "Class of Vehicle to Applications",
+            "category_link": "https://sarathi.parivahan.gov.in/sarathiservice/confirmOrAdd_enterApplDetails.do?linkValue=addCovs",
             "main_category_id": "4",
             "is_active": "1"
         },
         {
             "id": "24",
-            "category_name": "Flipboard",
-            "category_link": "https://flipboard.com/topic/socialmedia",
+            "category_name": "Appointments",
+            "category_link": "https://sarathi.parivahan.gov.in/slots",
             "main_category_id": "4",
             "is_active": "1"
         },
-        {
+		{
             "id": "25",
-            "category_name": "Popbase",
-            "category_link": "https://www.pop-base.com/",
+            "category_name": "Driving Licence Search",
+            "category_link": "https://sarathi.parivahan.gov.in/sarathiservice/dlSearch.do",
             "main_category_id": "4",
             "is_active": "1"
-        }
+        },
+		{
+            "id": "26",
+            "category_name": "Application Status",
+            "category_link": "https://sarathi.parivahan.gov.in/sarathiservice/applViewStatus.do",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+		{
+            "id": "27",
+            "category_name": "Check Payment Status",
+            "category_link": "https://sarathi.parivahan.gov.in/paymentscov/PayStatusVeri.jsp",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+		
     ] 
 }

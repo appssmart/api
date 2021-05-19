@@ -3,57 +3,57 @@
     "data": [
         {
             "id": "8",
-            "category_name": "Instagram",
-            "category_link": "https://www.instagram.com/",
+            "category_name": "Apply For Learner Licence",
+            "category_link": "https://sarathi.parivahan.gov.in/sarathiservice/newLLDet.do",
             "main_category_id": "2",
             "is_active": "1"
         },
         {
             "id": "9",
-            "category_name": "Snapchat",
-            "category_link": "https://www.snapchat.com/",
+            "category_name": "Apply For Driving Licence",
+            "category_link": "https://sarathi.parivahan.gov.in/sarathiservice/newDLDet.do",
             "main_category_id": "2",
             "is_active": "1"
         },
 		{
             "id": "10",
-            "category_name": "Whisper",
-            "category_link": "http://whisper.sh/",
+            "category_name": "Apply For DL Renewal",
+            "category_link": "https://sarathi.parivahan.gov.in/sarathiservice/dlServicesDet.do",
             "main_category_id": "2",
             "is_active": "1"
         },
         {
             "id": "11", 
-            "category_name": "Ask FM",
-            "category_link": "https://ask.fm/",
+            "category_name": "Apply For Duplicate DL",
+            "category_link": "https://sarathi.parivahan.gov.in/sarathiservice/dlServicesDet.do",
             "main_category_id": "2",
             "is_active": "1"
         },
         {
             "id": "12",
-            "category_name": "After School App",
-            "category_link": "https://afterschoolapp.com/",
+            "category_name": "Apply For Change Address",
+            "category_link": "https://sarathi.parivahan.gov.in/sarathiservice/dlServicesDet.do",
             "main_category_id": "2",
             "is_active": "1"
         },
 		{
             "id": "13",
-            "category_name": "Yelp",
-            "category_link": "https://www.yelp.com/",
+            "category_name": "Update Mobile Number",
+            "category_link": "https://sarathi.parivahan.gov.in/sarathiservice/mobNumUpdpub.do",
             "main_category_id": "2",
             "is_active": "1"
         },
         {
             "id": "14",
-            "category_name": "Zomato",
-            "category_link": "https://www.zomato.com/",
+            "category_name": "Print Application Form",
+            "category_link": "https://sarathi.parivahan.gov.in/sarathiservice/printform.do",
             "main_category_id": "2",
             "is_active": "1"
         },
         {
             "id": "15",
-            "category_name": "Trip Advisor",
-            "category_link": "https://www.tripadvisor.ca/",
+            "category_name": "DL Services",
+            "category_link": "https://sarathi.parivahan.gov.in/sarathiservice/dlServicesDet.do",
             "main_category_id": "2",
             "is_active": "1"
         }
