@@ -45,8 +45,8 @@
         },
 		{
             "id": "22",
-            "category_name": "Search by Numbers",
-            "category_link": "https://vahan.parivahan.gov.in/fancy/faces/public/applicantSearchByNumber.xhtml",
+            "category_name": "Show Auction Status",
+            "category_link": "https://vahan.parivahan.gov.in/fancy/faces/public/showAuctionStatus.xhtml",
             "main_category_id": "3",
             "is_active": "1"
         },
