@@ -58,6 +58,7 @@
           "interstitial_priority": "3",
           "spalsh_interstial_type": "3",
           "exit_interstial_type": "3",
+          "open_ads_type": "2",
           "ad_interval_time": "1",
           "gg_app_id": "77828871",
           "img_url": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/img_url.png",
