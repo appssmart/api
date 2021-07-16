@@ -1,5 +1,5 @@
 {
-  "status": "534",
+  "status": "1",
   "data": [
       {
           "id": "1",
@@ -53,11 +53,11 @@
           "mopub_Native_Large": "11a17b188668469fb0412708c3d16813",
           "mopub_Native_Small": "11a17b188668469fb0412708c3d16813",          
           "is_active": "1",
-          "front_native": "1",
-          "inner_native": "1",
-          "interstitial_priority": "1",
-          "spalsh_interstial_type": "2",
-          "exit_interstial_type": "1",
+          "front_native": "6",
+          "inner_native": "8",
+          "interstitial_priority": "8",
+          "spalsh_interstial_type": "6",
+          "exit_interstial_type": "8",
           "open_ads_type": "2",
           "ad_interval_time": "1",
           "gg_app_id": "77828871",
