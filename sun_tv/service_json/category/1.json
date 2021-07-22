@@ -3,50 +3,36 @@
     "data": [
         {
             "id": "1",
-            "category_name": "Facebook",
-            "category_link": "https://www.facebook.com/",
+            "category_name": "History Of Channel",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Sun_TV_(India)",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "2",
-            "category_name": "Twitter",
-            "category_link": "https://twitter.com/",
+            "category_name": "Current broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Sun_TV_(India)#Current_programming",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "3",
-            "category_name": "Linkedin",
-            "category_link": "https://www.linkedin.com/",
+            "category_name": "Upcoming broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Sun_TV_(India)#Upcoming_programming",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "4",
-            "category_name": "Ihago",
-            "category_link": "https://ihago.net/#/home",
+            "category_name": "Former broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Sun_TV_(India)#Former_programming",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "5",
-            "category_name": "Parler",
-            "category_link": "https://parler.com/",
-            "main_category_id": "1",
-            "is_active": "1"
-        },
-		{
-            "id": "6",
-            "category_name": "Instagram",
-            "category_link": "https://www.instagram.com/",
-            "main_category_id": "1",
-            "is_active": "1"
-        },
-        {
-            "id": "7",
-            "category_name": "Snapchat",
-            "category_link": "https://www.snapchat.com/",
+            "category_name": "References",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Sun_TV_(India)#References",
             "main_category_id": "1",
             "is_active": "1"
         }
