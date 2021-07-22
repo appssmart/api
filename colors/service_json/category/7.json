@@ -2,45 +2,52 @@
     "status": "1",
     "data": [
         {
-            "id": "32",
-            "category_name": "Polyvore",
-            "category_link": "https://www.ssense.com/en-in?utm_source=polyvore.com&utm_medium=redirect",
-            "main_category_id": "7",
+            "id": "1",
+            "category_name": "History Of Channel",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Colors_TV",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "33",
-            "category_name": "Etsy",
-            "category_link": "https://www.etsy.com/",
-            "main_category_id": "7",
+            "id": "2",
+            "category_name": "Current broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Colors_TV#Current_broadcasts",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "34",
-            "category_name": "Fancy",
-            "category_link": "https://fancy.com/",
-            "main_category_id": "7",
+            "id": "3",
+            "category_name": "Upcoming broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Colors_TV#Upcoming_broadcast",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Former broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Colors_TV#Former_broadcasts",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Aapka Colors",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Colors_TV#Aapka_Colors",
+            "main_category_id": "1",
             "is_active": "1"
         },
 		{
-            "id": "35",
-            "category_name": "Good Reads",
-            "category_link": "https://www.goodreads.com/",
-            "main_category_id": "7",
+            "id": "6",
+            "category_name": "Colors Rishtey List",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programming_broadcast_by_Colors_Rishtey",
+            "main_category_id": "1",
             "is_active": "1"
-        },		
-		{
-            "id": "36",
-            "category_name": "Twitch",
-            "category_link": "https://www.twitch.tv/",
-            "main_category_id": "7",
-            "is_active": "1"
-        },		
-		{
-            "id": "37",
-            "category_name": "Caring Bridge",
-            "category_link": "https://www.caringbridge.org/",
-            "main_category_id": "7",
+        },
+        {
+            "id": "7",
+            "category_name": "References",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Colors_TV#References",
+            "main_category_id": "1",
             "is_active": "1"
         }
     ]
