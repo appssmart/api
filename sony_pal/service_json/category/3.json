@@ -2,39 +2,39 @@
     "status": "1",
     "data": [
         {
-            "id": "16",
-            "category_name": "Reddit",
-            "category_link": "https://www.reddit.com/",
-            "main_category_id": "3",
+            "id": "1",
+            "category_name": "History Of Channel",
+            "category_link": "https://en.wikipedia.org/wiki/Sony_Pal#History",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "17",
-            "category_name": "Quora",
-            "category_link": "https://www.quora.com/",
-            "main_category_id": "3",
+            "id": "2",
+            "category_name": "Current broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/Sony_Pal#Programming",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "18",
-            "category_name": "Digg",
-            "category_link": "https://digg.com/",
-            "main_category_id": "3",
-            "is_active": "1"
-        },
-		{
-            "id": "19",
-            "category_name": "Pinterest",
-            "category_link": "https://www.pinterest.com/",
-            "main_category_id": "3",
+            "id": "3",
+            "category_name": "Original Series",
+            "category_link": "https://en.wikipedia.org/wiki/Sony_Pal#Original_series",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "20",
-            "category_name": "Flip Board",
-            "category_link": "https://flipboard.com/",
-            "main_category_id": "3",
+            "id": "4",
+            "category_name": "References",
+            "category_link": "https://en.wikipedia.org/wiki/Sony_Pal#References",
+            "main_category_id": "1",
             "is_active": "1"
-        } 
+        },
+        {
+            "id": "5",
+            "category_name": "External Links",
+            "category_link": "https://en.wikipedia.org/wiki/Sony_Pal#External_links",
+            "main_category_id": "1",
+            "is_active": "1"
+        }
     ]
 }

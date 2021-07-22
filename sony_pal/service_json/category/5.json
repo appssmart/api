@@ -2,52 +2,38 @@
     "status": "1",
     "data": [
         {
-            "id": "26",
-            "category_name": "Yelp",
-            "category_link": "https://www.yelp.com/",
-            "main_category_id": "5",
+            "id": "1",
+            "category_name": "History Of Channel",
+            "category_link": "https://en.wikipedia.org/wiki/Sony_Pal#History",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "27",
-            "category_name": "Zomato",
-            "category_link": "https://www.zomato.com/",
-            "main_category_id": "5",
+            "id": "2",
+            "category_name": "Current broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/Sony_Pal#Programming",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "28",
-            "category_name": "Trip Advisor",
-            "category_link": "https://www.tripadvisor.ca/",
-            "main_category_id": "5",
+            "id": "3",
+            "category_name": "Original Series",
+            "category_link": "https://en.wikipedia.org/wiki/Sony_Pal#Original_series",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "29",
-            "category_name": "POF",
-            "category_link": "https://www.tripadvisor.ca/",
-            "main_category_id": "5",
+            "id": "4",
+            "category_name": "References",
+            "category_link": "https://en.wikipedia.org/wiki/Sony_Pal#References",
+            "main_category_id": "1",
             "is_active": "1"
         },
-		{
-            "id": "30",
-            "category_name": "Trip Advisor",
-            "category_link": "https://www.tripadvisor.ca/",
-            "main_category_id": "5",
-            "is_active": "1"
-        },
-		{
-            "id": "31",
-            "category_name": "Trip Advisor",
-            "category_link": "https://www.tripadvisor.ca/",
-            "main_category_id": "5",
-            "is_active": "1"
-        },
-		{
-            "id": "32",
-            "category_name": "Trip Advisor",
-            "category_link": "https://www.tripadvisor.ca/",
-            "main_category_id": "5",
+        {
+            "id": "5",
+            "category_name": "External Links",
+            "category_link": "https://en.wikipedia.org/wiki/Sony_Pal#External_links",
+            "main_category_id": "1",
             "is_active": "1"
         }
     ]
