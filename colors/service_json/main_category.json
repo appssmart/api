@@ -4,13 +4,13 @@
         {
             "id": "1",
             "category_name": "Social Networks",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/history.png",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/colors/img/history.png",
             "is_active": "1"
         },
         {
             "id": "2",
             "category_name": "Media Sharing Networks",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/listofprogrames.png",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/colors/img/listofprogrames.png",
             "is_active": "1"
         },
         {
