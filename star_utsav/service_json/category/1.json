@@ -3,50 +3,50 @@
     "data": [
         {
             "id": "1",
-            "category_name": "Facebook",
-            "category_link": "https://www.facebook.com/",
+            "category_name": "History Of Channel",
+            "category_link": "https://en.wikipedia.org/wiki/Star_India#History",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "2",
-            "category_name": "Twitter",
-            "category_link": "https://twitter.com/",
+            "category_name": "Business Results",
+            "category_link": "https://en.wikipedia.org/wiki/Star_India#Business_results",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "3",
-            "category_name": "Linkedin",
-            "category_link": "https://www.linkedin.com/",
+            "category_name": "Divisions",
+            "category_link": "https://en.wikipedia.org/wiki/Star_India#Divisions",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "4",
-            "category_name": "Ihago",
-            "category_link": "https://ihago.net/#/home",
+            "category_name": "Owned Channels",
+            "category_link": "https://en.wikipedia.org/wiki/Star_India#Owned_channels",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "5",
-            "category_name": "Parler",
-            "category_link": "https://parler.com/",
+            "category_name": "Digital",
+            "category_link": "https://en.wikipedia.org/wiki/Star_India#Digital",
             "main_category_id": "1",
             "is_active": "1"
         },
 		{
             "id": "6",
-            "category_name": "Instagram",
-            "category_link": "https://www.instagram.com/",
+            "category_name": "National Sports Network in India",
+            "category_link": "https://en.wikipedia.org/wiki/Star_India#National_Sports_Network_in_India",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "7",
-            "category_name": "Snapchat",
-            "category_link": "https://www.snapchat.com/",
+            "category_name": "References",
+            "category_link": "https://en.wikipedia.org/wiki/Star_India#References",
             "main_category_id": "1",
             "is_active": "1"
         }

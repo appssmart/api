@@ -2,52 +2,52 @@
     "status": "1",
     "data": [
         {
-            "id": "26",
-            "category_name": "Yelp",
-            "category_link": "https://www.yelp.com/",
-            "main_category_id": "5",
+            "id": "1",
+            "category_name": "History Of Channel",
+            "category_link": "https://en.wikipedia.org/wiki/Star_India#History",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "27",
-            "category_name": "Zomato",
-            "category_link": "https://www.zomato.com/",
-            "main_category_id": "5",
+            "id": "2",
+            "category_name": "Business Results",
+            "category_link": "https://en.wikipedia.org/wiki/Star_India#Business_results",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "28",
-            "category_name": "Trip Advisor",
-            "category_link": "https://www.tripadvisor.ca/",
-            "main_category_id": "5",
+            "id": "3",
+            "category_name": "Divisions",
+            "category_link": "https://en.wikipedia.org/wiki/Star_India#Divisions",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "29",
-            "category_name": "POF",
-            "category_link": "https://www.tripadvisor.ca/",
-            "main_category_id": "5",
+            "id": "4",
+            "category_name": "Owned Channels",
+            "category_link": "https://en.wikipedia.org/wiki/Star_India#Owned_channels",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Digital",
+            "category_link": "https://en.wikipedia.org/wiki/Star_India#Digital",
+            "main_category_id": "1",
             "is_active": "1"
         },
 		{
-            "id": "30",
-            "category_name": "Trip Advisor",
-            "category_link": "https://www.tripadvisor.ca/",
-            "main_category_id": "5",
+            "id": "6",
+            "category_name": "National Sports Network in India",
+            "category_link": "https://en.wikipedia.org/wiki/Star_India#National_Sports_Network_in_India",
+            "main_category_id": "1",
             "is_active": "1"
         },
-		{
-            "id": "31",
-            "category_name": "Trip Advisor",
-            "category_link": "https://www.tripadvisor.ca/",
-            "main_category_id": "5",
-            "is_active": "1"
-        },
-		{
-            "id": "32",
-            "category_name": "Trip Advisor",
-            "category_link": "https://www.tripadvisor.ca/",
-            "main_category_id": "5",
+        {
+            "id": "7",
+            "category_name": "References",
+            "category_link": "https://en.wikipedia.org/wiki/Star_India#References",
+            "main_category_id": "1",
             "is_active": "1"
         }
     ]
