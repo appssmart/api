@@ -2,52 +2,52 @@
     "status": "1",
     "data": [
         {
-            "id": "26",
-            "category_name": "Yelp",
-            "category_link": "https://www.yelp.com/",
-            "main_category_id": "5",
+            "id": "1",
+            "category_name": "History Of Channel",
+            "category_link": "https://en.wikipedia.org/wiki/Star_Maa#History",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "27",
-            "category_name": "Zomato",
-            "category_link": "https://www.zomato.com/",
-            "main_category_id": "5",
+            "id": "2",
+            "category_name": "List of Programs",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Star_Maa",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "28",
-            "category_name": "Trip Advisor",
-            "category_link": "https://www.tripadvisor.ca/",
-            "main_category_id": "5",
+            "id": "3",
+            "category_name": "Current broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Star_Maa#Currently_broadcast",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "29",
-            "category_name": "POF",
-            "category_link": "https://www.tripadvisor.ca/",
-            "main_category_id": "5",
+            "id": "4",
+            "category_name": "Upcoming broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Star_Maa#Upcoming_broadcasts",
+            "main_category_id": "1",
             "is_active": "1"
         },
-		{
-            "id": "30",
-            "category_name": "Trip Advisor",
-            "category_link": "https://www.tripadvisor.ca/",
-            "main_category_id": "5",
+        {
+            "id": "5",
+            "category_name": "Former broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Star_Maa#Former_reality_shows",
+            "main_category_id": "1",
             "is_active": "1"
         },
-		{
-            "id": "31",
-            "category_name": "Trip Advisor",
-            "category_link": "https://www.tripadvisor.ca/",
-            "main_category_id": "5",
+        {
+            "id": "6",
+            "category_name": "Formerly Broadcast",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Star_Maa#Formerly_broadcast",
+            "main_category_id": "1",
             "is_active": "1"
-        },
-		{
-            "id": "32",
-            "category_name": "Trip Advisor",
-            "category_link": "https://www.tripadvisor.ca/",
-            "main_category_id": "5",
+        },	
+        {
+            "id": "7",
+            "category_name": "References",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Star_Maa#References",
+            "main_category_id": "1",
             "is_active": "1"
         }
     ]

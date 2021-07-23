@@ -2,39 +2,53 @@
     "status": "1",
     "data": [
         {
-            "id": "21",
-            "category_name": "Triller",
-            "category_link": "https://triller.co/",
-            "main_category_id": "4",
+            "id": "1",
+            "category_name": "History Of Channel",
+            "category_link": "https://en.wikipedia.org/wiki/Star_Maa#History",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "22",
-            "category_name": "Flip Board",
-            "category_link": "https://flipboard.com/",
-            "main_category_id": "4",
-            "is_active": "1"
-        },
-		{
-            "id": "23",
-            "category_name": "WT Social",
-            "category_link": "https://wt.social/",
-            "main_category_id": "4",
+            "id": "2",
+            "category_name": "List of Programs",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Star_Maa",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "24",
-            "category_name": "Flipboard",
-            "category_link": "https://flipboard.com/topic/socialmedia",
-            "main_category_id": "4",
+            "id": "3",
+            "category_name": "Current broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Star_Maa#Currently_broadcast",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "25",
-            "category_name": "Popbase",
-            "category_link": "https://www.pop-base.com/",
-            "main_category_id": "4",
+            "id": "4",
+            "category_name": "Upcoming broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Star_Maa#Upcoming_broadcasts",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Former broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Star_Maa#Former_reality_shows",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "6",
+            "category_name": "Formerly Broadcast",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Star_Maa#Formerly_broadcast",
+            "main_category_id": "1",
+            "is_active": "1"
+        },	
+        {
+            "id": "7",
+            "category_name": "References",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Star_Maa#References",
+            "main_category_id": "1",
             "is_active": "1"
         }
-    ] 
+    ]
 }
