@@ -35,6 +35,20 @@
             "category_link": "https://en.wikipedia.org/wiki/Zee_TV#Sister_channels",
             "main_category_id": "1",
             "is_active": "1"
+        },
+        {
+            "id": "6",
+            "category_name": "References",
+            "category_link": "https://en.wikipedia.org/wiki/Zee_Telugu#References",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "7",
+            "category_name": "External Links",
+            "category_link": "https://en.wikipedia.org/wiki/Zee_Telugu#External_links",
+            "main_category_id": "1",
+            "is_active": "1"
         }
     ]
 }
