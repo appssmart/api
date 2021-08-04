@@ -56,7 +56,7 @@
           "front_native": "6",
           "inner_native": "5",
           "interstitial_priority": "6",
-          "spalsh_interstial_type": "6",
+          "spalsh_interstial_type": "2",
           "exit_interstial_type": "5",
           "open_ads_type": "2",
           "ad_interval_time": "1",
