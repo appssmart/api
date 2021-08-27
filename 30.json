@@ -53,7 +53,9 @@
             "spalsh_interstial_type": "2",
             "exit_interstial_type": "2",
             "ad_interval_time": "1",
-            "gg_app_id": ""
+            "gg_app_id": "",
+            "img_url": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/img_url.png",
+	        "weblink": "https://664.win.predchamp.com/"	
         }
     ]
 }
