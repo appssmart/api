@@ -1,0 +1,173 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "Lorum Ipsum 1",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/1.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "2",
+            "category_name": "Lorum Ipsum 2",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/2.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "3",
+            "category_name": "Lorum Ipsum 3",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/3.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "4",
+            "category_name": "Lorum Ipsum 4",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/4.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "5",
+            "category_name": "Lorum Ipsum 5",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/5.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "6",
+            "category_name": "Lorum Ipsum 6",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/6.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "7",
+            "category_name": "Lorum Ipsum 7",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/7.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "8",
+            "category_name": "Lorum Ipsum 8",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/8.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "9",
+            "category_name": "Lorum Ipsum 9",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/9.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "10",
+            "category_name": "Lorum Ipsum 10",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/10.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "11",
+            "category_name": "Lorum Ipsum 11",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/11.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "12",
+            "category_name": "Lorum Ipsum 12",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/12.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "13",
+            "category_name": "Lorum Ipsum 13",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/13.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "14",
+            "category_name": "Lorum Ipsum 14",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/14.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "15",
+            "category_name": "Lorum Ipsum 15",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/15.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "16",
+            "category_name": "Lorum Ipsum 16",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/16.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "17",
+            "category_name": "Lorum Ipsum 17",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/17.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "18",
+            "category_name": "Lorum Ipsum 18",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/18.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "19",
+            "category_name": "Lorum Ipsum 19",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/19.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "20",
+            "category_name": "Lorum Ipsum 20",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/20.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "21",
+            "category_name": "Lorum Ipsum 21",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/21.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "22",
+            "category_name": "Lorum Ipsum 22",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/22.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "23",
+            "category_name": "Lorum Ipsum 23",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/23.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "24",
+            "category_name": "Lorum Ipsum 24",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/24.png",
+			"category_url": "https://www.google.com/",
+            "is_active": "1"
+        }		
+    ]
+}
