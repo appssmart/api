@@ -41,14 +41,8 @@
 		"agora_app_id": "b97269088902494ba9f7a0ccb9cd2069",
 		"agora_channel": "demoChannel1",
 		"agora_app_certificate": "e9a915eb42274af9976f8845dc7650d8",
-		"interstitial_priority_eight": [
-		  "google",
-		  "mopub",
-		  "google",
-		  "mopub",
-		  "googleTwo",
-		  "mopub"
-		]
+		"interstitial_priority_eight": ["","google","","","mopub","mopub","","googletwo",""],
+		"spalsh_interstitial_priority_seven": ["appopen_google"]		
       }	  
   ]
 }
