@@ -19,7 +19,7 @@
             "interstitial_priority": ["","google","","","googletwo","imgbanner"],
 			"spalsh_interstitial_priority": ["appopen_google"],
             "ad_interval_time": 0,
-            "interstitial_skip": 3,
+            "interstitial_skip": 0,
             "native_skip": 0,
             "native_banner_skip": 0,
             "native_ads": "n"
