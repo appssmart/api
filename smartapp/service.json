@@ -1,4 +1,8 @@
-[
+{
+    "status": "1",
+    "data": [
+
+
   {
     "icon": "https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
     "appList": [
@@ -345,3 +349,4 @@
     "category": "new"
   }
 ]
+}
