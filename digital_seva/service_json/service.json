@@ -1,350 +1,77 @@
 {
-   "status":"1",
-   "data":[
-      {
-         "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
-         "appList":[
-            {
-               "url":"https://www.messenger.com/",
-               "name":"Messanger",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/messenger.png"
-            },
-            {
-               "url":"https://www.instagram.com/",
-               "name":"Instagram",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/instagram.png"
-            },
-            {
-               "url":"https://www.facebook.com/",
-               "name":"Facebook",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/facebook.png"
-            },
-            {
-               "url":"https://www.messenger.com/",
-               "name":"Messanger",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/messenger.png"
-            },
-            {
-               "url":"https://www.facebook.com/",
-               "name":"Facebook",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/facebook.png"
-            },
-            {
-               "url":"https://www.instagram.com/",
-               "name":"Instagram",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/instagram.png"
-            },
-            {
-               "url":"https://www.facebook.com/",
-               "name":"Facebook",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/facebook.png"
-            },
-            {
-               "url":"https://www.instagram.com/",
-               "name":"Instagram",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/instagram.png"
-            },
-            {
-               "url":"https://www.messenger.com/",
-               "name":"Messanger",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/messenger.png"
-            },
-            {
-               "url":"https://www.messenger.com/",
-               "name":"Messanger",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/messenger.png"
-            },
-            {
-               "url":"https://www.facebook.com/",
-               "name":"Facebook",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/facebook.png"
-            },
-            {
-               "url":"https://www.instagram.com/",
-               "name":"Instagram",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/instagram.png"
-            },
-            {
-               "url":"https://www.messenger.com/",
-               "name":"Messanger",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/messenger.png"
-            },
-            {
-               "url":"https://www.instagram.com/",
-               "name":"Instagram",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/instagram.png"
-            },
-            {
-               "url":"https://www.facebook.com/",
-               "name":"Facebook",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/facebook.png"
-            },
-            {
-               "url":"https://www.messenger.com/",
-               "name":"Messanger",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/messenger.png"
-            },
-            {
-               "url":"https://www.facebook.com/",
-               "name":"Facebook",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/facebook.png"
-            },
-            {
-               "url":"https://www.messenger.com/",
-               "name":"Messanger",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/messenger.png"
-            },
-            {
-               "url":"https://www.instagram.com/",
-               "name":"Instagram",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/instagram.png"
-            },
-            {
-               "url":"https://www.facebook.com/",
-               "name":"Facebook",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/facebook.png"
-            },
-            {
-               "url":"https://www.messenger.com/",
-               "name":"Messanger",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/messenger.png"
-            },
-            {
-               "url":"https://www.facebook.com/",
-               "name":"Facebook",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/facebook.png"
-            },
-            {
-               "url":"https://www.messenger.com/",
-               "name":"Messanger",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/messenger.png"
-            },
-            {
-               "url":"https://www.instagram.com/",
-               "name":"Instagram",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/instagram.png"
-            },
-            {
-               "url":"https://www.facebook.com/",
-               "name":"Facebook",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/facebook.png"
-            },
-            {
-               "url":"https://www.messenger.com/",
-               "name":"Messanger",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/messenger.png"
-            },
-            {
-               "url":"https://www.facebook.com/",
-               "name":"Facebook",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/facebook.png"
-            }
-         ],
-         "category":"social"
-      },
-      {
-         "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/shopping-cart.png",
-         "appList":[
-            {
-               "url":"https://www.amazon.in/",
-               "name":"Amazon",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/amazon.png"
-            },
-            {
-               "url":"https://www.flipkart.com/",
-               "name":"Flipkart",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/flipkart.png"
-            },
-            {
-               "url":"https://paytm.com/",
-               "name":"Paytm",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/paytm.png"
-            },
-            {
-               "url":"https://www.amazon.in/",
-               "name":"Amazon",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/amazon.png"
-            },
-            {
-               "url":"https://www.flipkart.com/",
-               "name":"Flipkart",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/flipkart.png"
-            },
-            {
-               "url":"https://paytm.com/",
-               "name":"Paytm",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/paytm.png"
-            },
-            {
-               "url":"https://www.flipkart.com/",
-               "name":"Flipkart",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/flipkart.png"
-            },
-            {
-               "url":"https://paytm.com/",
-               "name":"Paytm",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/paytm.png"
-            },
-            {
-               "url":"https://paytm.com/",
-               "name":"Paytm",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/paytm.png"
-            },
-            {
-               "url":"https://www.flipkart.com/",
-               "name":"Flipkart",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/flipkart.png"
-            }
-         ],
-         "category":"shopping"
-      },
-      {
-         "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/games.png",
-         "appList":[
-            {
-               "url":"https://na.battlegrounds.pubg.com/",
-               "name":"Pubg",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/pubg.png"
-            },
-            {
-               "url":"https://na.battlegrounds.pubg.com/",
-               "name":"Pubg",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/pubg.png"
-            },
-            {
-               "url":"https://na.battlegrounds.pubg.com/",
-               "name":"Pubg",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/pubg.png"
-            },
-            {
-               "url":"https://na.battlegrounds.pubg.com/",
-               "name":"Pubg",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/pubg.png"
-            },
-            {
-               "url":"https://na.battlegrounds.pubg.com/",
-               "name":"Pubg",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/pubg.png"
-            },
-            {
-               "url":"https://na.battlegrounds.pubg.com/",
-               "name":"Pubg",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/pubg.png"
-            },
-            {
-               "url":"https://na.battlegrounds.pubg.com/",
-               "name":"Pubg",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/pubg.png"
-            },
-            {
-               "url":"https://na.battlegrounds.pubg.com/",
-               "name":"Pubg",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/pubg.png"
-            },
-            {
-               "url":"https://na.battlegrounds.pubg.com/",
-               "name":"Pubg",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/pubg.png"
-            },
-            {
-               "url":"https://na.battlegrounds.pubg.com/",
-               "name":"Pubg",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/pubg.png"
-            }
-         ],
-         "category":"games"
-      },
-      {
-         "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/Photos.png",
-         "appList":[
-            {
-               "url":"https://picsart.com/",
-               "name":"Picsart",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/picsart.png"
-            },
-            {
-               "url":"https://snapseed.online/",
-               "name":"Snapseed",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/snapseed.png"
-            },
-            {
-               "url":"https://www.canva.com/",
-               "name":"Canva",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/canva.png"
-            },
-            {
-               "url":"https://www.adobe.com/in/products/photoshop-lightroom",
-               "name":"Lightroom",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/lightroom.png"
-            },
-            {
-               "url":"https://picsart.com/",
-               "name":"Picsart",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/picsart.png"
-            },
-            {
-               "url":"https://snapseed.online/",
-               "name":"Snapseed",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/snapseed.png"
-            },
-            {
-               "url":"https://www.canva.com/",
-               "name":"Canva",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/canva.png"
-            },
-            {
-               "url":"https://www.adobe.com/in/products/photoshop-lightroom",
-               "name":"Lightroom",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/lightroom.png"
-            }
-         ],
-         "category":"Photos"
-      },
-      {
-         "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/Photos.png",
-         "appList":[
-            {
-               "url":"https://picsart.com/",
-               "name":"Picsart",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/picsart.png"
-            },
-            {
-               "url":"https://snapseed.online/",
-               "name":"Snapseed",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/snapseed.png"
-            },
-            {
-               "url":"https://www.canva.com/",
-               "name":"Canva",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/canva.png"
-            },
-            {
-               "url":"https://www.adobe.com/in/products/photoshop-lightroom",
-               "name":"Lightroom",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/lightroom.png"
-            },
-            {
-               "url":"https://picsart.com/",
-               "name":"Picsart",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/picsart.png"
-            },
-            {
-               "url":"https://snapseed.online/",
-               "name":"Snapseed",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/snapseed.png"
-            },
-            {
-               "url":"https://www.canva.com/",
-               "name":"Canva",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/canva.png"
-            },
-            {
-               "url":"https://www.adobe.com/in/products/photoshop-lightroom",
-               "name":"Lightroom",
-               "appIcon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/lightroom.png"
-            }
-         ],
-         "category":"new"
-      }
-   ]
+  "data": [
+    {
+      "id": 1,
+      "name": "Dummy 1",
+      "mainImage": "https://raw.githubusercontent.com/HardikKotadiya16/Test/main/background/test1.jpg",
+      "thumbImage": ""
+    },
+    {
+      "id": 2,
+      "name": "Dummy 2",
+      "mainImage": "https://raw.githubusercontent.com/HardikKotadiya16/Test/main/background/test2.jpg",
+      "thumbImage": ""
+    },
+    {
+      "id": 3,
+      "name": "Dummy 3",
+      "mainImage": "https://raw.githubusercontent.com/HardikKotadiya16/Test/main/background/test3.jpg",
+      "thumbImage": ""
+    },
+    {
+      "id": 4,
+      "name": "Dummy 4",
+      "mainImage": "https://raw.githubusercontent.com/HardikKotadiya16/Test/main/background/test4.jpg",
+      "thumbImage": ""
+    },
+    {
+      "id": 5,
+      "name": "Dummy 5",
+      "mainImage": "https://raw.githubusercontent.com/HardikKotadiya16/Test/main/background/test1.jpg",
+      "thumbImage": ""
+    },
+    {
+      "id": 6,
+      "name": "Dummy 6",
+      "mainImage": "https://raw.githubusercontent.com/HardikKotadiya16/Test/main/background/test2.jpg",
+      "thumbImage": ""
+    },
+    {
+      "id": 7,
+      "name": "Dummy 7",
+      "mainImage": "https://raw.githubusercontent.com/HardikKotadiya16/Test/main/background/test3.jpg",
+      "thumbImage": ""
+    },
+    {
+      "id": 8,
+      "name": "Dummy 8",
+      "mainImage": "https://raw.githubusercontent.com/HardikKotadiya16/Test/main/background/test4.jpg",
+      "thumbImage": ""
+    },
+    {
+      "id": 9,
+      "name": "Dummy 9",
+      "mainImage": "https://raw.githubusercontent.com/HardikKotadiya16/Test/main/background/test1.jpg",
+      "thumbImage": ""
+    },
+    {
+      "id": 10,
+      "name": "Dummy 10",
+      "mainImage": "https://raw.githubusercontent.com/HardikKotadiya16/Test/main/background/test2.jpg",
+      "thumbImage": ""
+    },
+    {
+      "id": 11,
+      "name": "Dummy 11",
+      "mainImage": "https://raw.githubusercontent.com/HardikKotadiya16/Test/main/background/test3.jpg",
+      "thumbImage": ""
+    },
+    {
+      "id": 12,
+      "name": "Dummy 12",
+      "mainImage": "https://raw.githubusercontent.com/HardikKotadiya16/Test/main/background/test4.jpg",
+      "thumbImage": ""
+    }
+  ],
+  "status": "1"
 }
