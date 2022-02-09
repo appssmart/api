@@ -35,6 +35,27 @@
             "category_link": "https://resident.uidai.gov.in/order-reprint",
             "main_category_id": "1",
             "is_active": "1"
+        },
+        {
+            "id": "6",
+            "category_name": "Check Aadhaar Reprint Status",
+            "category_link": "https://resident.uidai.gov.in/check-reprint-status",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "7",
+            "category_name": "Update Address Online",
+            "category_link": "https://ssup.uidai.gov.in/ssup/login.html",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "8",
+            "category_name": "Aadhaar Services",
+            "category_link": "https://uidai.gov.in/my-aadhaar/avail-aadhaar-services.html",
+            "main_category_id": "1",
+            "is_active": "1"
         }
     ]
 }

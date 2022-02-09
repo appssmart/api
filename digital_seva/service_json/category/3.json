@@ -2,24 +2,38 @@
     "status": "1",
     "data": [
         {
-            "id": "20",
-            "category_name": "What is DigiLocker",
-            "category_link": "https://digilocker.gov.in/about.html",
-            "main_category_id": "3",
+            "id": "1",
+            "category_name": "What is Aadhaar",
+            "category_link": "https://uidai.gov.in/my-aadhaar/about-your-aadhaar.html",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "21",
-            "category_name": "Digi Locker SignUp",
-            "category_link": "https://digilocker.gov.in/public/websignup#!",
-            "main_category_id": "3",
+            "id": "2",
+            "category_name": "Check Aadhaar Status",
+            "category_link": "https://resident.uidai.gov.in/check-aadhaar",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "22",
-            "category_name": "Digi Locker Login",
-            "category_link": "https://digilocker.gov.in/index.php#no-back",
-            "main_category_id": "3",
+            "id": "3",
+            "category_name": "Download Aadhaar",
+            "category_link": "https://eaadhaar.uidai.gov.in/#/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Retrieve Lost or Forgotten EID/UID",
+            "category_link": "https://resident.uidai.gov.in/lost-uideid",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Order Aadhaar Reprint",
+            "category_link": "https://resident.uidai.gov.in/order-reprint",
+            "main_category_id": "1",
             "is_active": "1"
         }
     ]
