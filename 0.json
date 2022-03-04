@@ -40,7 +40,8 @@
 		"agora_app_certificate": "e9a915eb42274af9976f8845dc7650d8",
 		"faceSwapLimit": 0,
 		"img_upload_api": "http://178.62.25.207:8585/upload",
-		"img_check_api": "http://178.62.25.207:8585/check"
+		"img_check_api": "http://178.62.25.207:8585/check",
+		"isPhotoApiEnable":"y"
       }
   ]
 }
