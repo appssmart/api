@@ -41,7 +41,9 @@
 		"faceSwapLimit": 0,
 		"img_upload_api": "http://178.62.25.207:8585/upload",
 		"img_check_api": "http://178.62.25.207:8585/check",
-		"isPhotoApiEnable":"y"
+		"face_swap_upload_api":"https://access1.imglarger.com/PhoAi/Upload",
+		"face_swap_check_api":"https://access1.imglarger.com/PhoAi/CheckStatus",
+		"isPhotoApiEnable":"n"
       }
   ]
 }
