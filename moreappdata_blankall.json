@@ -1,0 +1,21 @@
+{
+  "status": "1",
+  "data": [
+      {
+        "is_slider_one": "n",
+        "is_slider_one_url": "",
+        "is_slider_two": "n",
+        "is_slider_two_url": "",
+        "is_more_app": "n",
+        "is_more_app_url": "",
+        "disclaimer_message": "",
+        "is_image_playstore": "n",
+        "package_name": "",
+        "img_url_splash": "",
+        "img_native_ad": "",
+        "img_banner_ad": "",
+		"img_banner_ad_large": "",
+        "weblink": ""
+      }
+  ]
+}
