@@ -28,7 +28,7 @@
 		"native_priority": ["google"],
 		"banner_priority": "1",
 		"interstitial_priority": ["google","","","",""],
-		"spalsh_interstitial_priority": ["google","","","",""],
+		"spalsh_interstitial_priority": ["google"],
 		"adCountInCategory": 4,
 		"isActivitySkip": "n",
 		"ad_interval_time": "0",		
