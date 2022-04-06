@@ -25,7 +25,7 @@
 		"moreapp_json": "https://raw.githubusercontent.com/appssmart/api/main/moreappdata_json.json",
 		"app_title": "Information",
 		"interstitial_skip": 0,
-		"native_priority": ["google"],
+		"native_priority": ["tapdaq"],
 		"banner_priority": "1",
 		"interstitial_priority": ["tapdaq"],
 		"spalsh_interstitial_priority": ["tapdaq"],
