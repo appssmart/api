@@ -27,7 +27,7 @@
 		"app_title": "Information",
 		"interstitial_skip": 0,
 		"native_priority": ["tapdaq"],
-		"banner_priority": "4",
+		"banner_priority": "5",
 		"interstitial_priority": ["ironsource"],
 		"spalsh_interstitial_priority": ["ironsource"],
 		"adCountInCategory": 4,
