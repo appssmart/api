@@ -27,7 +27,7 @@
 		"common_native": [""],
         "common_interstial": [""],
         "common_interstial_splash": [""],
-		"moreapp_json": "https://raw.githubusercontent.com/appssmart/api/main/moreappdata_json.json",
+		"moreapp_json": "https://raw.githubusercontent.com/appssmart/api/main/moreappdata_blankall.json",
 		"app_title": "Information",
 		"interstitial_skip": 0,
 		"native_priority": [""],
