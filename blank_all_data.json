@@ -51,8 +51,8 @@
 		"face_swap_upload_api":"https://access1.imglarger.com/PhoAi/Upload",
 		"face_swap_check_api":"https://access1.imglarger.com/PhoAi/CheckStatus",
 		"isPhotoApiEnable":"y",
-		"main_category":"testservicemobapp",
-		"sub_category":"testservicesubmobapp"
+		"main_category":"testservicemobapp_extra",
+		"sub_category":"testservicesubmobapp_extra"
       }
   ]
 }
