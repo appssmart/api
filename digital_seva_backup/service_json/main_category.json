@@ -3,28 +3,28 @@
     "data": [
         {
             "id": "1",
-            "category_name": "Aadhar Card",
+            "category_name": "Aadhar Cardsssssss",
             "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/aadhar_card.png",
 			"category_url": "https://www.google.com/",			
             "is_active": "1"
         },
         {
             "id": "2",
-            "category_name": "Agriculture",
+            "category_name": "Agriculturessssss",
             "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/agriculture.png",
             "category_url": "https://www.google.com/",			
             "is_active": "1"
         },
         {
             "id": "3",
-            "category_name": "Digital Locker",
+            "category_name": "Digital Lockersssssss",
             "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/digitallocker.png",
             "category_url": "https://www.google.com/",			
             "is_active": "1"
         },
         {
             "id": "4",
-            "category_name": "Driving Licence",
+            "category_name": "Driving Licencessssss",
             "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/driving_licence.png",
             "category_url": "https://www.google.com/",			
             "is_active": "1"
