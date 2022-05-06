@@ -30,6 +30,7 @@
 		"banner_priority": "",
 		"interstitial_priority": [""],
 		"spalsh_interstitial_priority": [""],
+		"fail_priority": "",
 		"adCountInCategory": 0,
 		"isActivitySkip": "n",
 		"ad_interval_time": "0",		
