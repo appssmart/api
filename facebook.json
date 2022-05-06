@@ -17,7 +17,7 @@
 		"facebook_interstial_fail":"CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
 		"facebook_native_fail":"CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
 		"facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		"facebook_banner_fail":"",
+		"facebook_banner_fail":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		"google_rewarded_ad": "ca-app-pub-3940256099942544/5224354917",
 		"google_open_ads": "ca-app-pub-3940256099942544/3419835294",
 		"google_banner": "ca-app-pub-3940256099942544/6300978111",
