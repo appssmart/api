@@ -120,7 +120,7 @@
         "packageId": 100,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_guide_doc.png"
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_guide_doc.jpg"
       },
       {
         "clearName": "Yupp TV",
@@ -130,7 +130,7 @@
         "packageId": 255,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_yupp_tv.png"
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_yupp_tv.jpg"
       },
       {
         "clearName": "Sun Nxt",
@@ -140,7 +140,7 @@
         "packageId": 309,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_sun_next.png"
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_sun_next.jpg"
       },
       {
         "clearName": "Alt Balaji",
@@ -180,7 +180,7 @@
         "packageId": 474,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_shemaroo.png"
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_shemaroo.jpg"
       },
       {
         "clearName": "Tata Sky",
@@ -190,7 +190,7 @@
         "packageId": 502,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_tata_sky.png"
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_tata_sky.jpg"
       },
       {
         "clearName": "Discovery Plus",
@@ -200,7 +200,7 @@
         "packageId": 510,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_discovery.png"
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_discovery.jpg"
       },
       {
         "clearName": "ManoramaMax",
