@@ -31,7 +31,7 @@
 		"google_interstial_fail": "",
 		"google_native_fail": "",		
 		"applovin_native_fail": "",
-		"facebook_native_banner":[""],
+		"facebook_native_banner": "",
 		"common_native": [""],
         "common_interstial": [""],
         "common_interstial_splash": [""],
