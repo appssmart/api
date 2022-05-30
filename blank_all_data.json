@@ -16,6 +16,8 @@
 		"facebook_native_fail":"",
 		"facebook_banner":"",
 		"facebook_banner_fail":"",
+		"facebook_native_banner":"",
+		"facebook_native_banner_fail":"",
 		"google_rewarded_ad": "",
 		"google_open_ads": "",
 		"google_banner": "",
