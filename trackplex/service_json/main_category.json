@@ -72,6 +72,16 @@
         "is_enable": true,
         "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_eros_now.png"
       },
+	  {
+        "clearName": "MX player",
+		"id": "cGF8NTE1",
+		"shortName": "mxp",
+		"technicalName": "mxplayer",
+		"packageId": 515,
+		"selected": false,
+		"is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/mx_player_icon.png"
+      },
       {
         "clearName": "Mubi",
         "id": "cGF8MTE=",
