@@ -35,6 +35,7 @@
         "common_interstial": ["b6255003ca1678"],
         "common_interstial_splash": ["b6255003ca1678"],
 		"moreapp_json": "https://raw.githubusercontent.com/appssmart/api/main/moreappdata_json.json",
+		"moreapp_json_new": "https://raw.githubusercontent.com/appssmart/api/main/moreappdata_json.json
 		"app_title": "Information",
 		"interstitial_skip": 2,
 		"native_priority": ["toponad"],
