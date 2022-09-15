@@ -5,22 +5,32 @@
       "id": 1,
       "type": "birthday",
       "title": "Birthday",
-      "icon": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/img/birthday_icon.png",
+      "icon": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/birthday/icon.png",
       "background": [
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/img/birthday_1.png"
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/birthday/birthday/birthday_1.png",
+          "thumb":"https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/birthday/birthday/birthday_thumb_1.png",
+          "name":"birthday_1"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/img/birthday_2.png"
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/birthday/birthday/birthday_2.png",
+          "thumb":"https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/birthday/birthday/birthday_thumb_2.png",
+          "name":"birthday_2"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/img/birthday_3.png"
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/birthday/birthday/birthday_3.png",
+          "thumb":"https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/birthday/birthday/birthday_thumb_3.png",
+          "name":"birthday_3"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/img/birthday_4.png"
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/birthday/birthday/birthday_4.png",
+          "thumb":"https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/birthday/birthday/birthday_thumb_4.png",
+          "name":"birthday_4"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/img/birthday_5.png"
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/birthday/birthday/birthday_5.png",
+          "thumb":"https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/birthday/birthday/birthday_thumb_5.png",
+          "name":"birthday_5"
         }
       ]
     },
@@ -28,22 +38,37 @@
       "id": 2,
       "type": "bokeh",
       "title": "Bokeh",
-      "icon": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/img/bokeh_icon.png",
+      "icon": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/bokeh/icon.png",
       "background": [
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/img/bokeh_1.png"
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/bokeh/bokeh/1.png",
+          "thumb":"https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/bokeh/bokeh/1_thumb.png",
+          "name":"bokeh_1"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/img/bokeh_2.png"
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/bokeh/bokeh/1.png",
+          "thumb":"https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/bokeh/bokeh/1_thumb.png",
+          "name":"bokeh_2"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/img/bokeh_3.png"
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/bokeh/bokeh/1.png",
+          "thumb":"https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/bokeh/bokeh/1_thumb.png",
+          "name":"bokeh_3"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/img/bokeh_4.png"
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/bokeh/bokeh/1.png",
+          "thumb":"https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/bokeh/bokeh/1_thumb.png",
+          "name":"bokeh_4"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/img/bokeh_5.png"
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/bokeh/bokeh/1.png",
+          "thumb":"https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/bokeh/bokeh/1_thumb.png",
+          "name":"bokeh_5"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/bokeh/bokeh/1.png",
+          "thumb":"https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/bokeh/bokeh/1_thumb.png",
+          "name":"bokeh_6"
         }
       ]
     }
