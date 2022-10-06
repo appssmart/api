@@ -13,35 +13,35 @@
           "ratio": "1:1"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_16_9_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_16_9_thumb.png",
 		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_16_9.png",
           "title": "",
           "imagesize": "1920X1080",
           "ratio": "16:9"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_9_16_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_9_16_thumb.png",
           "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_9_16.png",
           "title": "",
           "imagesize": "1080X1920",
           "ratio": "9:16"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_4_3_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_4_3_thumb.png",
           "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_4_3.png",
           "title": "",
           "imagesize": "1440X1080",
           "ratio": "4:3"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_3_4_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_3_4_thumb.png",
           "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_3_4.png",
           "title": "",
           "imagesize": "1080X1440",
           "ratio": "3:4"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_2_3_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_2_3_thumb.png",
           "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_2_3.png",
           "title": "",
           "imagesize": "1080X1620",
@@ -54,42 +54,42 @@
       "name": "Facebook",
       "size": [
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_851_315_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_851_315_thumb.png",
           "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_851_315.png",
           "title": "",
           "imagesize": "851X315",
           "ratio": "205:78"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_940_788_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_940_788_thumb.png",
 		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_940_788.png",
           "title": "Post",
           "imagesize": "940X788",
           "ratio": "5:3"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_810_450_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_810_450_thumb.png",
 		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_810_450.png",
           "title": "App Image",
           "imagesize": "810X450",
           "ratio": "3:2"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_1200_627_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_1200_627_thumb.png",
 		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_1200_627.png",
           "title": "Ad Image",
           "imagesize": "1200X628",
           "ratio": "16:9"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_720_720_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_720_720_thumb.png",
 		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_720_720.png",
           "title": "Profile Image",
           "imagesize": "720X720",
           "ratio": "1:1"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_820_428_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_820_428_thumb.png",
 		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_820_428.png",
           "title": "Group Cover Photo",
           "imagesize": "820X428",
@@ -102,21 +102,21 @@
       "name": "Instagram",
       "size": [
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/insta_1080_1080_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/insta_1080_1080_thumb.png",
 		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/insta_1080_1080.png",
           "title": "Post",
           "imagesize": "1080X1080",
           "ratio": "1:1"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/insta_1080_1350_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/insta_1080_1350_thumb.png",
 		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/insta_1080_1350.png",
           "title": "Post",
           "imagesize": "1080X1350",
           "ratio": "4:5"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/insta_1080_566_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/insta_1080_566_thumb.png",
 		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/insta_1080_566.png",
           "title": "Post",
           "imagesize": "1080X566",
@@ -129,21 +129,21 @@
       "name": "Twitter",
       "size": [
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter_1500_500_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter_1500_500_thumb.png",
           "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter_1500_500.png",
           "title": "",
           "imagesize": "1500X500",
           "ratio": "3:1"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter__1024_512_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter__1024_512_thumb.png",
 		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter__1024_512.png",
           "title": "Post",
           "imagesize": "1024X512",
           "ratio": "7:8"
         },
         {
-          "image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter_200_200_thumb.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter_200_200_thumb.png",
 		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter_200_200.png",
           "title": "Profile Image",
           "imagesize": "200X200",
