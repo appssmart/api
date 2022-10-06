@@ -1,0 +1,117 @@
+{
+    "status": "1",
+  "data": [
+    {
+      "id": 1,
+      "templeteCategory": "Business",
+      "templete": [
+        {
+          "frame": [
+            {
+              "X": "64.635",
+              "Y": "501.27 ",
+              "type": "background",
+              "image": "https://business_1_bg_image.png",
+              "width": "361.54",
+              "height": "361.54"
+            }
+          ],
+          "image": "https://business_bg_1.png",
+          "thumb": "https://business_thumbnail_1.png",
+          "object": [
+            {
+              "X": "87.9571",
+              "Y": "182.7532",
+              "image": "https://business_1_object_1.png",
+              "width": "112.6581",
+              "height": "33.2927"
+            },
+            {
+              "X": "0",
+              "Y": "199.3996",
+              "image": "https://business_1_object_2.png",
+              "width": "133.0211",
+              "height": "313.3739"
+            },
+            {
+              "X": "612.891",
+              "Y": "398.8847",
+              "image": "https://business_1_object_3.png",
+              "width": "76.8946",
+              "height": "96.6832"
+            },
+            {
+              "X": "329.863",
+              "Y": "508.6896",
+              "image": "https://business_1_object_4.png",
+              "width": "113.6001",
+              "height": "62.6209"
+            },
+            {
+              "X": "655.5895",
+              "Y": "600.3988",
+              "image": "https://business_1_object_5.png",
+              "width": "124.1477",
+              "height": "353.3037"
+            },
+            {
+              "X": "494.2091",
+              "Y": "863.4539",
+              "image": "https://business_1_object_6.png",
+              "width": "112.6581",
+              "height": "33.2922"
+            },
+            {
+              "X": "162.587",
+              "Y": "925.212",
+              "image": "https://business_1_object_7.png",
+              "width": "88.1525",
+              "height": "89.5457"
+            },
+            {
+              "X": "40.0664",
+              "Y": "476.7286",
+              "image": "https://business_1_object_8.png",
+              "width": "403.3936",
+              "height": "403.3713"
+            }
+          ],
+          "content": [
+            {
+              "text": "LIVE WEBINAR",
+              "color": "#303030",
+              "fontSize": "23",
+              "fontType": "Roboto Regular",
+              "positionX": "631.8535",
+              "positionY": "95.8772"
+            },
+            {
+              "text": "GREAT BUSINESS",
+              "color": "#414042",
+              "fontSize": "62",
+              "fontType": "Roboto Bold",
+              "positionX": "490.5928",
+              "positionY": "154.5654"
+            },
+            {
+              "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing\nelit, sed diam nonummy nibh euismod tincidunt ut\nlaoreet dolore magna aliquam erat volutpat. Ut wisi",
+              "color": "#303030",
+              "fontSize": "20",
+              "fontType": "Roboto Light",
+              "positionX": "506.2363",
+              "positionY": "242.0132"
+            },
+            {
+              "text": "www.yourwebsite.in",
+              "color": "#58595b",
+              "fontSize": "23",
+              "fontType": "Roboto Regular",
+              "positionX": "628.3037",
+              "positionY": "311.1155"
+            }
+          ]
+         }
+        ]
+       }
+      ]
+     }

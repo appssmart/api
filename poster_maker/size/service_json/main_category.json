@@ -1,0 +1,155 @@
+{
+  "status": "1",
+  "data": [
+    {
+      "id": 1,
+      "name": "Ratio",
+      "size": [
+        {
+          "image_thumb": "",
+		  "image_large": "",
+          "title": "",
+          "imagesize": "1080X1080",
+          "ratio": "1:1"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/16.9_thumb.png",
+		  "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "",
+          "imagesize": "1920X1080",
+          "ratio": "16:9"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/9.16_thumb.png",
+          "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "",
+          "imagesize": "1080X1920",
+          "ratio": "9:16"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/4.3_thumb.png",
+          "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "",
+          "imagesize": "1440X1080",
+          "ratio": "4:3"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/3.4_thumb.png",
+          "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "",
+          "imagesize": "1080X1440",
+          "ratio": "3:4"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/2.3_thumb.png",
+          "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "",
+          "imagesize": "1080X1620",
+          "ratio": "2:3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Facebook",
+      "size": [
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/851X315_thumb.png",
+          "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "",
+          "imagesize": "851X315",
+          "ratio": "205:78"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/940X788_thumb.png",
+		  "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "Post",
+          "imagesize": "940X788",
+          "ratio": "5:3"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/810X450_thumb.png",
+		  "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "App Image",
+          "imagesize": "810X450",
+          "ratio": "3:2"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/1200X627_thumb.png",
+		  "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "Ad Image",
+          "imagesize": "1200X628",
+          "ratio": "16:9"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/720X720_thumb.png",
+		  "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "Profile Image",
+          "imagesize": "720X720",
+          "ratio": "1:1"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/820X428_thumb.png",
+		  "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "Group Cover Photo",
+          "imagesize": "820X428",
+          "ratio": "2:1"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Instagram",
+      "size": [
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Instagram/1080X1080_thumb.png",
+		  "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "Post",
+          "imagesize": "1080X1080",
+          "ratio": "1:1"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Instagram/1080X1350_thumb.png",
+		  "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "Post",
+          "imagesize": "1080X1350",
+          "ratio": "4:5"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Instagram/1080X566_thumb.png",
+		  "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "Post",
+          "imagesize": "1080X566",
+          "ratio": "1.91:1"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Twitter",
+      "size": [
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Twitter/1500X500_thumb.png",
+          "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "",
+          "imagesize": "1500X500",
+          "ratio": "3:1"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Twitter/1024X512_thumb.png",
+		  "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "Post",
+          "imagesize": "1024X512",
+          "ratio": "7:8"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Twitter/200X200_thumb.png",
+		  "image_large": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1_thumb.png",
+          "title": "Profile Image",
+          "imagesize": "200X200",
+          "ratio": "1:1"
+        }
+      ]
+    }
+  ]
+}
