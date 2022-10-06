@@ -17,7 +17,8 @@
 						}
 					],
 					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_1.png",
-					"thumb": "https://business_thumbnail_1.png",
+					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_1.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1.png",
 					"object": [
 						{
 							"X": "87.9571",
@@ -124,6 +125,7 @@
 					],
 					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_2.png",
 					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_2.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2.png",
 					"object": [
 						{
 							"X": "43.8579",
@@ -224,6 +226,7 @@
 					],
 					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_3.png",
 					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_3.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_3.png",
 					"object": [
 						{
 							"X": "43.774",
@@ -319,6 +322,7 @@
 					],
 					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_4.png",
 					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_4.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_4.png",
 					"object": [
 						{
 							"X": "60.458",
@@ -404,6 +408,7 @@
 					],
 					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_5.png",
 					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_5.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_5.png",
 					"object": [
 						{
 							"X": "492.5",
@@ -544,6 +549,7 @@
 					],
 					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_6.png",
 					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_6.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_6.png",
 					"object": [
 						{
 							"X": "0",
@@ -693,6 +699,7 @@
 					],
 					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_7.png",
 					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_7.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_7.png",
 					"object": [
 						{
 							"X": "28.8289",
@@ -779,6 +786,7 @@
 					],
 					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_8.png",
 					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_8.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_8.png",
 					"object": [
 						{
 							"X": "645.0386",
@@ -906,6 +914,7 @@
 					],
 					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_9.png",
 					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_9.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_9.png",
 					"object": [
 						{
 							"X": "361.0839",
@@ -1042,6 +1051,7 @@
 					],
 					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_10.png",
 					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_10.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_10.png",
 					"object": [
 						{
 							"X": "36.4941",
