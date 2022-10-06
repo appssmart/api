@@ -8,65 +8,65 @@
 					"X": "64.635",
 					"Y": "501.27 ",
 					"type": "background",
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_bg_image.png",
+					"image": "https://business_1_bg_image.png",
 					"width": "361.54",
 					"height": "361.54"
 				}],
-				"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_1.png",
+				"image": "https://business_bg_1.png",
 				"thumb": "https://business_thumbnail_1.png",
 				"object": [{
 						"X": "87.9571",
 						"Y": "182.7532",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_1.png",
+						"image": "https://business_1_object_1.png",
 						"width": "112.6581",
 						"height": "33.2927"
 					},
 					{
 						"X": "0",
 						"Y": "199.3996",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_2.png",
+						"image": "https://business_1_object_2.png",
 						"width": "133.0211",
 						"height": "313.3739"
 					},
 					{
 						"X": "612.891",
 						"Y": "398.8847",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_3.png",
+						"image": "https://business_1_object_3.png",
 						"width": "76.8946",
 						"height": "96.6832"
 					},
 					{
 						"X": "329.863",
 						"Y": "508.6896",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_4.png",
+						"image": "https://business_1_object_4.png",
 						"width": "113.6001",
 						"height": "62.6209"
 					},
 					{
 						"X": "655.5895",
 						"Y": "600.3988",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_5.png",
+						"image": "https://business_1_object_5.png",
 						"width": "124.1477",
 						"height": "353.3037"
 					},
 					{
 						"X": "494.2091",
 						"Y": "863.4539",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_6.png",
+						"image": "https://business_1_object_6.png",
 						"width": "112.6581",
 						"height": "33.2922"
 					},
 					{
 						"X": "162.587",
 						"Y": "925.212",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_7.png",
+						"image": "https://business_1_object_7.png",
 						"width": "88.1525",
 						"height": "89.5457"
 					},
 					{
 						"X": "40.0664",
 						"Y": "476.7286",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_8.png",
+						"image": "https://business_1_object_8.png",
 						"width": "403.3936",
 						"height": "403.3713"
 					}
@@ -110,51 +110,51 @@
 					"X": "62.5484",
 					"Y": "304.648",
 					"type": "background",
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_bg_image.png",
+					"image": "https://business_2_bg_image.png",
 					"width": "350.5648",
 					"height": "350.5648"
 				}],
-				"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_2.png",
-				"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_2.png",
+				"image": "https://business_bg_2.png",
+				"thumb": "https://business_thumbnail_2.png",
 				"object": [{
 						"X": "43.8579",
 						"Y": "35.5354",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_1.png",
+						"image": "https://business_2_object_1.png",
 						"width": "78.344",
 						"height": "39.1064"
 					},
 					{
 						"X": "52.3605",
 						"Y": "286.9479",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_2.png",
+						"image": "https://business_2_object_2.png",
 						"width": "49.1106",
 						"height": "49.1107"
 					},
 					{
 						"X": "608.5885",
 						"Y": "309.8532",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_3.png",
+						"image": "https://business_2_object_3.png",
 						"width": "122.0043",
 						"height": "60.9"
 					},
 					{
 						"X": "54.7789",
 						"Y": "757.493",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_4.png",
+						"image": "https://business_2_object_4.png",
 						"width": "64.8842",
 						"height": "129.9853"
 					},
 					{
 						"X": "654.0906",
 						"Y": "905.9931",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_5.png",
+						"image": "https://business_2_object_5.png",
 						"width": "57.8797",
 						"height": "57.8797"
 					},
 					{
 						"X": "44.94",
 						"Y": "287.19",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_6.png",
+						"image": "https://business_2_object_6.png",
 						"width": "385.78",
 						"height": "385.78"
 					}
@@ -206,30 +206,30 @@
 					"X": "341.5295",
 					"Y": "0.4502",
 					"type": "background",
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_3_bg_image.png",
+					"image": "https://business_3_bg_image.png",
 					"width": "438.0405",
 					"height": "1079.0995"
 				}],
-				"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_3.png",
-				"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_3.png",
+				"image": "https://business_bg_3.png",
+				"thumb": "https://business_thumbnail_3.png",
 				"object": [{
 						"X": "43.774",
 						"Y": "45.3457",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_3_object_1.png",
+						"image": "https://business_3_object_1.png",
 						"width": "60.3214",
 						"height": "80.4694"
 					},
 					{
 						"X": "463.8",
 						"Y": "0",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_3_object_2.png",
+						"image": "https://business_3_object_2.png",
 						"width": "168.28",
 						"height": "153.45"
 					},
 					{
 						"X": "321.0433",
 						"Y": "997.934",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_3_object_3.png",
+						"image": "https://business_3_object_3.png",
 						"width": "107.5977",
 						"height": "82.066"
 					}
@@ -297,44 +297,44 @@
 					"X": "279.3",
 					"Y": "0",
 					"type": "background",
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_4_bg_image.png",
+					"image": "https://business_4_bg_image.png",
 					"width": "500.7",
 					"height": "639.324"
 				}],
-				"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_4.png",
-				"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_4.png",
+				"image": "https://business_bg_4.png",
+				"thumb": "https://business_thumbnail_4.png",
 				"object": [{
 						"X": "60.458",
 						"Y": "175.8248",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_4_object_1.png",
+						"image": "https://business_4_object_1.png",
 						"width": "67.7642",
 						"height": "74.7697"
 					},
 					{
 						"X": "70.19",
 						"Y": "0",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_4_object_2.png",
+						"image": "https://business_4_object_2.png",
 						"width": "332.81",
 						"height": "184.1183"
 					},
 					{
 						"X": "228.97",
 						"Y": "0",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_4_object_3.png",
+						"image": "https://business_4_object_3.png",
 						"width": "551.03",
 						"height": "689.66"
 					},
 					{
 						"X": "258.3166",
 						"Y": "316.9299",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_4_object_4.png",
+						"image": "https://business_4_object_4.png",
 						"width": "193.94",
 						"height": "193.94"
 					},
 					{
 						"X": "447.55",
 						"Y": "931.9713",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_4_object_5.png",
+						"image": "https://business_4_object_5.png",
 						"width": "296.05",
 						"height": "148.0287"
 					}
@@ -378,51 +378,51 @@
 					"X": "340.3873",
 					"Y": "200.7895",
 					"type": "background",
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_5_bg_image.png",
+					"image": "https://business_5_bg_image.png",
 					"width": "439.6127",
 					"height": "787.0105"
 				}],
-				"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_5.png",
-				"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_5.png",
+				"image": "https://business_bg_5.png",
+				"thumb": "https://business_thumbnail_5.png",
 				"object": [{
 						"X": "492.5",
 						"Y": "54.9",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_5_object_1.png",
+						"image": "https://business_5_object_1.png",
 						"width": "51.11",
 						"height": "51.75"
 					},
 					{
 						"X": "34.3778",
 						"Y": "671.8834",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_5_object_2.png",
+						"image": "https://business_5_object_2.png",
 						"width": "230.4432",
 						"height": "52.5671"
 					},
 					{
 						"X": "33.2075",
 						"Y": "802.7739",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_5_object_3.png",
+						"image": "https://business_5_object_3.png",
 						"width": "64.9441",
 						"height": "64.9443"
 					},
 					{
 						"X": "152.0905",
 						"Y": "802.7739",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_5_object_4.png",
+						"image": "https://business_5_object_4.png",
 						"width": "64.9438",
 						"height": "64.9443"
 					},
 					{
 						"X": "268.2068",
 						"Y": "802.7739",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_5_object_5.png",
+						"image": "https://business_5_object_5.png",
 						"width": "64.9438",
 						"height": "64.9443"
 					},
 					{
 						"X": "33.17",
 						"Y": "959.74",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_5_object_6.png",
+						"image": "https://business_5_object_6.png",
 						"width": "78.51",
 						"height": "82.6251"
 					}
@@ -514,44 +514,44 @@
 					"X": "71.1471",
 					"Y": "39.0645",
 					"type": "background",
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_6_bg_image.png",
+					"image": "https://business_6_bg_image.png",
 					"width": "402.4343",
 					"height": "402.1482"
 				}],
-				"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_6.png",
-				"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_6.png",
+				"image": "https://business_bg_6.png",
+				"thumb": "https://business_thumbnail_6.png",
 				"object": [{
 						"X": "0",
 						"Y": "0",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_6_object_1.png",
+						"image": "https://business_6_object_1.png",
 						"width": "150.37",
 						"height": "208.5"
 					},
 					{
 						"X": "55.1",
 						"Y": "23.03",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_6_object_2.png",
+						"image": "https://business_6_object_2.png",
 						"width": "434.53",
 						"height": "434.22"
 					},
 					{
 						"X": "4.3588",
 						"Y": "556.8515",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_6_object_3.png",
+						"image": "https://business_6_object_3.png",
 						"width": "77.5525",
 						"height": "119.9592"
 					},
 					{
 						"X": "494.3532",
 						"Y": "594.5846",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_6_object_4.png",
+						"image": "https://business_6_object_4.png",
 						"width": "254.1123",
 						"height": "3.1163"
 					},
 					{
 						"X": "277.008",
 						"Y": "878.9873",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_6_object_5.png",
+						"image": "https://business_6_object_5.png",
 						"width": "225.9839",
 						"height": "45.5363"
 					}
@@ -659,37 +659,37 @@
 					"X": "0",
 					"Y": "402.36",
 					"type": "background",
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_7_bg_image.png",
+					"image": "https://business_7_bg_image.png",
 					"width": "483.21",
 					"height": "677.64"
 				}],
-				"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_7.png",
-				"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_7.png",
+				"image": "https://business_bg_7.png",
+				"thumb": "https://business_thumbnail_7.png",
 				"object": [{
 						"X": "28.8289",
 						"Y": "87.6411",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_7_object_1.png",
+						"image": "https://business_7_object_1.png",
 						"width": "20.56",
 						"height": "457.857"
 					},
 					{
 						"X": "0",
 						"Y": "396.91",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_7_object_2.png",
+						"image": "https://business_7_object_2.png",
 						"width": "486.54",
 						"height": "683.09"
 					},
 					{
 						"X": "242.3583",
 						"Y": "414.0313",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_7_object_3.png",
+						"image": "https://business_7_object_3.png",
 						"width": "515.6943",
 						"height": "69.9911"
 					},
 					{
 						"X": "440.7343",
 						"Y": "775.3787",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_7_object_4.png",
+						"image": "https://business_7_object_4.png",
 						"width": "306.0456",
 						"height": "164.365"
 					}
@@ -741,30 +741,30 @@
 					"X": "0",
 					"Y": "0",
 					"type": "background",
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_8_bg_image.png",
+					"image": "https://business_8_bg_image.png",
 					"width": "533.2775",
 					"height": "531.52"
 				}],
-				"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_8.png",
-				"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_8.png",
+				"image": "https://business_bg_8.png",
+				"thumb": "https://business_thumbnail_8.png",
 				"object": [{
 						"X": "645.0386",
 						"Y": "132.7775",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_8_object_1.png",
+						"image": "https://business_8_object_1.png",
 						"width": "118.9832",
 						"height": "109.8937"
 					},
 					{
 						"X": "487.6854",
 						"Y": "642.3787",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_8_object_2.png",
+						"image": "https://business_8_object_2.png",
 						"width": "123.0493",
 						"height": "123.0493"
 					},
 					{
 						"X": "45.973",
 						"Y": "745.0186",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_8_object_3.png",
+						"image": "https://business_8_object_3.png",
 						"width": "328.8068",
 						"height": "3.5719"
 					}
@@ -864,23 +864,23 @@
 					"X": "0",
 					"Y": "120.3992",
 					"type": "background",
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_9_bg_image.png",
+					"image": "https://business_9_bg_image.png",
 					"width": "363.3399",
 					"height": "676.2971"
 				}],
-				"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_9.png",
-				"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_9.png",
+				"image": "https://business_bg_9.png",
+				"thumb": "https://business_thumbnail_9.png",
 				"object": [{
 						"X": "361.0839",
 						"Y": "37.1586",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_9_object_1.png",
+						"image": "https://business_9_object_1.png",
 						"width": "167.8437",
 						"height": "166.4809"
 					},
 					{
 						"X": "118.9169",
 						"Y": "541.5939",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_9_object_2.png",
+						"image": "https://business_9_object_2.png",
 						"width": "326.0888",
 						"height": "323.4416"
 					}
@@ -996,37 +996,37 @@
 					"X": "390.2695",
 					"Y": "227.6869",
 					"type": "background",
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_10_bg_image.png",
+					"image": "https://business_10_bg_image.png",
 					"width": "389.7305",
 					"height": "724.9344"
 				}],
-				"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_10.png",
-				"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_10.png",
+				"image": "https://business_bg_10.png",
+				"thumb": "https://business_thumbnail_10.png",
 				"object": [{
 						"X": "36.4941",
 						"Y": "622.0773",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_10_object_1.png",
+						"image": "https://business_10_object_1.png",
 						"width": "58.0984",
 						"height": "53.5905"
 					},
 					{
 						"X": "36.4941",
 						"Y": "721.4184",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_10_object_2.png",
+						"image": "https://business_10_object_2.png",
 						"width": "58.7945",
 						"height": "58.7945"
 					},
 					{
 						"X": "236.7753",
 						"Y": "699.5115",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_10_object_3.png",
+						"image": "https://business_10_object_3.png",
 						"width": "175.5874",
 						"height": "179.6885"
 					},
 					{
 						"X": "36.4941",
 						"Y": "968.9684",
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_10_object_4.png",
+						"image": "https://business_10_object_4.png",
 						"width": "262.9613",
 						"height": "51.2561"
 					}
@@ -1105,65 +1105,65 @@
 							"X": "64.635",
 							"Y": "501.27 ",
 							"type": "background",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/image.png",
+							"image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/image.png",
 							"width": "361.54",
 							"height": "361.54"
 						}],
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/background.png",
-						"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/thumbnail.png",
+						"image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/background.png",
+						"thumb": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/thumbnail.png",
 						"object": [{
 								"X": "87.9571",
 								"Y": "182.7532",
-								"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/images/object_2.png",
+								"image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/images/object_2.png",
 								"width": "112.6581",
 								"height": "33.2927"
 							},
 							{
 								"X": "0",
 								"Y": "199.3996",
-								"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/images/object_3.png",
+								"image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/images/object_3.png",
 								"width": "133.0211",
 								"height": "313.3739"
 							},
 							{
 								"X": "612.891",
 								"Y": "398.8847",
-								"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/images/object_4.png",
+								"image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/images/object_4.png",
 								"width": "76.8946",
 								"height": "96.6832"
 							},
 							{
 								"X": "329.863",
 								"Y": "508.6896",
-								"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/images/object_5.png",
+								"image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/images/object_5.png",
 								"width": "113.6001",
 								"height": "62.6209"
 							},
 							{
 								"X": "655.5895",
 								"Y": "600.3988",
-								"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/images/object_6.png",
+								"image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/images/object_6.png",
 								"width": "124.1477",
 								"height": "353.3037"
 							},
 							{
 								"X": "494.2091",
 								"Y": "863.4539",
-								"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/images/object_7.png",
+								"image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/images/object_7.png",
 								"width": "112.6581",
 								"height": "33.2922"
 							},
 							{
 								"X": "162.587",
 								"Y": "925.212",
-								"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/images/object_8.png",
+								"image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/images/object_8.png",
 								"width": "88.1525",
 								"height": "89.5457"
 							},
 							{
 								"X": "40.0664",
 								"Y": "476.7286",
-								"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/images/object_9.png",
+								"image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete1/images/object_9.png",
 								"width": "403.3936",
 								"height": "403.3713"
 							}
@@ -1207,30 +1207,30 @@
 							"X": "341.5295",
 							"Y": "0.4502",
 							"type": "background",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete2/image.png",
+							"image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete2/image.png",
 							"width": "438.0405",
 							"height": "1079.0995"
 						}],
-						"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete2/background.png",
-						"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete2/thumbnail.png",
+						"image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete2/background.png",
+						"thumb": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete2/thumbnail.png",
 						"object": [{
 								"X": "43.774",
 								"Y": "45.3457",
-								"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete2/images/object_1.png",
+								"image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete2/images/object_1.png",
 								"width": "60.3214",
 								"height": "80.4694"
 							},
 							{
 								"X": "463.8",
 								"Y": "0",
-								"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete2/images/object_2.png",
+								"image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete2/images/object_2.png",
 								"width": "168.28",
 								"height": "153.45"
 							},
 							{
 								"X": "321.0433",
 								"Y": "997.934",
-								"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete2/images/object_3.png",
+								"image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/Templete/Business/templete2/images/object_3.png",
 								"width": "107.5977",
 								"height": "82.066"
 							}
