@@ -56,7 +56,7 @@
         {
           "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_851_315_thumb.png",
           "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_851_315.png",
-          "title": "",
+          "title": "Cover",
           "imagesize": "851X315",
           "ratio": "205:78"
         },
@@ -136,8 +136,8 @@
           "ratio": "3:1"
         },
         {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter__1024_512_thumb.png",
-		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter__1024_512.png",
+          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter_1024_512_thumb.png",
+		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter_1024_512.png",
           "title": "Post",
           "imagesize": "1024X512",
           "ratio": "7:8"
