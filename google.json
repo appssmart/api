@@ -43,7 +43,7 @@
 		"native_priority": ["google"],
 		"banner_priority": "1",
 		"interstitial_priority": ["custom_tab"],
-		"spalsh_interstitial_priority": ["google"],
+		"spalsh_interstitial_priority": ["imgbanner"],
 		"fail_priority": "custom_tab",
 		"adCountInCategory": 3,
 		"isActivitySkip": "n",
