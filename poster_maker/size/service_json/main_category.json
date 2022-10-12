@@ -1,155 +1,163 @@
 {
-  "status": "1",
-  "data": [
-    {
-      "id": 1,
-      "name": "Ratio",
-      "size": [
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_1_1_thumb.png",
-		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_1_1.png",
-          "title": "",
-          "imagesize": "1080X1080",
-          "ratio": "1:1"
-        },
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_16_9_thumb.png",
-		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_16_9.png",
-          "title": "",
-          "imagesize": "1920X1080",
-          "ratio": "16:9"
-        },
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_9_16_thumb.png",
-          "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_9_16.png",
-          "title": "",
-          "imagesize": "1080X1920",
-          "ratio": "9:16"
-        },
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_4_3_thumb.png",
-          "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_4_3.png",
-          "title": "",
-          "imagesize": "1440X1080",
-          "ratio": "4:3"
-        },
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_3_4_thumb.png",
-          "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_3_4.png",
-          "title": "",
-          "imagesize": "1080X1440",
-          "ratio": "3:4"
-        },
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_2_3_thumb.png",
-          "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/ratio_2_3.png",
-          "title": "",
-          "imagesize": "1080X1620",
-          "ratio": "2:3"
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "name": "Facebook",
-      "size": [
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_851_315_thumb.png",
-          "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_851_315.png",
-          "title": "Cover",
-          "imagesize": "851X315",
-          "ratio": "205:78"
-        },
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_940_788_thumb.png",
-		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_940_788.png",
-          "title": "Post",
-          "imagesize": "940X788",
-          "ratio": "5:3"
-        },
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_810_450_thumb.png",
-		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_810_450.png",
-          "title": "App Image",
-          "imagesize": "810X450",
-          "ratio": "3:2"
-        },
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_1200_627_thumb.png",
-		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_1200_627.png",
-          "title": "Ad Image",
-          "imagesize": "1200X628",
-          "ratio": "16:9"
-        },
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_720_720_thumb.png",
-		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_720_720.png",
-          "title": "Profile Image",
-          "imagesize": "720X720",
-          "ratio": "1:1"
-        },
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_820_428_thumb.png",
-		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/fb_820_428.png",
-          "title": "Group Cover Photo",
-          "imagesize": "820X428",
-          "ratio": "2:1"
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "name": "Instagram",
-      "size": [
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/insta_1080_1080_thumb.png",
-		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/insta_1080_1080.png",
-          "title": "Post",
-          "imagesize": "1080X1080",
-          "ratio": "1:1"
-        },
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/insta_1080_1350_thumb.png",
-		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/insta_1080_1350.png",
-          "title": "Post",
-          "imagesize": "1080X1350",
-          "ratio": "4:5"
-        },
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/insta_1080_566_thumb.png",
-		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/insta_1080_566.png",
-          "title": "Post",
-          "imagesize": "1080X566",
-          "ratio": "1.91:1"
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "name": "Twitter",
-      "size": [
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter_1500_500_thumb.png",
-          "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter_1500_500.png",
-          "title": "",
-          "imagesize": "1500X500",
-          "ratio": "3:1"
-        },
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter_1024_512_thumb.png",
-		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter_1024_512.png",
-          "title": "Post",
-          "imagesize": "1024X512",
-          "ratio": "7:8"
-        },
-        {
-          "image_thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter_200_200_thumb.png",
-		  "image_large": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/size/img/twitter_200_200.png",
-          "title": "Profile Image",
-          "imagesize": "200X200",
-          "ratio": "1:1"
-        }
-      ]
-    }
-  ]
+	"status": "1",
+	"data": [
+		{
+			"id": 1,
+			"templeteCategory": "Business",
+			"templete": [
+				{
+					"frame": [
+						{
+							"X": "53.5362",
+							"Y": "448.6843",
+							"type": "background",
+							"image": "https://https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_bg_image.png",
+							"width": "459.0003",
+							"height": "459.0003"
+						}
+					],
+					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_1.png",
+					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_1.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1.png",
+					"object": [
+						{
+							"X": "116.7877",
+							"Y": "100.0592",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_1.png",
+							"width": "167.0995",
+							"height": "166.9333"
+						},
+						{
+							"X": "27.431",
+							"Y": "407.7443",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_2.png",
+							"width": "511.2079",
+							"height": "530.8786"
+						},
+						{
+							"X": "611.6962",
+							"Y": "903.5944",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_3.png",
+							"width": "68.4841",
+							"height": "68.416"
+						}
+					],
+					"content": [
+						{
+							"text": "BUSINESS",
+							"color": "#414042",
+							"fontSize": "120",
+							"fontType": "Montserrat Regular",
+							"positionX": "714.3254",
+							"positionY": "228.3218"
+						},
+						{
+							"text": "AGENCY",
+							"color": "#414042",
+							"fontSize": "90",
+							"fontType": "Montserrat SemiBold",
+							"positionX": "828.5122",
+							"positionY": "344.3345"
+						},
+						{
+							"text": "ACTIVE WOMAN",
+							"color": "#df4182",
+							"fontSize": "30",
+							"fontType": "Montserrat Medium",
+							"positionX": "899.6279",
+							"positionY": "449.8267"
+						},
+						{
+							"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing\nelit, sed diam nonummy nibh euismod tincidunt\nut laoreet dolore magna aliquam erat volutpat.",
+							"color": "#414042",
+							"fontSize": "20",
+							"fontType": "Montserrat Regular",
+							"positionX": "761.302",
+							"positionY": "516.3425"
+						},
+                        {
+							"text": "www.yourwebsite.com",
+							"color": "#414042",
+							"fontSize": "20",
+							"fontType": "Montserrat Medium",
+							"positionX": "891.3887",
+							"positionY": "599.0762"
+						}
+					]
+				},
+				{
+					"frame": [
+						{
+							"X": "541.6994",
+							"Y": "76.8889",
+							"type": "background",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_bg_Image.png",
+							"width": "496.7848",
+							"height": "496.7848"
+						}
+					],
+					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_2.png",
+					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_2.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2.png",
+					"object": [
+						{
+							"X": "0",
+							"Y": "37.2889",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_1.png",
+							"width": "252.1619",
+							"height": "243.2832"
+						},
+						{
+							"X": "37.8164",
+							"Y": "621.4696",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_2.png",
+							"width": "49.0581",
+							"height": "48.7242"
+						},
+						{
+							"X": "757.8953",
+							"Y": "781.296",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_3.png",
+							"width": "287.7828",
+							"height": "298.2833"
+						}
+					],
+					"content": [
+						{
+							"text": "business\nseminars",
+							"color": "#414042",
+							"fontSize": "80",
+							"fontType": "Montserrat SemiBold",
+							"positionX": "257.4941",
+							"positionY": "475.5718"
+						},
+						{
+							"text": "Monday, 20 April 2021",
+							"color": "#414042",
+							"fontSize": "30",
+							"fontType": "Montserrat Medium",
+							"positionX": "270.6741",
+							"positionY": "649.3247"
+						},
+						{
+							"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit,\nsed diam nonummy nibh euismod tincidunt ut\nlaoreet dolore magna aliquam erat ",
+							"color": "#414042",
+							"fontSize": "20",
+							"fontType": "Montserrat Medium",
+							"positionX": "329.1831",
+							"positionY": "780.2607"
+						},
+						{
+							"text": "BOOK A SEAT NOW!",
+							"color": "#414042",
+							"fontSize": "25",
+							"fontType": "Montserrat SemiBold",
+							"positionX": "168.165",
+							"positionY": "913.0313"
+						}
+					]
+				}
+			]
+		}
+	]
 }
