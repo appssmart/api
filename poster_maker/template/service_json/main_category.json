@@ -8,872 +8,1032 @@
 				{
 					"frame": [
 						{
-							"X": "53.5362",
-							"Y": "448.6843",
+							"X": "145.93",
+							"Y": "420.3277",
 							"type": "background",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_bg_image.png",
-							"width": "459.0003",
-							"height": "459.0003"
+							"image": "https://https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_bg_image.png",
+							"width": "487.39",
+							"height": "487.39"
 						}
 					],
 					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_1.png",
-					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_1.png",
+					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumb_1.png",
 					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1.png",
 					"object": [
 						{
-							"X": "116.7877",
-							"Y": "100.0592",
+							"X": "110.3782",
+							"Y": "70.7052",
 							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_1.png",
-							"width": "167.0995",
-							"height": "166.9333"
+							"width": "112.6581",
+							"height": "33.2927"
 						},
 						{
-							"X": "27.431",
-							"Y": "407.7443",
+							"X": "0",
+							"Y": "121.9683",
 							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_2.png",
-							"width": "511.2079",
-							"height": "530.8786"
+							"width": "165.7791",
+							"height": "390.8051"
 						},
 						{
-							"X": "611.6962",
-							"Y": "903.5944",
+							"X": "808.519",
+							"Y": "482.9496",
 							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_3.png",
-							"width": "68.4841",
-							"height": "68.416"
+							"width": "101.2019",
+							"height": "127.2459"
+						},
+						{
+							"X": "909.0695",
+							"Y": "540.0001",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_4.png",
+							"width": "170.9304",
+							"height": "485.379"
+						},
+						{
+							"X": "670.6196",
+							"Y": "862.81",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_5.png",
+							"width": "145.2557",
+							"height": "42.9252"
+						},
+						{
+							"X": "133.9654",
+							"Y": "896.1022",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_1_object_6.png",
+							"width": "110.5461",
+							"height": "112.2933"
+						}
+					],
+					"content": [
+						{
+							"text": "LIVE WEBINAR",
+							"color": "#414042",
+							"fontSize": "30",
+							"fontType": "Montserrat Regular",
+							"positionX": "853.4375",
+							"positionY": "100.2817"
+						},
+						{
+							"text": "GREAT BUSINESS",
+							"color": "#414042",
+							"fontSize": "80",
+							"fontType": "Montserrat Bold",
+							"positionX": "645.3928",
+							"positionY": "178.9163"
+						},
+						{
+							"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing\nelit, sed diam nonummy nibh euismod tincidunt ut\nlaoreet dolore magna aliquam erat volutpat. Ut wisi",
+							"color": "#414042",
+							"fontSize": "22",
+							"fontType": "Montserrat Regular",
+							"positionX": "712.446",
+							"positionY": "290.6584"
+						},
+						{
+							"text": "www.yourwebsite.in",
+							"color": "#414042",
+							"fontSize": "30",
+							"fontType": "Montserrat Medium",
+							"positionX": "842.6235",
+							"positionY": "387.1479"
+						}
+					]
+				},
+				{
+					"frame": [
+						{
+							"X": "81.1539",
+							"Y": "350.9889",
+							"type": "background",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_bg_image.png",
+							"width": "442.4948",
+							"height": "442.4948"
+						}
+					],
+					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_2.png",
+					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumb_2.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2.png",
+					"object": [
+						{
+							"X": "40.0259",
+							"Y": "53.8572",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_1.png",
+							"width": "99.674",
+							"height": "49.7535"
+						},
+						{
+							"X": "62.4995",
+							"Y": "344.1556",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_2.png",
+							"width": "69.4528",
+							"height": "69.4529"
+						},
+						{
+							"X": "809.7554",
+							"Y": "351.9738",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_3.png",
+							"width": "86.2703",
+							"height": "86.2704"
+						},
+						{
+							"X": "894.7792",
+							"Y": "883.6417",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_4.png",
+							"width": "61.2704",
+							"height": "61.2701"
+						},
+						{
+							"X": "112.9489",
+							"Y": "821.4663",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_5.png",
+							"width": "60.9",
+							"height": "122.0043"
+						}
+					],
+					"content": [
+						{
+							"text": "REAL STATE",
+							"color": "#ffffff",
+							"fontSize": "80",
+							"fontType": "Montserrat ExtraBold",
+							"positionX": "440.8962",
+							"positionY": "170.6606"
+						},
+						{
+							"text": "ELEGANT HOME",
+							"color": "#eaab50",
+							"fontSize": "80",
+							"fontType": "Montserrat ExtraBold",
+							"positionX": "431.9131",
+							"positionY": "246.2271"
+						},
+						{
+							"text": "WE OFFER YOU",
+							"color": "#ffffff",
+							"fontSize": "60",
+							"fontType": "Montserrat ExtraBold",
+							"positionX": "798.3276",
+							"positionY": "631.6455"
+						},
+						{
+							"text": "Lorem ipsum dolor sit amet, consectetuer\nadipiscing elit, sed diam nonummy nibh\neuismod tincidunt ut laoreet.",
+							"color": "#ffffff",
+							"fontSize": "21",
+							"fontType": "Montserrat Regular",
+							"positionX": "825.1094",
+							"positionY": "769.02"
+						},
+						{
+							"text": "WWW.YOURSITE.COM",
+							"color": "#ffffff",
+							"fontSize": "30",
+							"fontType": "Montserrat Medium",
+							"positionX": "545.6223",
+							"positionY": "1029.5024"
+						}
+					]
+				},
+				{
+					"frame": [
+						{
+							"X": "563.775",
+							"Y": "163.595",
+							"type": "background",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_3_bg_image.png",
+							"width": "516.225",
+							"height": "623.95"
+						}
+					],
+					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_3.png",
+					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumb_3.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_3.png",
+					"object": [
+						{
+							"X": "505.2336",
+							"Y": "4.9023",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_3_object_1.png",
+							"width": "176.837",
+							"height": "158.6917"
+						},
+						{
+							"X": "0",
+							"Y": "199.6078",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_3_object_2.png",
+							"width": "538.3884",
+							"height": "298.1703"
+						},
+						{
+							"X": "576.6617",
+							"Y": "848.61",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_3_object_3.png",
+							"width": "258.0927",
+							"height": "231.39"
 						}
 					],
 					"content": [
 						{
 							"text": "BUSINESS",
-							"color": "#414042",
-							"fontSize": "120",
+							"color": "#ffffff",
+							"fontSize": "80",
+							"fontType": "Montserrat Bold",
+							"positionX": "46.5664",
+							"positionY": "275.5605"
+						},
+						{
+							"text": "PRESENTATION",
+							"color": "#ffffff",
+							"fontSize": "50",
+							"fontType": "Montserrat Medium",
+							"positionX": "53.2061",
+							"positionY": "372.1885"
+						},
+						{
+							"text": "Lorem ipsum dolor sit amet, consectetur\nadipiscing elit. Mauris consectetur, quam\nat sagittis malesuada, ex justo luctus arcu,\nvitae tempor risus odio eu ipsum.",
+							"color": "#ffffff",
+							"fontSize": "25",
+							"fontType": "Montserrat Light",
+							"positionX": "31.4438",
+							"positionY": "577.3301"
+						},
+						{
+							"text": "www.businesspresentation.com",
+							"color": "#ffffff",
+							"fontSize": "30",
+							"fontType": "Montserrat Medium",
+							"positionX": "41.1689",
+							"positionY": "950.6348"
+						}
+					]
+				},
+				{
+					"frame": [
+						{
+							"X": "551.74",
+							"Y": "0",
+							"type": "background",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_4_bg_image.png",
+							"width": "528.26",
+							"height": "674.81"
+						}
+					],
+					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_4.png",
+					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumb_4.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_4.png",
+					"object": [
+						{
+							"X": "75.6083",
+							"Y": "122.2833",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_4_object_1.png",
+							"width": "67.7642",
+							"height": "74.7697"
+						},
+						{
+							"X": "154.86",
+							"Y": "0",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_4_object_2.png",
+							"width": "69.4528",
+							"height": "69.4529"
+						},
+						{
+							"X": "583.3535",
+							"Y": "385.4134",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_4_object_3.png",
+							"width": "250.3245",
+							"height": "250.3245"
+						},
+						{
+							"X": "532.22",
+							"Y": "898.0526",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_4_object_4.png",
+							"width": "363.8857",
+							"height": "181.9474"
+						}
+					],
+					"content": [
+						{
+							"text": "Business\nsolutions",
+							"color": "#3e3e3e",
+							"fontSize": "75",
+							"fontType": "Montserrat Bold",
+							"positionX": "296.3225",
+							"positionY": "424.9172"
+						},
+						{
+							"text": "Lorem ipsum dolor sit amet, consectetuer\nadipiscing elit, sed diam nonummy nibh\neuismod tincidunt ut laoreet dolore magna\naliquam erat volutpat.",
+							"color": "#3e3e3e",
+							"fontSize": "25",
 							"fontType": "Montserrat Regular",
-							"positionX": "714.3254",
-							"positionY": "228.3218"
+							"positionX": "361.0128",
+							"positionY": "597.5717"
+						},
+						{
+							"text": "November 30th - 9:00 AM",
+							"color": "#3e3e3e",
+							"fontSize": "30",
+							"fontType": "Montserrat Bold",
+							"positionX": "276.3389",
+							"positionY": "898.0161"
+						},
+						{
+							"text": "www.yoursite.com",
+							"color": "#3e3e3e",
+							"fontSize": "30",
+							"fontType": "Montserrat Regular",
+							"positionX": "213.595",
+							"positionY": "933.9214"
+						}
+					]
+				},
+				{
+					"frame": [
+						{
+							"X": "454.5552",
+							"Y": "168.7845",
+							"type": "background",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_5_bg_image.png",
+							"width": "442.4948",
+							"height": "442.4948"
+						}
+					],
+					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_5.png",
+					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumb_5.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_5.png",
+					"object": [
+						{
+							"X": "53.5241",
+							"Y": "676.8966",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_5_object_1.png",
+							"width": "230.4432",
+							"height": "52.5671"
+						},
+						{
+							"X": "53.5172",
+							"Y": "793.4132",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_5_object_2.png",
+							"width": "64.9441",
+							"height": "64.9443"
+						},
+						{
+							"X": "182.4003",
+							"Y": "793.4132",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_5_object_3.png",
+							"width": "64.9438",
+							"height": "64.9443"
+						},
+						{
+							"X": "318.5165",
+							"Y": "793.4132",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_5_object_4.png",
+							"width": "64.9438",
+							"height": "64.9443"
+						},
+						{
+							"X": "53.5241",
+							"Y": "918.564",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_5_object_5.png",
+							"width": "78.506",
+							"height": "82.6249"
+						}
+					],
+					"content": [
+						{
+							"text": "We Are",
+							"color": "#ffffff",
+							"fontSize": "46",
+							"fontType": "Montserrat Light",
+							"positionX": "139.2903",
+							"positionY": "253.6475"
+						},
+						{
+							"text": "Creative",
+							"color": "#ffffff",
+							"fontSize": "64",
+							"fontType": "Montserrat Medium",
+							"positionX": "181.6826",
+							"positionY": "323.1182"
+						},
+						{
+							"text": "MARKETING",
+							"color": "#ffffff",
+							"fontSize": "70",
+							"fontType": "Montserrat ExtraBold",
+							"positionX": "279.4126",
+							"positionY": "408.1177"
+						},
+						{
+							"text": "Agency",
+							"color": "#ffffff",
+							"fontSize": "64",
+							"fontType": "Montserrat Medium",
+							"positionX": "173.0442",
+							"positionY": "491.0991"
+						},
+						{
+							"text": "Share Your Ideas\nwith the World",
+							"color": "#ffffff",
+							"fontSize": "29",
+							"fontType": "Montserrat Medium",
+							"positionX": "179.8103",
+							"positionY": "579.6445"
+						},
+						{
+							"text": "Learn More",
+							"color": "#ffffff",
+							"fontSize": "25",
+							"fontType": "Montserrat Bold",
+							"positionX": "168.7456",
+							"positionY": "703.1055"
+						},
+						{
+							"text": "Visit our website for more",
+							"color": "#ffffff",
+							"fontSize": "20",
+							"fontType": "Montserrat Medium",
+							"positionX": "289.2454",
+							"positionY": "939.6465"
+						},
+						{
+							"text": "www.website.com",
+							"color": "#ffffff",
+							"fontSize": "28",
+							"fontType": "Montserrat Medium",
+							"positionX": "288.8782",
+							"positionY": "973.6128"
+						}
+					]
+				},
+				{
+					"frame": [
+						{
+							"X": "124.0977",
+							"Y": "105.4443",
+							"type": "background",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_6_bg_image.png",
+							"width": "445.7303",
+							"height": "445.7303"
+						}
+					],
+					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_6.png",
+					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumb_6.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_6.png",
+					"object": [
+						{
+							"X": "0",
+							"Y": "560.0316",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_6_object_1.png",
+							"width": "114.8334",
+							"height": "177.6257"
+						},
+						{
+							"X": "742.1559",
+							"Y": "521.6983",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_6_object_2.png",
+							"width": "297.1215",
+							"height": "3.6437"
+						},
+						{
+							"X": "379.3904",
+							"Y": "847.4355",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_6_object_3.png",
+							"width": "275.9963",
+							"height": "55.6139"
+						}
+					],
+					"content": [
+						{
+							"text": "Digital",
+							"color": "#414042",
+							"fontSize": "68",
+							"fontType": "Montserrat ExtraBold",
+							"positionX": "922.2388",
+							"positionY": "285.9705"
+						},
+						{
+							"text": "MARKETING",
+							"color": "#6559a6",
+							"fontSize": "68",
+							"fontType": "Montserrat ExtraBold",
+							"positionX": "826.1904",
+							"positionY": "370.1575"
 						},
 						{
 							"text": "AGENCY",
+							"color": "#6559a6",
+							"fontSize": "68",
+							"fontType": "Montserrat ExtraBold",
+							"positionX": "891.1523",
+							"positionY": "454.3435"
+						},
+						{
+							"text": "Lorem ipsum dolor sit amet, consectetuer\nadipiscing elit, sed diam nonummy nibh\neuismod tincidunt ut laoreet dolore",
+							"color": "#414042",
+							"fontSize": "25",
+							"fontType": "Montserrat Regular",
+							"positionX": "776.1865",
+							"positionY": "607.4082"
+						},
+						{
+							"text": "UP TO         %",
+							"color": "#414042",
+							"fontSize": "40",
+							"fontType": "Montserrat Regular",
+							"positionX": "907.2793",
+							"positionY": "724.8657"
+						},
+						{
+							"text": "50",
+							"color": "#6559a6",
+							"fontSize": "68",
+							"fontType": "Montserrat Bold",
+							"positionX": "958.9043",
+							"positionY": "716.748"
+						},
+						{
+							"text": "DISCOUNT",
+							"color": "#414042",
+							"fontSize": "45",
+							"fontType": "Montserrat Bold",
+							"positionX": "913.0488",
+							"positionY": "777.478"
+						},
+						{
+							"text": "LEARN MORE",
+							"color": "#ffffff",
+							"fontSize": "30",
+							"fontType": "Montserrat Bold",
+							"positionX": "517.3884",
+							"positionY": "877.689"
+						},
+						{
+							"text": "More information call us",
+							"color": "#414042",
+							"fontSize": "30",
+							"fontType": "Montserrat Medium",
+							"positionX": "271.1157",
+							"positionY": "972.5288"
+						},
+						{
+							"text": "000 123 456 789",
+							"color": "#6559a6",
+							"fontSize": "35",
+							"fontType": "Montserrat Bold",
+							"positionX": "271.1157",
+							"positionY": "1012.4214"
+						},
+						{
+							"text": "Visit Our Website",
+							"color": "#414042",
+							"fontSize": "33",
+							"fontType": "Montserrat Medium",
+							"positionX": "840.1821",
+							"positionY": "973.2759"
+						},
+						{
+							"text": "www.website.com",
+							"color": "#685ba7",
+							"fontSize": "37",
+							"fontType": "Montserrat  Bold",
+							"positionX": "840.1816",
+							"positionY": "1009.9673"
+						}
+					]
+				},
+				{
+					"frame": [
+						{
+							"X": "0",
+							"Y": "365.41",
+							"type": "background",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_7_bg_image.png",
+							"width": "632.33",
+							"height": "714.59"
+						}
+					],
+					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_7.png",
+					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumb_7.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_7.png",
+					"object": [
+						{
+							"X": "33.415",
+							"Y": "71.263",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_7_object_1.png",
+							"width": "20.56",
+							"height": "550.3597"
+						},
+						{
+							"X": "394.6389",
+							"Y": "447.2943",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_7_object_2.png",
+							"width": "641.9529",
+							"height": "87.1271"
+						},
+						{
+							"X": "778.7446",
+							"Y": "706.8873",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_7_object_3.png",
+							"width": "173.5761",
+							"height": "252.4723"
+						}
+					],
+					"content": [
+						{
+							"text": "STARTUP",
+							"color": "#414042",
+							"fontSize": "87",
+							"fontType": "Montserrat ExtraBold",
+							"positionX": "744.5283",
+							"positionY": "142.8174"
+						},
+						{
+							"text": "ONLINE",
+							"color": "#f7941d",
+							"fontSize": "75",
+							"fontType": "Montserrat SemiBold",
+							"positionX": "821.793",
+							"positionY": "244.7656"
+						},
+						{
+							"text": "STRATEGY",
+							"color": "#414042",
+							"fontSize": "87",
+							"fontType": "Montserrat ExtraBold",
+							"positionX": "708.2942",
+							"positionY": "346.2637"
+						},
+						{
+							"text": "19TH DECEMBER   8:00-17:00",
+							"color": "#f7941d",
+							"fontSize": "35",
+							"fontType": "Montserrat Medium",
+							"positionX": "719.0698",
+							"positionY": "493.3755"
+						},
+						{
+							"text": "RESERVE YOUR SPOT!",
+							"color": "#414042",
+							"fontSize": "30",
+							"fontType": "Montserrat Medium",
+							"positionX": "833.7988",
+							"positionY": "601.4644"
+						}
+					]
+				},
+				{
+					"frame": [
+						{
+							"X": "0",
+							"Y": "0",
+							"type": "background",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_8_bg_image.png",
+							"width": "1080",
+							"height": "367.3496"
+						}
+					],
+					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_8.png",
+					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumb_8.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_8.png",
+					"object": [
+						{
+							"X": "926.3758",
+							"Y": "103.6631",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_8_object_1.png",
+							"width": "135.27",
+							"height": "124.9363"
+						},
+						{
+							"X": "618.2804",
+							"Y": "562.6022",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_8_object_2.png",
+							"width": "144.6863",
+							"height": "144.6863"
+						},
+						{
+							"X": "31.1663",
+							"Y": "650.2211",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_8_object_3.png",
+							"width": "472.4022",
+							"height": "0"
+						}
+					],
+					"content": [
+						{
+							"text": "lIVE\nWEBINAR",
+							"color": "#ffffff",
+							"fontSize": "50",
+							"fontType": "Montserrat SemiBold",
+							"positionX": "905.8975",
+							"positionY": "357.074"
+						},
+						{
+							"text": "21 JAN",
+							"color": "#00a79d",
+							"fontSize": "68",
+							"fontType": "Montserrat Regular",
+							"positionX": "926.8823",
+							"positionY": "452.9797"
+						},
+						{
+							"text": "10 AM - 12 AM",
+							"color": "#ffffff",
+							"fontSize": "22",
+							"fontType": "Montserrat Regular",
+							"positionX": "952.2915",
+							"positionY": "503.825"
+						},
+						{
+							"text": "BOOST YOUR\nBUSINESS",
 							"color": "#414042",
 							"fontSize": "90",
 							"fontType": "Montserrat SemiBold",
-							"positionX": "828.5122",
-							"positionY": "344.3345"
+							"positionX": "342.2175",
+							"positionY": "543.1899"
 						},
 						{
-							"text": "ACTIVE WOMAN",
-							"color": "#df4182",
-							"fontSize": "30",
+							"text": "Lorem ipsum dolor sit amet, consectetuer\nadipiscing elit, sed diam",
+							"color": "#414042 ",
+							"fontSize": "25",
 							"fontType": "Montserrat Medium",
-							"positionX": "899.6279",
-							"positionY": "449.8267"
+							"positionX": "297.6306",
+							"positionY": "717.1885"
 						},
 						{
-							"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing\nelit, sed diam nonummy nibh euismod tincidunt\nut laoreet dolore magna aliquam erat volutpat.",
+							"text": "Hosted by",
 							"color": "#414042",
-							"fontSize": "20",
-							"fontType": "Montserrat Regular",
-							"positionX": "761.302",
-							"positionY": "516.3425"
+							"fontSize": "30",
+							"fontType": "Montserrat SemiBold",
+							"positionX": "114.5955",
+							"positionY": "877.2437"
 						},
-                        {
+						{
+							"text": "THOMAS WILLIAM",
+							"color": "#00a79d",
+							"fontSize": "40",
+							"fontType": "Montserrat Medium",
+							"positionX": "216.7844",
+							"positionY": "946.8159"
+						},
+						{
+							"text": "VFX Artist & Filmaker",
+							"color": "#414042",
+							"fontSize": "25",
+							"fontType": "Montserrat Medium",
+							"positionX": "177.9819",
+							"positionY": "991.5293"
+						},
+						{
+							"text": "$19",
+							"color": "#ffffff",
+							"fontSize": "65",
+							"fontType": "Montserrat Medium",
+							"positionX": "689.0708",
+							"positionY": "639.4619"
+						},
+						{
+							"text": "Call Now!\n393 474 2331 44",
+							"color": "#ffffff",
+							"fontSize": "45",
+							"fontType": "Montserrat SemiBold",
+							"positionX": "820.2324",
+							"positionY": "855.1992"
+						},
+						{
 							"text": "www.yourwebsite.com",
-							"color": "#414042",
+							"color": "#ffffff",
 							"fontSize": "20",
-							"fontType": "Montserrat Medium",
-							"positionX": "891.3887",
-							"positionY": "599.0762"
+							"fontType": "Montserrat SemiBold",
+							"positionX": "892.3667",
+							"positionY": "1020.041"
 						}
 					]
 				},
 				{
 					"frame": [
 						{
-							"X": "541.6994",
-							"Y": "76.8889",
+							"X": "0",
+							"Y": "135.0658",
 							"type": "background",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_bg_image.png",
-							"width": "496.7848",
-							"height": "496.7848"
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_9_bg_image.png",
+							"width": "369.049",
+							"height": "686.9238"
 						}
 					],
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_2.png",
-					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_2.png",
-					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2.png",
+					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_9.png",
+					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumb_9.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_9.png",
 					"object": [
 						{
-							"X": "0",
-							"Y": "37.2889",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_1.png",
-							"width": "252.1619",
-							"height": "243.2832"
+							"X": "352.1753",
+							"Y": "88.7813",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_9_object_1.png",
+							"width": "214.3026",
+							"height": "214.3026"
 						},
 						{
-							"X": "37.8164",
-							"Y": "621.4696",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_2.png",
-							"width": "49.0581",
-							"height": "48.7242"
-						},
-						{
-							"X": "757.8953",
-							"Y": "781.296",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_3.png",
-							"width": "287.7828",
-							"height": "298.2833"
+							"X": "413.1378",
+							"Y": "664.8545",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_9_object_2.png",
+							"width": "334.1327",
+							"height": "334.1327"
 						}
 					],
 					"content": [
 						{
-							"text": "business\nseminars",
-							"color": "#414042",
-							"fontSize": "80",
+							"text": "Business",
+							"color": "#27aae1",
+							"fontSize": "95",
+							"fontType": "Montserrat Bold",
+							"positionX": "802.437",
+							"positionY": "144.5239"
+						},
+						{
+							"text": "Webinar",
+							"color": "#27373f",
+							"fontSize": "95",
+							"fontType": "Montserrat Bold",
+							"positionX": "812.1577",
+							"positionY": "245.2104"
+						},
+						{
+							"text": "Run a business\non social media",
+							"color": "#27aae1",
+							"fontSize": "45",
 							"fontType": "Montserrat SemiBold",
-							"positionX": "257.4941",
-							"positionY": "475.5718"
+							"positionX": "843.2939",
+							"positionY": "379.7188"
 						},
 						{
-							"text": "Monday, 20 April 2021",
-							"color": "#414042",
-							"fontSize": "30",
-							"fontType": "Montserrat Medium",
-							"positionX": "270.6741",
-							"positionY": "649.3247"
+							"text": "Lorem ipsum dolor sit amet,\nonsectetuer adipiscing elit, sed\ndiam nonummy nibh euismod.",
+							"color": "#27373f",
+							"fontSize": "25",
+							"fontType": "Montserrat Regular",
+							"positionX": "843.3945",
+							"positionY": "491.2869"
 						},
 						{
-							"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit,\nsed diam nonummy nibh euismod tincidunt ut\nlaoreet dolore magna aliquam erat ",
-							"color": "#414042",
+							"text": "Speakers",
+							"color": "#27aae1",
+							"fontSize": "45",
+							"fontType": "Montserrat Bold",
+							"positionX": "917.4912",
+							"positionY": "598.8853"
+						},
+						{
+							"text": "Alirio Pinzon",
+							"color": "#27373f",
+							"fontSize": "35",
+							"fontType": "Montserrat SemiBold",
+							"positionX": "911.2964",
+							"positionY": "673.7173"
+						},
+						{
+							"text": "BUSINESS PARTNER",
+							"color": "#27aae1",
 							"fontSize": "20",
 							"fontType": "Montserrat Medium",
-							"positionX": "329.1831",
-							"positionY": "780.2607"
+							"positionX": "921.3799",
+							"positionY": "712.5029"
 						},
 						{
-							"text": "BOOK A SEAT NOW!",
-							"color": "#414042",
+							"text": "Saturday,\nDecember 16",
+							"color": "#27373f",
+							"fontSize": "45",
+							"fontType": "Montserrat ExtraBold",
+							"positionX": "292.4968",
+							"positionY": "894.2305"
+						},
+						{
+							"text": "7:00 - 10:00 P.M.",
+							"color": "#ffffff",
 							"fontSize": "25",
 							"fontType": "Montserrat SemiBold",
-							"positionX": "168.165",
-							"positionY": "913.0313"
+							"positionX": "255.6016",
+							"positionY": "964.2119"
+						},
+						{
+							"text": "Visit our website",
+							"color": "#27373f",
+							"fontSize": "35",
+							"fontType": "Montserrat SemiBold",
+							"positionX": "916.0283",
+							"positionY": "972.1299"
+						},
+						{
+							"text": "www.company.com",
+							"color": "#ffffff",
+							"fontSize": "25",
+							"fontType": "Montserrat Medium",
+							"positionX": "916.0278",
+							"positionY": "1019.5322"
 						}
 					]
 				},
 				{
 					"frame": [
 						{
-							"X": "541.6994",
-							"Y": "76.8889",
+							"X": "575.8997",
+							"Y": "182.0212",
 							"type": "background",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_bg_image.png",
-							"width": "496.7848",
-							"height": "496.7848"
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_10_bg_image.png",
+							"width": "504.1003",
+							"height": "771.2538"
 						}
 					],
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_2.png",
-					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_2.png",
-					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2.png",
+					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_10.png",
+					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumb_10.png",
+					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_10.png",
 					"object": [
 						{
-							"X": "0",
-							"Y": "37.2889",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_1.png",
-							"width": "252.1619",
-							"height": "243.2832"
+							"X": "86.604",
+							"Y": "689.1762",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_10_object_1.png",
+							"width": "55.9854",
+							"height": "51.6415"
 						},
 						{
-							"X": "37.8164",
-							"Y": "621.4696",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_2.png",
-							"width": "49.0581",
-							"height": "48.7242"
+							"X": "86.604",
+							"Y": "784.9043",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_10_object_2.png",
+							"width": "56.6562",
+							"height": "56.6562"
 						},
 						{
-							"X": "757.8953",
-							"Y": "781.296",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_3.png",
-							"width": "287.7828",
-							"height": "298.2833"
+							"X": "397.5174",
+							"Y": "674.3674",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_10_object_3.png",
+							"width": "175.5874",
+							"height": "179.6885"
+						},
+						{
+							"X": "74.1847",
+							"Y": "964.8157",
+							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_10_object_4.png",
+							"width": "311.68",
+							"height": "60.7523"
 						}
 					],
 					"content": [
 						{
-							"text": "business\nseminars",
-							"color": "#414042",
-							"fontSize": "80",
+							"text": "BUSINESS",
+							"color": "#ffffff",
+							"fontSize": "85",
+							"fontType": "Montserrat Regular",
+							"positionX": "278.241",
+							"positionY": "167.0544"
+						},
+						{
+							"text": "CONFERENCE",
+							"color": "#eaab50",
+							"fontSize": "85",
+							"fontType": "Montserrat Bold",
+							"positionX": "368.4685",
+							"positionY": "264.9412"
+						},
+						{
+							"text": "webinar",
+							"color": "#f9ed32",
+							"fontSize": "120",
 							"fontType": "Montserrat SemiBold",
-							"positionX": "257.4941",
-							"positionY": "475.5718"
+							"positionX": "311.0833",
+							"positionY": "366.5703"
 						},
 						{
-							"text": "Monday, 20 April 2021",
-							"color": "#414042",
-							"fontSize": "30",
-							"fontType": "Montserrat Medium",
-							"positionX": "270.6741",
-							"positionY": "649.3247"
-						},
-						{
-							"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit,\nsed diam nonummy nibh euismod tincidunt ut\nlaoreet dolore magna aliquam erat ",
-							"color": "#414042",
-							"fontSize": "20",
-							"fontType": "Montserrat Medium",
-							"positionX": "329.1831",
-							"positionY": "780.2607"
-						},
-						{
-							"text": "BOOK A SEAT NOW!",
-							"color": "#414042",
+							"text": "Lorem ipsum dolor sit amet,\nconsectetuer adipiscing elit,\nsed diam nonummy nibh euismod\ntincidunt ut laoreet dolore magna.",
+							"color": "#ffffff",
 							"fontSize": "25",
 							"fontType": "Montserrat SemiBold",
-							"positionX": "168.165",
-							"positionY": "913.0313"
-						}
-					]
-				},
-				{
-					"frame": [
-						{
-							"X": "541.6994",
-							"Y": "76.8889",
-							"type": "background",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_bg_image.png",
-							"width": "496.7848",
-							"height": "496.7848"
-						}
-					],
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_2.png",
-					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_2.png",
-					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2.png",
-					"object": [
-						{
-							"X": "0",
-							"Y": "37.2889",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_1.png",
-							"width": "252.1619",
-							"height": "243.2832"
+							"positionX": "304.4021",
+							"positionY": "547.6975"
 						},
 						{
-							"X": "37.8164",
-							"Y": "621.4696",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_2.png",
-							"width": "49.0581",
-							"height": "48.7242"
+							"text": "DEC\n17",
+							"color": "#f9ed32",
+							"fontSize": "25",
+							"fontType": "Montserrat Bold",
+							"positionX": "205.6733",
+							"positionY": "719.5537"
 						},
 						{
-							"X": "757.8953",
-							"Y": "781.296",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_3.png",
-							"width": "287.7828",
-							"height": "298.2833"
-						}
-					],
-					"content": [
-						{
-							"text": "business\nseminars",
-							"color": "#414042",
-							"fontSize": "80",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "257.4941",
-							"positionY": "475.5718"
+							"text": "10\nAM",
+							"color": "#f9ed32",
+							"fontSize": "25",
+							"fontType": "Montserrat Bold",
+							"positionX": "202.2358",
+							"positionY": "810.9521"
 						},
 						{
-							"text": "Monday, 20 April 2021",
-							"color": "#414042",
-							"fontSize": "30",
-							"fontType": "Montserrat Medium",
-							"positionX": "270.6741",
-							"positionY": "649.3247"
-						},
-						{
-							"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit,\nsed diam nonummy nibh euismod tincidunt ut\nlaoreet dolore magna aliquam erat ",
-							"color": "#414042",
-							"fontSize": "20",
-							"fontType": "Montserrat Medium",
-							"positionX": "329.1831",
-							"positionY": "780.2607"
-						},
-						{
-							"text": "BOOK A SEAT NOW!",
-							"color": "#414042",
+							"text": "CONTACT US FOR REGISTER",
+							"color": "#ffffff",
 							"fontSize": "25",
 							"fontType": "Montserrat SemiBold",
-							"positionX": "168.165",
-							"positionY": "913.0313"
-						}
-					]
-				},
-				{
-					"frame": [
-						{
-							"X": "541.6994",
-							"Y": "76.8889",
-							"type": "background",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_bg_image.png",
-							"width": "496.7848",
-							"height": "496.7848"
-						}
-					],
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_2.png",
-					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_2.png",
-					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2.png",
-					"object": [
-						{
-							"X": "0",
-							"Y": "37.2889",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_1.png",
-							"width": "252.1619",
-							"height": "243.2832"
+							"positionX": "256.0945",
+							"positionY": "938.7979"
 						},
 						{
-							"X": "37.8164",
-							"Y": "621.4696",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_2.png",
-							"width": "49.0581",
-							"height": "48.7242"
-						},
-						{
-							"X": "757.8953",
-							"Y": "781.296",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_3.png",
-							"width": "287.7828",
-							"height": "298.2833"
-						}
-					],
-					"content": [
-						{
-							"text": "business\nseminars",
-							"color": "#414042",
-							"fontSize": "80",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "257.4941",
-							"positionY": "475.5718"
-						},
-						{
-							"text": "Monday, 20 April 2021",
-							"color": "#414042",
-							"fontSize": "30",
-							"fontType": "Montserrat Medium",
-							"positionX": "270.6741",
-							"positionY": "649.3247"
-						},
-						{
-							"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit,\nsed diam nonummy nibh euismod tincidunt ut\nlaoreet dolore magna aliquam erat ",
-							"color": "#414042",
-							"fontSize": "20",
-							"fontType": "Montserrat Medium",
-							"positionX": "329.1831",
-							"positionY": "780.2607"
-						},
-						{
-							"text": "BOOK A SEAT NOW!",
-							"color": "#414042",
-							"fontSize": "25",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "168.165",
-							"positionY": "913.0313"
-						}
-					]
-				},
-				{
-					"frame": [
-						{
-							"X": "541.6994",
-							"Y": "76.8889",
-							"type": "background",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_bg_image.png",
-							"width": "496.7848",
-							"height": "496.7848"
-						}
-					],
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_2.png",
-					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_2.png",
-					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2.png",
-					"object": [
-						{
-							"X": "0",
-							"Y": "37.2889",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_1.png",
-							"width": "252.1619",
-							"height": "243.2832"
-						},
-						{
-							"X": "37.8164",
-							"Y": "621.4696",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_2.png",
-							"width": "49.0581",
-							"height": "48.7242"
-						},
-						{
-							"X": "757.8953",
-							"Y": "781.296",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_3.png",
-							"width": "287.7828",
-							"height": "298.2833"
-						}
-					],
-					"content": [
-						{
-							"text": "business\nseminars",
-							"color": "#414042",
-							"fontSize": "80",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "257.4941",
-							"positionY": "475.5718"
-						},
-						{
-							"text": "Monday, 20 April 2021",
-							"color": "#414042",
-							"fontSize": "30",
-							"fontType": "Montserrat Medium",
-							"positionX": "270.6741",
-							"positionY": "649.3247"
-						},
-						{
-							"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit,\nsed diam nonummy nibh euismod tincidunt ut\nlaoreet dolore magna aliquam erat ",
-							"color": "#414042",
-							"fontSize": "20",
-							"fontType": "Montserrat Medium",
-							"positionX": "329.1831",
-							"positionY": "780.2607"
-						},
-						{
-							"text": "BOOK A SEAT NOW!",
-							"color": "#414042",
-							"fontSize": "25",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "168.165",
-							"positionY": "913.0313"
-						}
-					]
-				},
-				{
-					"frame": [
-						{
-							"X": "541.6994",
-							"Y": "76.8889",
-							"type": "background",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_bg_image.png",
-							"width": "496.7848",
-							"height": "496.7848"
-						}
-					],
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_2.png",
-					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_2.png",
-					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2.png",
-					"object": [
-						{
-							"X": "0",
-							"Y": "37.2889",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_1.png",
-							"width": "252.1619",
-							"height": "243.2832"
-						},
-						{
-							"X": "37.8164",
-							"Y": "621.4696",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_2.png",
-							"width": "49.0581",
-							"height": "48.7242"
-						},
-						{
-							"X": "757.8953",
-							"Y": "781.296",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_3.png",
-							"width": "287.7828",
-							"height": "298.2833"
-						}
-					],
-					"content": [
-						{
-							"text": "business\nseminars",
-							"color": "#414042",
-							"fontSize": "80",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "257.4941",
-							"positionY": "475.5718"
-						},
-						{
-							"text": "Monday, 20 April 2021",
-							"color": "#414042",
-							"fontSize": "30",
-							"fontType": "Montserrat Medium",
-							"positionX": "270.6741",
-							"positionY": "649.3247"
-						},
-						{
-							"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit,\nsed diam nonummy nibh euismod tincidunt ut\nlaoreet dolore magna aliquam erat ",
-							"color": "#414042",
-							"fontSize": "20",
-							"fontType": "Montserrat Medium",
-							"positionX": "329.1831",
-							"positionY": "780.2607"
-						},
-						{
-							"text": "BOOK A SEAT NOW!",
-							"color": "#414042",
-							"fontSize": "25",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "168.165",
-							"positionY": "913.0313"
-						}
-					]
-				},
-				{
-					"frame": [
-						{
-							"X": "541.6994",
-							"Y": "76.8889",
-							"type": "background",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_bg_image.png",
-							"width": "496.7848",
-							"height": "496.7848"
-						}
-					],
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_2.png",
-					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_2.png",
-					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2.png",
-					"object": [
-						{
-							"X": "0",
-							"Y": "37.2889",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_1.png",
-							"width": "252.1619",
-							"height": "243.2832"
-						},
-						{
-							"X": "37.8164",
-							"Y": "621.4696",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_2.png",
-							"width": "49.0581",
-							"height": "48.7242"
-						},
-						{
-							"X": "757.8953",
-							"Y": "781.296",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_3.png",
-							"width": "287.7828",
-							"height": "298.2833"
-						}
-					],
-					"content": [
-						{
-							"text": "business\nseminars",
-							"color": "#414042",
-							"fontSize": "80",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "257.4941",
-							"positionY": "475.5718"
-						},
-						{
-							"text": "Monday, 20 April 2021",
-							"color": "#414042",
-							"fontSize": "30",
-							"fontType": "Montserrat Medium",
-							"positionX": "270.6741",
-							"positionY": "649.3247"
-						},
-						{
-							"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit,\nsed diam nonummy nibh euismod tincidunt ut\nlaoreet dolore magna aliquam erat ",
-							"color": "#414042",
-							"fontSize": "20",
-							"fontType": "Montserrat Medium",
-							"positionX": "329.1831",
-							"positionY": "780.2607"
-						},
-						{
-							"text": "BOOK A SEAT NOW!",
-							"color": "#414042",
-							"fontSize": "25",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "168.165",
-							"positionY": "913.0313"
-						}
-					]
-				},
-				{
-					"frame": [
-						{
-							"X": "541.6994",
-							"Y": "76.8889",
-							"type": "background",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_bg_image.png",
-							"width": "496.7848",
-							"height": "496.7848"
-						}
-					],
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_2.png",
-					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_2.png",
-					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2.png",
-					"object": [
-						{
-							"X": "0",
-							"Y": "37.2889",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_1.png",
-							"width": "252.1619",
-							"height": "243.2832"
-						},
-						{
-							"X": "37.8164",
-							"Y": "621.4696",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_2.png",
-							"width": "49.0581",
-							"height": "48.7242"
-						},
-						{
-							"X": "757.8953",
-							"Y": "781.296",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_3.png",
-							"width": "287.7828",
-							"height": "298.2833"
-						}
-					],
-					"content": [
-						{
-							"text": "business\nseminars",
-							"color": "#414042",
-							"fontSize": "80",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "257.4941",
-							"positionY": "475.5718"
-						},
-						{
-							"text": "Monday, 20 April 2021",
-							"color": "#414042",
-							"fontSize": "30",
-							"fontType": "Montserrat Medium",
-							"positionX": "270.6741",
-							"positionY": "649.3247"
-						},
-						{
-							"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit,\nsed diam nonummy nibh euismod tincidunt ut\nlaoreet dolore magna aliquam erat ",
-							"color": "#414042",
-							"fontSize": "20",
-							"fontType": "Montserrat Medium",
-							"positionX": "329.1831",
-							"positionY": "780.2607"
-						},
-						{
-							"text": "BOOK A SEAT NOW!",
-							"color": "#414042",
-							"fontSize": "25",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "168.165",
-							"positionY": "913.0313"
-						}
-					]
-				},
-				{
-					"frame": [
-						{
-							"X": "541.6994",
-							"Y": "76.8889",
-							"type": "background",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_bg_image.png",
-							"width": "496.7848",
-							"height": "496.7848"
-						}
-					],
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_2.png",
-					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_2.png",
-					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2.png",
-					"object": [
-						{
-							"X": "0",
-							"Y": "37.2889",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_1.png",
-							"width": "252.1619",
-							"height": "243.2832"
-						},
-						{
-							"X": "37.8164",
-							"Y": "621.4696",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_2.png",
-							"width": "49.0581",
-							"height": "48.7242"
-						},
-						{
-							"X": "757.8953",
-							"Y": "781.296",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_3.png",
-							"width": "287.7828",
-							"height": "298.2833"
-						}
-					],
-					"content": [
-						{
-							"text": "business\nseminars",
-							"color": "#414042",
-							"fontSize": "80",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "257.4941",
-							"positionY": "475.5718"
-						},
-						{
-							"text": "Monday, 20 April 2021",
-							"color": "#414042",
-							"fontSize": "30",
-							"fontType": "Montserrat Medium",
-							"positionX": "270.6741",
-							"positionY": "649.3247"
-						},
-						{
-							"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit,\nsed diam nonummy nibh euismod tincidunt ut\nlaoreet dolore magna aliquam erat ",
-							"color": "#414042",
-							"fontSize": "20",
-							"fontType": "Montserrat Medium",
-							"positionX": "329.1831",
-							"positionY": "780.2607"
-						},
-						{
-							"text": "BOOK A SEAT NOW!",
-							"color": "#414042",
-							"fontSize": "25",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "168.165",
-							"positionY": "913.0313"
-						}
-					]
-				},
-				{
-					"frame": [
-						{
-							"X": "541.6994",
-							"Y": "76.8889",
-							"type": "background",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_bg_image.png",
-							"width": "496.7848",
-							"height": "496.7848"
-						}
-					],
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_2.png",
-					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_2.png",
-					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2.png",
-					"object": [
-						{
-							"X": "0",
-							"Y": "37.2889",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_1.png",
-							"width": "252.1619",
-							"height": "243.2832"
-						},
-						{
-							"X": "37.8164",
-							"Y": "621.4696",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_2.png",
-							"width": "49.0581",
-							"height": "48.7242"
-						},
-						{
-							"X": "757.8953",
-							"Y": "781.296",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_3.png",
-							"width": "287.7828",
-							"height": "298.2833"
-						}
-					],
-					"content": [
-						{
-							"text": "business\nseminars",
-							"color": "#414042",
-							"fontSize": "80",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "257.4941",
-							"positionY": "475.5718"
-						},
-						{
-							"text": "Monday, 20 April 2021",
-							"color": "#414042",
-							"fontSize": "30",
-							"fontType": "Montserrat Medium",
-							"positionX": "270.6741",
-							"positionY": "649.3247"
-						},
-						{
-							"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit,\nsed diam nonummy nibh euismod tincidunt ut\nlaoreet dolore magna aliquam erat ",
-							"color": "#414042",
-							"fontSize": "20",
-							"fontType": "Montserrat Medium",
-							"positionX": "329.1831",
-							"positionY": "780.2607"
-						},
-						{
-							"text": "BOOK A SEAT NOW!",
-							"color": "#414042",
-							"fontSize": "25",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "168.165",
-							"positionY": "913.0313"
-						}
-					]
-				},
-				{
-					"frame": [
-						{
-							"X": "541.6994",
-							"Y": "76.8889",
-							"type": "background",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_bg_image.png",
-							"width": "496.7848",
-							"height": "496.7848"
-						}
-					],
-					"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_bg_2.png",
-					"thumb": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_thumbnail_2.png",
-					"main_img": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2.png",
-					"object": [
-						{
-							"X": "0",
-							"Y": "37.2889",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_1.png",
-							"width": "252.1619",
-							"height": "243.2832"
-						},
-						{
-							"X": "37.8164",
-							"Y": "621.4696",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_2.png",
-							"width": "49.0581",
-							"height": "48.7242"
-						},
-						{
-							"X": "757.8953",
-							"Y": "781.296",
-							"image": "https://raw.githubusercontent.com/appssmart/api/main/poster_maker/template/img/business_2_object_3.png",
-							"width": "287.7828",
-							"height": "298.2833"
-						}
-					],
-					"content": [
-						{
-							"text": "business\nseminars",
-							"color": "#414042",
-							"fontSize": "80",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "257.4941",
-							"positionY": "475.5718"
-						},
-						{
-							"text": "Monday, 20 April 2021",
-							"color": "#414042",
-							"fontSize": "30",
-							"fontType": "Montserrat Medium",
-							"positionX": "270.6741",
-							"positionY": "649.3247"
-						},
-						{
-							"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit,\nsed diam nonummy nibh euismod tincidunt ut\nlaoreet dolore magna aliquam erat ",
-							"color": "#414042",
-							"fontSize": "20",
-							"fontType": "Montserrat Medium",
-							"positionX": "329.1831",
-							"positionY": "780.2607"
-						},
-						{
-							"text": "BOOK A SEAT NOW!",
-							"color": "#414042",
-							"fontSize": "25",
-							"fontType": "Montserrat SemiBold",
-							"positionX": "168.165",
-							"positionY": "913.0313"
+							"text": "+123 456789",
+							"color": "#f9ed32",
+							"fontSize": "35",
+							"fontType": "Montserrat Bold",
+							"positionX": "225.8899",
+							"positionY": "997.4692"
 						}
 					]
 				}
