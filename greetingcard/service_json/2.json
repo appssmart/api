@@ -80,7 +80,7 @@
       "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_1.png",
 	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_1_bg.png",
       "img_name": "Balloon",
-      "category_id": "1"
+      "category_id": "2"
     },
     {
       "id": "2",
@@ -129,7 +129,7 @@
       "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
 	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
       "img_name": "Balloon2",
-      "category_id": "1"
+      "category_id": "2"
     },
 	{
       "id": "3",
@@ -178,7 +178,7 @@
       "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
 	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
       "img_name": "Balloon2",
-      "category_id": "1"
+      "category_id": "2"
     },
 	{
       "id": "4",
@@ -227,7 +227,7 @@
       "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
 	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
       "img_name": "Balloon2",
-      "category_id": "1"
+      "category_id": "2"
     },
 	{
       "id": "5",
@@ -276,7 +276,7 @@
       "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
 	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
       "img_name": "Balloon2",
-      "category_id": "1"
+      "category_id": "2"
     },
 	{
       "id": "6",
@@ -325,7 +325,7 @@
       "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
 	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
       "img_name": "Balloon2",
-      "category_id": "1"
+      "category_id": "2"
     },
 	{
       "id": "7",
@@ -374,7 +374,7 @@
       "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
 	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
       "img_name": "Balloon2",
-      "category_id": "1"
+      "category_id": "2"
     },
 	{
       "id": "8",
@@ -423,7 +423,7 @@
       "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
 	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
       "img_name": "Balloon2",
-      "category_id": "1"
+      "category_id": "2"
     },
 	{
       "id": "9",
@@ -472,7 +472,7 @@
       "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
 	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
       "img_name": "Balloon2",
-      "category_id": "1"
+      "category_id": "2"
     },
 	{
       "id": "10",
@@ -521,7 +521,7 @@
       "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
 	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
       "img_name": "Balloon2",
-      "category_id": "1"
+      "category_id": "2"
     }
   ]
 }
