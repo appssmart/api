@@ -77,7 +77,7 @@
             "positionY": "887.7666"
           }
       ],
-      "img_url": "/invitation_1.png",
+      "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_1.png",
       "img_name": "Balloon",
       "category_id": "1"
     },
@@ -125,7 +125,7 @@
           "positionY": "767.7632"
         }
       ],
-      "img_url": "/invitation_2.png",
+      "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
       "img_name": "Balloon2",
       "category_id": "1"
     }
