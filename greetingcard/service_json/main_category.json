@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "content": [
+        {
+          "text": "Save",
+          "color": "#ffffff",
+          "fontSize": "200",
+          "fontType": "Euphoria Script Regular",
+          "positionX": "366.2852",
+          "positionY": "327.325"
+        },
+        {
+          "text": "the",
+          "color": "#ffffff",
+          "fontSize": "80",
+          "fontType": "Euphoria Script Regular",
+          "positionX": "253.4258",
+          "positionY": "458.5117"
+        },
+        {
+          "text": "Date",
+          "color": "#ffffff",
+          "fontSize": "200",
+          "fontType": "Euphoria Script Regular",
+          "positionX": "458.1245",
+          "positionY": "513.4407"
+        },
+        {
+          "text": "Emma",
+          "color": "#0a1930",
+          "fontSize": "80",
+          "fontType": "Great Vibes Regular",
+          "positionX": "240.3706",
+          "positionY": "765.0015"
+        },
+        {
+            "text": "&",
+            "color": "#0a1930",
+            "fontSize": "70",
+            "fontType": "Great Vibes Regular",
+            "positionX": "390",
+            "positionY": "767.5063"
+          },
+          {
+            "text": "David",
+            "color": "#0a1930",
+            "fontSize": "80",
+            "fontType": "Great Vibes Regular",
+            "positionX": "540.9253",
+            "positionY": "765.0015"
+          },
+          {
+            "text": "Your City",
+            "color": "#231f20",
+            "fontSize": "30",
+            "fontType": "Montserrat Regular",
+            "positionX": "181.9575",
+            "positionY": "890.6797"
+          },
+          {
+            "text": "21\n02\n2022",
+            "color": "#231f20",
+            "fontSize": "22",
+            "fontType": "Montserrat Regular",
+            "positionX": "389.9995",
+            "positionY": "889.9985"
+          },
+          {
+            "text": "Your Time",
+            "color": "#231f20",
+            "fontSize": "30",
+            "fontType": "Montserrat Regular",
+            "positionX": "587.4648",
+            "positionY": "887.7666"
+          }
+      ],
+      "img_url": "/invitation_1.png",
+      "img_name": "Balloon",
+      "category_id": "1"
+    },
+    {
+      "id": "2",
+      "content": [
+        {
+          "text": "Your Club Name",
+          "color": "#c47620",
+          "fontSize": "40",
+          "fontType": "Caveat Bold",
+          "positionX": "391.6597",
+          "positionY": "200.7146"
+        },
+        {
+          "text": "Christmas",
+          "color": "#e97817",
+          "fontSize": "155",
+          "fontType": "Chiller Regular",
+          "positionX": "390",
+          "positionY": "330.6113"
+        },
+        {
+          "text": "Party",
+          "color": "#e97817",
+          "fontSize": "95",
+          "fontType": "Chiller Regular",
+          "positionX": "390",
+          "positionY": "446.2952"
+        },
+        {
+          "text": "Street Address  | 13 . 09 . 2022",
+          "color": "#2d2d2d",
+          "fontSize": "40",
+          "fontType": "Caveat SemiBold",
+          "positionX": "386.2041",
+          "positionY": "691.2339"
+        },
+        {
+          "text": "The Season Of Festival And Wonder Is Waiting For You To\nUnwarp Joy And Galety. Happy Holidays!",
+          "color": "#2d2d2d",
+          "fontSize": "30",
+          "fontType": "Caveat Regular",
+          "positionX": "389.7258",
+          "positionY": "767.7632"
+        }
+      ],
+      "img_url": "/invitation_2.png",
+      "img_name": "Balloon2",
+      "category_id": "1"
+    }
+  ],
+  "status": "1"
+}
