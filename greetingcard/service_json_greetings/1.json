@@ -1,0 +1,22 @@
+{
+	"status": "1",
+	"data": [
+
+		{
+			"id": "1",
+			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_1.png",
+			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_1_bg.png",
+			"img_name": "Balloon",
+			"category_id": "1",
+			"content": []
+		},
+		{
+			"id": "2",
+			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
+			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
+			"img_name": "Balloon2",
+			"category_id": "1",
+			"content": []
+		}
+	]
+}
