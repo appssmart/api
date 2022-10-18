@@ -3,80 +3,80 @@
 	"data": [
 		{
 			"id": "1",
-			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_1.png",
-			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_1.png",
+			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_1.jpg",
+			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_1.jpg",
 			"img_name": "",
 			"category_id": "1",
 			"content": []
 		},
 		{
 			"id": "2",
-			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_2.png",
-			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_2.png",
+			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_2.jpg",
+			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_2.jpg",
 			"img_name": "",
 			"category_id": "1",
 			"content": []
 		},
 		{
 			"id": "3",
-			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_3.png",
-			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_3.png",
+			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_3.jpg",
+			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_3.jpg",
 			"img_name": "",
 			"category_id": "1",
 			"content": []
 		},
 		{
 			"id": "4",
-			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_4.png",
-			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_4.png",
+			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_4.jpg",
+			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_4.jpg",
 			"img_name": "",
 			"category_id": "1",
 			"content": []
 		},
 		{
 			"id": "5",
-			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_5.png",
-			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_5.png",
+			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_5.jpg",
+			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/cheer_up_5.jpg",
 			"img_name": "",
 			"category_id": "1",
 			"content": []
 		},
 		{
 			"id": "6",
-			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_1.png",
-			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_1.png",
+			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_1.jpg",
+			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_1.jpg",
 			"img_name": "",
 			"category_id": "2",
 			"content": []
 		},
 		{
 			"id": "7",
-			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_2.png",
-			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_2.png",
+			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_2.jpg",
+			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_2.jpg",
 			"img_name": "",
 			"category_id": "2",
 			"content": []
 		},
 		{
 			"id": "8",
-			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_3.png",
-			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_3.png",
+			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_3.jpg",
+			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_3.jpg",
 			"img_name": "",
 			"category_id": "2",
 			"content": []
 		},
 		{
 			"id": "9",
-			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_4.png",
-			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_4.png",
+			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_4.jpg",
+			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_4.jpg",
 			"img_name": "",
 			"category_id": "2",
 			"content": []
 		},
 		{
 			"id": "10",
-			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_5.png",
-			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_5.png",
+			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_5.jpg",
+			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_5.jpg",
 			"img_name": "",
 			"category_id": "2",
 			"content": []
