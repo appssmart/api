@@ -31,7 +31,7 @@
 		"app_title": "Test",
 		"interstitial_skip": 0,
 		"native_priority": ["toponad"],
-		"banner_priority": "3",
+		"banner_priority": "4",
 		"interstitial_priority": ["toponad"],
 		"spalsh_interstitial_priority": ["toponad"],
 		"fail_priority": "google",
