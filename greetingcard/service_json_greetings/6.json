@@ -1,7 +1,84 @@
 {
   "status": "1",
   "data": [
-    vitation_card_maker/engagementparty_invitation_card_1.png",
+  {
+      "id": "1",
+      "content": [
+        {
+          "text": "TOGETHER\nWITH THEIR FAMILIES",
+          "color": "#8a5e3c",
+          "fontSize": "20",
+          "fontType": "Georgia Regular",
+          "positionX": "480.4561",
+          "positionY": "101.6753"
+        },
+        {
+          "text": "Engagement Party",
+          "color": "#8a5e3c",
+          "fontSize": "50",
+          "fontType": "Jelytta Regular",
+          "positionX": "493.3384",
+          "positionY": "211.5654"
+        },
+        {
+          "text": "Tinah",
+          "color": "#576f32",
+          "fontSize": "140",
+          "fontType": "Jelytta Regular",
+          "positionX": "481.7158",
+          "positionY": "383.3743"
+        },
+        {
+          "text": "and",
+          "color": "#576f32",
+          "fontSize": "50",
+          "fontType": "Great Vibes Regular",
+          "positionX": "606.4785",
+          "positionY": "459.2698"
+        },
+        {
+          "text": "Heru",
+          "color": "#576f32",
+          "fontSize": "140",
+          "fontType": "Jelytta Regular",
+          "positionX": "481.1533",
+          "positionY": "541.7888"
+        },
+        {
+          "text": "ARE PLEASED TO INVITE YOU\nTO THEIR WEDDING\nCELEBRATION",
+          "color": "#8a5e3c",
+          "fontSize": "20",
+          "fontType": "Georgia Regular",
+          "positionX": "491.8279",
+          "positionY": "707.5093"
+        },
+        {
+          "text": "MAY                      2024",
+          "color": "#576f32",
+          "fontSize": "25",
+          "fontType": "Georgia Regular",
+          "positionX": "491.519",
+          "positionY": "824.7915"
+        },
+        {
+          "text": "SAT\n25",
+          "color": "#576f32",
+          "fontSize": "35",
+          "fontType": "Georgia Regular",
+          "positionX": "491.5186",
+          "positionY": "823.8496"
+        },
+        {
+          "text": "132 YOUT PLACE\nYOUR CITY, YOUR COUNTRY",
+          "color": "#8a5e3c",
+          "fontSize": "20",
+          "fontType": "Georgia Regular",
+          "positionX": "491.8267",
+          "positionY": "937.6338"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/engagementparty_invitation_card_1.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/engagementparty_invitation_card_1_bg.png",
       "img_name": "beautiful white roses",
       "category_id": "6"
     },
@@ -42,6 +119,7 @@
         }
       ],
       "img_url": "https://movieplex.live/assets/images/invitation_card_maker/engagementparty_invitation_card_2.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/engagementparty_invitation_card_2_bg.png",
       "img_name": "Simple",
       "category_id": "6"
     },
@@ -90,6 +168,7 @@
         }
       ],
       "img_url": "https://movieplex.live/assets/images/invitation_card_maker/engagementparty_invitation_card_3.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/engagementparty_invitation_card_3_bg.png",
       "img_name": "Watercolor leaves",
       "category_id": "6"
     },
@@ -154,6 +233,7 @@
         }
       ],
       "img_url": "https://movieplex.live/assets/images/invitation_card_maker/engagementparty_invitation_card_4.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/engagementparty_invitation_card_4_bg.png",
       "img_name": "Rose Gold Floral",
       "category_id": "6"
     },
@@ -210,6 +290,7 @@
         }
       ],
       "img_url": "https://movieplex.live/assets/images/invitation_card_maker/engagementparty_invitation_card_5.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/engagementparty_invitation_card_5_bg.png",
       "img_name": "Bronze Rings",
       "category_id": "6"
     }

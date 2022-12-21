@@ -54,6 +54,7 @@
         }
       ],
       "img_url": "https://movieplex.live/assets/images/invitation_card_maker/summer_pool_invitation_card_1.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/summer_pool_invitation_card_1_bg.png",
       "img_name": "Summer Flyer",
       "category_id": "7"
     },
@@ -126,6 +127,7 @@
         }
       ],
       "img_url": "https://movieplex.live/assets/images/invitation_card_maker/summer_pool_invitation_card_2.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/summer_pool_invitation_card_2_bg.png",
       "img_name": "Orchids & Flamingo",
       "category_id": "7"
     },
@@ -166,6 +168,7 @@
         }
       ],
       "img_url": "https://movieplex.live/assets/images/invitation_card_maker/summer_pool_invitation_card_3.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/summer_pool_invitation_card_3_bg.png",
       "img_name": "Snacks Pool Party",
       "category_id": "7"
     },
@@ -222,6 +225,7 @@
         }
       ],
       "img_url": "https://movieplex.live/assets/images/invitation_card_maker/summer_pool_invitation_card_4.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/summer_pool_invitation_card_4_bg.png",
       "img_name": "Summer party Stuff",
       "category_id": "7"
     },
@@ -270,6 +274,7 @@
         }
       ],
       "img_url": "https://movieplex.live/assets/images/invitation_card_maker/summer_pool_invitation_card_5.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/summer_pool_invitation_card_5_bg.png",
       "img_name": "Pool Leaves",
       "category_id": "7"
     }

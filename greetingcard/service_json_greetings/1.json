@@ -54,6 +54,7 @@
           }
       ],
       "img_url": "https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_1.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_1_bg.png",	  
       "img_name": "Peacocks-Flowers",
       "category_id": "1"
     },
@@ -94,6 +95,7 @@
         }
       ],
       "img_url": "https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_2.png",
+	  "img_url_bg":"https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_2_bg.png",
       "img_name": "Red-Roses-Flowers",
       "category_id": "1"
     },
@@ -142,6 +144,7 @@
         }
       ],
       "img_url": "https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_3.png",
+	  "img_url_bg":"https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_3_bg.png",
       "img_name": "Bridal-Shower",
       "category_id": "1"
     },
@@ -190,6 +193,7 @@
         }
       ],
       "img_url": "https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_4.png",
+	  "img_url_bg":"https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_4_bg.png",
       "img_name": "Decorative-Flower",
       "category_id": "1"
     },
@@ -262,6 +266,7 @@
         }
       ],
       "img_url": "https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_5.png",
+	  "img_url_bg":"https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_bg.png",
       "img_name": "Gradient-Golden-Floral",
       "category_id": "1"
     }

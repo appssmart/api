@@ -53,7 +53,8 @@
             "positionY": "878.0591"
           }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//birthday_invitation_card_1.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/birthday_invitation_card_1.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/birthday_invitation_card_1_bg.png",
       "img_name": "Big Bang party",
       "category_id": "2"
     },
@@ -93,7 +94,8 @@
           "positionY": "693.1934"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//birthday_invitation_card_2.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/birthday_invitation_card_2.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/birthday_invitation_card_2_bg.png",
       "img_name": "Gift Party",
       "category_id": "2"
     },
@@ -149,7 +151,8 @@
           "positionY": "756.894"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//birthday_invitation_card_3.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/birthday_invitation_card_3.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/birthday_invitation_card_3_bg.png",
       "img_name": "Jungle Party",
       "category_id": "2"
     },
@@ -205,7 +208,8 @@
           "positionY": "617.0303"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//birthday_invitation_card_4.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/birthday_invitation_card_4.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/birthday_invitation_card_4_bg.png",
       "img_name": "Hand Drawn",
       "category_id": "2"
     },
@@ -261,7 +265,8 @@
           "positionY": "1019.1367"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//birthday_invitation_card_5.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/birthday_invitation_card_5.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/birthday_invitation_card_5_bg.png",
       "img_name": "Emoji Party",
       "category_id": "2"
     }

@@ -61,7 +61,8 @@
             "positionY": "847.0894"
           }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//christmas_invitation_card_1.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/christmas_invitation_card_1.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/christmas_invitation_card_1_bg.png",
       "img_name": "christmas floral",
       "category_id": "3"
     },
@@ -101,7 +102,8 @@
           "positionY": "826.9009"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//christmas_invitation_card_2.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/christmas_invitation_card_2.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/christmas_invitation_card_2_bg.png",
       "img_name": "Sale",
       "category_id": "3"
     },
@@ -141,7 +143,8 @@
           "positionY": "976.3716"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//christmas_invitation_card_3.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/christmas_invitation_card_3.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/christmas_invitation_card_3_bg.png",
       "img_name": "Toy Drive",
       "category_id": "3"
     },
@@ -213,7 +216,8 @@
           "positionY": "841.7295"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//christmas_invitation_card_4.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/christmas_invitation_card_4.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/christmas_invitation_card_4_bg.png",
       "img_name": "A Merry Little Party",
       "category_id": "3"
     },
@@ -253,7 +257,8 @@
           "positionY": "718.9414"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//christmas_invitation_card_5.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/christmas_invitation_card_5.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/christmas_invitation_card_5_bg.png",
       "img_name": "Holiday Dinner",
       "category_id": "3"
     }

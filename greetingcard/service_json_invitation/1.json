@@ -37,23 +37,24 @@
           "positionY": "599.3179"
         },
         {
-          "text": "6 o’clock in the evening",
-          "color": "#77614c",
-          "fontSize": "25",
-          "fontType": "New Caslon Regular",
-          "positionX": "390",
-          "positionY": "742.3354"
-        },
-        {
-          "text": "53 Palm Spring, DG",
-          "color": "#77614c",
-          "fontSize": "25",
-          "fontType": "New Caslon Regular",
-          "positionX": "390",
-          "positionY": "788.0454"
-        }
+            "text": "6 o’clock in the evening",
+            "color": "#77614c",
+            "fontSize": "25",
+            "fontType": "New Caslon Regular",
+            "positionX": "390",
+            "positionY": "742.3354"
+          },
+          {
+            "text": "53 Palm Spring, DG",
+            "color": "#77614c",
+            "fontSize": "25",
+            "fontType": "New Caslon Regular",
+            "positionX": "390",
+            "positionY": "788.0454"
+          }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//wedding_invitation_card_1.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_1.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_1_bg.png",	  
       "img_name": "Peacocks-Flowers",
       "category_id": "1"
     },
@@ -93,7 +94,8 @@
           "positionY": "808.9111"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//wedding_invitation_card_2.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_2.png",
+	  "img_url_bg":"https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_2_bg.png",
       "img_name": "Red-Roses-Flowers",
       "category_id": "1"
     },
@@ -141,7 +143,8 @@
           "positionY": "833.2275"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//wedding_invitation_card_3.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_3.png",
+	  "img_url_bg":"https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_3_bg.png",
       "img_name": "Bridal-Shower",
       "category_id": "1"
     },
@@ -189,7 +192,8 @@
           "positionY": "945.0786"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//wedding_invitation_card_4.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_4.png",
+	  "img_url_bg":"https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_4_bg.png",
       "img_name": "Decorative-Flower",
       "category_id": "1"
     },
@@ -261,7 +265,8 @@
           "positionY": "788.9141"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//wedding_invitation_card_5.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_5.png",
+	  "img_url_bg":"https://movieplex.live/assets/images/invitation_card_maker/wedding_invitation_card_bg.png",
       "img_name": "Gradient-Golden-Floral",
       "category_id": "1"
     }

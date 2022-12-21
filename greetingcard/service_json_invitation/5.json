@@ -45,7 +45,8 @@
           "positionY": "841.9336"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//babyshower_invitation_card_1.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/babyshower_invitation_card_1.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/babyshower_invitation_card_1_bg.png",
       "img_name": "Gift Prty",
       "category_id": "5"
     },
@@ -93,7 +94,8 @@
           "positionY": "665.1191"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//babyshower_invitation_card_2.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/babyshower_invitation_card_2.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/babyshower_invitation_card_2_bg.png",
       "img_name": "Baby Toy Clouds",
       "category_id": "5"
     },
@@ -157,7 +159,8 @@
           "positionY": "909.1743"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//babyshower_invitation_card_3.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/babyshower_invitation_card_3.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/babyshower_invitation_card_3_bg.png",
       "img_name": "Lovely Rainbow",
       "category_id": "5"
     },
@@ -237,7 +240,8 @@
           "positionY": "818.6924"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//babyshower_invitation_card_4.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/babyshower_invitation_card_4.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/babyshower_invitation_card_4_bg.png",
       "img_name": "Gender Reveal Party",
       "category_id": "5"
     },
@@ -293,7 +297,8 @@
           "positionY": "909.5244"
         }
       ],
-      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//babyshower_invitation_card_5.png",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/babyshower_invitation_card_5.png",
+      "img_url_bg": "https://movieplex.live/assets/images/invitation_card_maker/babyshower_invitation_card_5_bg.png",
       "img_name": "Pretty",
       "category_id": "5"
     }
