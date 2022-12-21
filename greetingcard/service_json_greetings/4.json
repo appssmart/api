@@ -1,0 +1,221 @@
+{
+  "status": "1",
+  "data": [
+    {
+      "id": "1",
+      "content": [
+        {
+          "text": "HAPPY",
+          "color": "#66210e",
+          "fontSize": "85",
+          "fontType": "Anton Regular",
+          "positionX": "390",
+          "positionY": "355.0095"
+        },
+        {
+          "text": "THANKSGIVING",
+          "color": "#66210e",
+          "fontSize": "60",
+          "fontType": "Anton Regular",
+          "positionX": "390",
+          "positionY": "453.2822"
+        },
+        {
+          "text": "DAY",
+          "color": "#66210e",
+          "fontSize": "130",
+          "fontType": "Anton Regular",
+          "positionX": "389.999",
+          "positionY": "587.9604"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//thnaksgiving_invitation_card_1.png",
+      "img_name": "Day",
+      "category_id": "4"
+    },
+    {
+      "id": "2",
+      "content": [
+        {
+          "text": "Happy\nThanksgiving",
+          "color": "#a01d20",
+          "fontSize": "80",
+          "fontType": "Kaushan Script Regular",
+          "positionX": "390.0193",
+          "positionY": "444.5911"
+        },
+        {
+          "text": "November 28th",
+          "color": "#faa31c",
+          "fontSize": "60",
+          "fontType": "Kaushan Script Regular",
+          "positionX": "389.7495",
+          "positionY": "597.0093"
+        },
+        {
+          "text": "Join us to celebrate this\nspecial day ",
+          "color": "#f79223",
+          "fontSize": "25",
+          "fontType": "Montserrat Regular",
+          "positionX": "389.9998",
+          "positionY": "710.3887"
+        },
+        {
+          "text": "Lorem Ipsum is simply dummy text of the\nprinting and typesetting industry. Lorem Ipsum\nhas been the industry's standard dummy. ",
+          "color": "#7b3218",
+          "fontSize": "15",
+          "fontType": "Montserrat Medium",
+          "positionX": "390.0007",
+          "positionY": "823.021"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//thnaksgiving_invitation_card_2.png",
+      "img_name": "Flowing Leaves",
+      "category_id": "4"
+    },
+    {
+      "id": "3",
+      "content": [
+        {
+          "text": "HARVEST FESTIVAL",
+          "color": "#a03022",
+          "fontSize": "65",
+          "fontType": "Edu NSW ACT Foundation Bold",
+          "positionX": "390",
+          "positionY": "616.9229"
+        },
+        {
+          "text": "October 20",
+          "color": "#4c2a72",
+          "fontSize": "50",
+          "fontType": "Palatino Linotype Bold",
+          "positionX": "390",
+          "positionY": "704.2246"
+        },
+        {
+          "text": "Starts at 9 am | At North Village",
+          "color": "#352e20",
+          "fontSize": "35",
+          "fontType": "Edu NSW ACT Foundation SemiBold",
+          "positionX": "389.9998",
+          "positionY": "793.8691"
+        },
+        {
+          "text": "100% LOCAL PRODUCT",
+          "color": "#a03022",
+          "fontSize": "40",
+          "fontType": "Edu NSW ACT Foundation SemiBold",
+          "positionX": "390.0002",
+          "positionY": "866.3018"
+        },
+        {
+          "text": "RSVP : +12 345 6789",
+          "color": "#352e20",
+          "fontSize": "25",
+          "fontType": "Edu NSW ACT Foundation SemiBold",
+          "positionX": "390",
+          "positionY": "933.0356"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//thnaksgiving_invitation_card_3.png",
+      "img_name": "Harvest Festival",
+      "category_id": "4"
+    },
+    {
+      "id": "4",
+      "content": [
+        {
+          "text": "Please join us for a",
+          "color": "#50622c",
+          "fontSize": "30",
+          "fontType": "Merriweather Italic",
+          "positionX": "390.0002",
+          "positionY": "102.2068"
+        },
+        {
+          "text": "THANKSGIVING\nDINNER",
+          "color": "#50622c",
+          "fontSize": "30",
+          "fontType": "Merriweather Light",
+          "positionX": "389.9998",
+          "positionY": "406.1709"
+        },
+        {
+          "text": "Natalie & Jeremie",
+          "color": "#8c191c",
+          "fontSize": "50",
+          "fontType": "Merriweather Italic",
+          "positionX": "389.9998",
+          "positionY": "497.9067"
+        },
+        {
+          "text": "November 17th, 7 pm\n41 josthua St.",
+          "color": "#50622c",
+          "fontSize": "20",
+          "fontType": "Merriweather Regular",
+          "positionX": "390.0002",
+          "positionY": "582.9814"
+        },
+        {
+          "text": "RSVP : 312-1234-1234",
+          "color": "#50622c",
+          "fontSize": "15",
+          "fontType": "Merriweather Regular",
+          "positionX": "390",
+          "positionY": "636.8809"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//thnaksgiving_invitation_card_4.png",
+      "img_name": "pumpkin-apple-corn",
+      "category_id": "4"
+    },
+    {
+      "id": "5",
+      "content": [
+        {
+          "text": "Please Join Us For a",
+          "color": "#734c3e",
+          "fontSize": "25",
+          "fontType": "Merriweather Italic",
+          "positionX": "389.9998",
+          "positionY": "136.1501"
+        },
+        {
+          "text": "Thanksgiving\ncelebration",
+          "color": "#c02b48",
+          "fontSize": "100",
+          "fontType": "Alex Brush Regular",
+          "positionX": "390",
+          "positionY": "276.741"
+        },
+        {
+          "text": "Sunday November 15\n5 O’ Clock In The Afternonon",
+          "color": "#99a568",
+          "fontSize": "30",
+          "fontType": "Merriweather Italic",
+          "positionX": "390",
+          "positionY": "421.6541"
+        },
+        {
+          "text": "The Bradfords\n614 Alden Circle, Plymouth",
+          "color": "#734c3e",
+          "fontSize": "25",
+          "fontType": "Merriweather Italic",
+          "positionX": "390.0002",
+          "positionY": "524.3054"
+        },
+        {
+          "text": "RSVP: 123,456,7890",
+          "color": "#99a568",
+          "fontSize": "20",
+          "fontType": "Merriweather Italic",
+          "positionX": "391.1174",
+          "positionY": "603.3315"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//thnaksgiving_invitation_card_5.png",
+      "img_name": "Stories",
+      "category_id": "4"
+    }
+  ]
+}

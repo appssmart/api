@@ -1,0 +1,293 @@
+{
+  "status": "1",
+  "data": [
+    {
+      "id": "1",
+      "content": [
+        {
+          "text": "TOGETHER\nWITH THEIR FAMILIES",
+          "color": "#8a5e3c",
+          "fontSize": "20",
+          "fontType": "Georgia Regular",
+          "positionX": "480.4561",
+          "positionY": "101.6753"
+        },
+        {
+          "text": "Engagement Party",
+          "color": "#8a5e3c",
+          "fontSize": "50",
+          "fontType": "Jelytta Regular",
+          "positionX": "493.3384",
+          "positionY": "211.5654"
+        },
+        {
+          "text": "Tinah",
+          "color": "#576f32",
+          "fontSize": "140",
+          "fontType": "Jelytta Regular",
+          "positionX": "481.7158",
+          "positionY": "383.3743"
+        },
+        {
+          "text": "and",
+          "color": "#576f32",
+          "fontSize": "50",
+          "fontType": "Great Vibes Regular",
+          "positionX": "606.4785",
+          "positionY": "459.2698"
+        },
+        {
+          "text": "Heru",
+          "color": "#576f32",
+          "fontSize": "140",
+          "fontType": "Jelytta Regular",
+          "positionX": "481.1533",
+          "positionY": "541.7888"
+        },
+        {
+          "text": "ARE PLEASED TO INVITE YOU\nTO THEIR WEDDING\nCELEBRATION",
+          "color": "#8a5e3c",
+          "fontSize": "20",
+          "fontType": "Georgia Regular",
+          "positionX": "491.8279",
+          "positionY": "707.5093"
+        },
+        {
+          "text": "MAY                      2024",
+          "color": "#576f32",
+          "fontSize": "25",
+          "fontType": "Georgia Regular",
+          "positionX": "491.519",
+          "positionY": "824.7915"
+        },
+        {
+          "text": "SAT\n25",
+          "color": "#576f32",
+          "fontSize": "35",
+          "fontType": "Georgia Regular",
+          "positionX": "491.5186",
+          "positionY": "823.8496"
+        },
+        {
+          "text": "132 YOUT PLACE\nYOUR CITY, YOUR COUNTRY",
+          "color": "#8a5e3c",
+          "fontSize": "20",
+          "fontType": "Georgia Regular",
+          "positionX": "491.8267",
+          "positionY": "937.6338"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//engagementparty_invitation_card_1.png",
+      "img_name": "beautiful white roses",
+      "category_id": "6"
+    },
+    {
+      "id": "2",
+      "content": [
+        {
+          "text": "JOIN US FOR AN\nENGAGEMENT PARTY\nCELEBRATING",
+          "color": "#f0cf50",
+          "fontSize": "25",
+          "fontType": "Exo 2 Bold",
+          "positionX": "390",
+          "positionY": "223.1274"
+        },
+        {
+          "text": "RAHUL\n&\nKAJAL",
+          "color": "#ffffff",
+          "fontSize": "75",
+          "fontType": "Bell MT Regular",
+          "positionX": "390",
+          "positionY": "452.6172"
+        },
+        {
+          "text": "MAY 24 | 2023",
+          "color": "#f0cf50",
+          "fontSize": "40",
+          "fontType": "Exo 2 SemiBold",
+          "positionX": "389.9998",
+          "positionY": "644.5054"
+        },
+        {
+          "text": "Saturday September 16th. 2022\n7 O’Clock In The Evening\nMajestic Ballroom\n412 Dark Star Lane .CA ",
+          "color": "#ffffff",
+          "fontSize": "25",
+          "fontType": "Exo 2 Regular",
+          "positionX": "390",
+          "positionY": "770.0381"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//engagementparty_invitation_card_2.png",
+      "img_name": "Simple",
+      "category_id": "6"
+    },
+    {
+      "id": "3",
+      "content": [
+        {
+          "text": "Celebrating\nEngagement Party",
+          "color": "#676767",
+          "fontSize": "40",
+          "fontType": "Antic Didone Regular",
+          "positionX": "390",
+          "positionY": "134.8655"
+        },
+        {
+          "text": "Penelope  &  Theodore",
+          "color": "#676767",
+          "fontSize": "90",
+          "fontType": "Allison Regular",
+          "positionX": "389.1003",
+          "positionY": "310.8552"
+        },
+        {
+          "text": "JOIN US ON SATURDAY\nAUG 24TH. 2022\n7 O’ CLOCK IN THE EVENING",
+          "color": "#676767",
+          "fontSize": "20",
+          "fontType": "Raleway Regular",
+          "positionX": "390",
+          "positionY": "490.0168"
+        },
+        {
+          "text": "THE WOODLANDS\n14 REDWOOD, DRIVE\nCRESCENT CITY",
+          "color": "#676767",
+          "fontSize": "20",
+          "fontType": "Raleway Regular",
+          "positionX": "390",
+          "positionY": "630.0166"
+        },
+        {
+          "text": "RSVP TO\n513.123.426",
+          "color": "#676767",
+          "fontSize": "20",
+          "fontType": "Raleway Regular",
+          "positionX": "390.0002",
+          "positionY": "765.0166"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//engagementparty_invitation_card_3.png",
+      "img_name": "Watercolor leaves",
+      "category_id": "6"
+    },
+    {
+      "id": "4",
+      "content": [
+        {
+          "text": "We’d be please to have\nthe honor of your presence\nto celebrate the engagement of",
+          "color": "#663737",
+          "fontSize": "18",
+          "fontType": "Cormorant SC Light",
+          "positionX": "390",
+          "positionY": "243.135"
+        },
+        {
+          "text": "Elizabeth",
+          "color": "#663737",
+          "fontSize": "90",
+          "fontType": "Cormorant Upright Regular",
+          "positionX": "390.0005",
+          "positionY": "384.9473"
+        },
+        {
+          "text": "and",
+          "color": "#663737",
+          "fontSize": "20",
+          "fontType": "Cormorant Upright Regular",
+          "positionX": "390",
+          "positionY": "446.3911"
+        },
+        {
+          "text": "Sebastian",
+          "color": "#663737",
+          "fontSize": "60",
+          "fontType": "Cormorant Upright Regular",
+          "positionX": "390",
+          "positionY": "509.8608"
+        },
+        {
+          "text": "friday",
+          "color": "#663737",
+          "fontSize": "25",
+          "fontType": "Cormorant SC Light",
+          "positionX": "390",
+          "positionY": "621.98"
+        },
+        {
+          "text": "06·08·21",
+          "color": "#663737",
+          "fontSize": "25",
+          "fontType": "Cormorant Upright Regular",
+          "positionX": "390",
+          "positionY": "658.6592"
+        },
+        {
+          "text": "address especifications here\ncontact information here\nAlly’s phone 000.000.000 ",
+          "color": "#663737",
+          "fontSize": "18",
+          "fontType": "Cormorant SC Light",
+          "positionX": "390.0002",
+          "positionY": "747.4985"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//engagementparty_invitation_card_4.png",
+      "img_name": "Rose Gold Floral",
+      "category_id": "6"
+    },
+    {
+      "id": "5",
+      "content": [
+        {
+          "text": "THE ENGAGEMENT OF",
+          "color": "#7a6f52",
+          "fontSize": "20",
+          "fontType": "Antic Didone Regular",
+          "positionX": "390",
+          "positionY": "173.6895"
+        },
+        {
+          "text": "ROCIO\n&\nNURIA",
+          "color": "#4c655e",
+          "fontSize": "70",
+          "fontType": "Abril Fatface Regular",
+          "positionX": "390",
+          "positionY": "402.3669"
+        },
+        {
+          "text": "september             2022",
+          "color": "#7a6f52",
+          "fontSize": "25",
+          "fontType": "Antic Didone Regular",
+          "positionX": "390",
+          "positionY": "639.5566"
+        },
+        {
+          "text": "15",
+          "color": "#4c655e",
+          "fontSize": "80",
+          "fontType": "Antic Didone Regular",
+          "positionX": "440",
+          "positionY": "635.2075"
+        },
+        {
+          "text": "SUNDAY AT 10 AM",
+          "color": "#7a6f52",
+          "fontSize": "25",
+          "fontType": "Antic Didone Regular",
+          "positionX": "390.0002",
+          "positionY": "762.5693"
+        },
+        {
+          "text": "SUNFLOWER RESTAURANT & RESORT\n7935 KYLE STREET, TEXAS",
+          "color": "#7a6f52",
+          "fontSize": "20",
+          "fontType": "Antic Didone Regular",
+          "positionX": "390",
+          "positionY": "836.0254"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//engagementparty_invitation_card_5.png",
+      "img_name": "Bronze Rings",
+      "category_id": "6"
+    }
+  ]
+}

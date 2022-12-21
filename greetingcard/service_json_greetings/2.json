@@ -1,45 +1,269 @@
 {
-	"status": "1",
-	"data": [
-		{
-			"id": "1",
-			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_1.png",
-			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_1.png",
-			"img_name": "",
-			"category_id": "2",
-			"content": []
-		},
-		{
-			"id": "2",
-			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_2.png",
-			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_2.png",
-			"img_name": "",
-			"category_id": "2",
-			"content": []
-		},
-		{
-			"id": "3",
-			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_3.png",
-			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_3.png",
-			"img_name": "",
-			"category_id": "2",
-			"content": []
-		},
-		{
-			"id": "4",
-			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_4.png",
-			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_4.png",
-			"img_name": "",
-			"category_id": "2",
-			"content": []
-		},
-		{
-			"id": "5",
-			"img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_5.png",
-			"img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/congratulations_5.png",
-			"img_name": "",
-			"category_id": "2",
-			"content": []
-		}
-	]
+  "status": "1",
+  "data": [
+    {
+      "id": "1",
+      "content": [
+        {
+          "text": "WE INVITE YOU TO CELEBRATE ",
+          "color": "#414042",
+          "fontSize": "25",
+          "fontType": "Garogier Regular",
+          "positionX": "391.4973",
+          "positionY": "266.4368"
+        },
+        {
+          "text": "BIG BANG party",
+          "color": "#414042",
+          "fontSize": "35",
+          "fontType": "Abril Fatface Regular",
+          "positionX": "390",
+          "positionY": "224.5093"
+        },
+        {
+          "text": "KAYLEE´S",
+          "color": "#414042",
+          "fontSize": "35",
+          "fontType": "Garogier Regular",
+          "positionX": "389.9998",
+          "positionY": "348.1401"
+        },
+        {
+          "text": "Birthday",
+          "color": "#db883d",
+          "fontSize": "170",
+          "fontType": "Lavishly Yours Regular",
+          "positionX": "390",
+          "positionY": "456.1165"
+        },
+        {
+            "text": "04.05.2021",
+            "color": "#414042",
+            "fontSize": "35",
+            "fontType": "Garogier Regular",
+            "positionX": "390",
+            "positionY": "563.0347"
+          },
+          {
+            "text": "At 9 pm o’ clock | Numbers night club\n300 westheimer rd Houston, tx",
+            "color": "#414042",
+            "fontSize": "20",
+            "fontType": "Garogier Regular",
+            "positionX": "390.0002",
+            "positionY": "878.0591"
+          }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/birthday_invitation_card_1.png",
+      "img_name": "Big Bang party",
+      "category_id": "2"
+    },
+    {
+      "id": "2",
+      "content": [
+        {
+          "text": "LET’S\nHANG!",
+          "color": "#ffffff",
+          "fontSize": "120",
+          "fontType": "Kalam Regular",
+          "positionX": "390",
+          "positionY": "374.6956"
+        },
+        {
+          "text": "FOR AARON’S 6TH BIRTHDAY",
+          "color": "#ffffff",
+          "fontSize": "30",
+          "fontType": "Gobold High Thin",
+          "positionX": "390",
+          "positionY": "560.9043"
+        },
+        {
+          "text": "15 MAY 2021",
+          "color": "#ffffff",
+          "fontSize": "30",
+          "fontType": "Montserrat Medium",
+          "positionX": "390",
+          "positionY": "623.209"
+        },
+        {
+          "text": "123, MAIN STREET, LONDON\nPARTY START AT 09 AM",
+          "color": "#ffffff",
+          "fontSize": "25",
+          "fontType": "Montserrat SemiBold",
+          "positionX": "390.0002",
+          "positionY": "693.1934"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/birthday_invitation_card_2.png",
+      "img_name": "Gift Party",
+      "category_id": "2"
+    },
+    {
+      "id": "3",
+      "content": [
+        {
+          "text": "You are\ninvited to",
+          "color": "#33787e",
+          "fontSize": "40",
+          "fontType": "Fredoka One Regular",
+          "positionX": "390.0005",
+          "positionY": "338.9529"
+        },
+        {
+          "text": "Noah's\nBIRTHDAY",
+          "color": "#d15c27",
+          "fontSize": "75",
+          "fontType": "Titan One Regular",
+          "positionX": "390",
+          "positionY": "482.8496"
+        },
+        {
+          "text": "22 July",
+          "color": "#33787e",
+          "fontSize": "40",
+          "fontType": "Fredoka One Regular",
+          "positionX": "390",
+          "positionY": "604.1104"
+        },
+        {
+          "text": "Starts at 2 PM",
+          "color": "#33787e",
+          "fontSize": "25",
+          "fontType": "Fredoka One Regular",
+          "positionX": "390",
+          "positionY": "648.9438"
+        },
+        {
+          "text": "Kids Kastle 815 A Wheeler\nAvenue Brockton",
+          "color": "#33787e",
+          "fontSize": "20",
+          "fontType": "Fredoka One Regular",
+          "positionX": "390",
+          "positionY": "706.4497"
+        },
+        {
+          "text": "RSVP by Adam +123456789",
+          "color": "#33787e",
+          "fontSize": "20",
+          "fontType": "Fredoka One Regular",
+          "positionX": "390",
+          "positionY": "756.894"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/birthday_invitation_card_3.png",
+      "img_name": "Jungle Party",
+      "category_id": "2"
+    },
+    {
+      "id": "4",
+      "content": [
+        {
+          "text": "JOIN US TO CELEBRATE",
+          "color": "#fbe1bd",
+          "fontSize": "25",
+          "fontType": "Jost SemiBold",
+          "positionX": "389.9998",
+          "positionY": "193.2607"
+        },
+        {
+          "text": "Victoria’s",
+          "color": "#1db8cd",
+          "fontSize": "120",
+          "fontType": "Nickainley Normal",
+          "positionX": "390",
+          "positionY": "317.3813"
+        },
+        {
+          "text": "BIRTHDAY",
+          "color": "#fbe1bd",
+          "fontSize": "55",
+          "fontType": "Jost Bold",
+          "positionX": "390",
+          "positionY": "402.2949"
+        },
+        {
+          "text": "24 AUGUST",
+          "color": "#d73d3c",
+          "fontSize": "30",
+          "fontType": "Jost Bold",
+          "positionX": "390",
+          "positionY": "500.7839"
+        },
+        {
+          "text": "AT NINE O’CLOCK",
+          "color": "#fbe1bd",
+          "fontSize": "20",
+          "fontType": "Jost Bold",
+          "positionX": "390",
+          "positionY": "533.4148"
+        },
+        {
+          "text": "CHOCOLATE STREET\nSTRAWBERRY PALACE",
+          "color": "#fbe1bd",
+          "fontSize": "25",
+          "fontType": "Jost SemiBold",
+          "positionX": "390",
+          "positionY": "617.0303"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/birthday_invitation_card_4.png",
+      "img_name": "Hand Drawn",
+      "category_id": "2"
+    },
+    {
+      "id": "5",
+      "content": [
+        {
+          "text": "CELEBRATING",
+          "color": "#422610",
+          "fontSize": "15",
+          "fontType": "Montserrat SemiBold",
+          "positionX": "390.0002",
+          "positionY": "628.5508"
+        },
+        {
+          "text": "MIA’S 5TH",
+          "color": "#422610",
+          "fontSize": "40",
+          "fontType": "Montserrat SemiBold",
+          "positionX": "389.9998",
+          "positionY": "670.2505"
+        },
+        {
+          "text": "Birthday",
+          "color": "#d0b785",
+          "fontSize": "125",
+          "fontType": "Forte Regular",
+          "positionX": "390",
+          "positionY": "760.0439"
+        },
+        {
+          "text": "JULY 15, 2021",
+          "color": "#422610",
+          "fontSize": "35",
+          "fontType": "Montserrat SemiBold",
+          "positionX": "389.9998",
+          "positionY": "873.1157"
+        },
+        {
+          "text": "5:00 PM\nIA’S HOUSE",
+          "color": "#422610",
+          "fontSize": "20",
+          "fontType": "Montserrat SemiBold",
+          "positionX": "389.5518",
+          "positionY": "948.5859"
+        },
+        {
+          "text": "RSVP: 000 00 000",
+          "color": "#422610",
+          "fontSize": "15",
+          "fontType": "Montserrat SemiBold",
+          "positionX": "390.0969",
+          "positionY": "1019.1367"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker/birthday_invitation_card_5.png",
+      "img_name": "Emoji Party",
+      "category_id": "2"
+    }
+  ]
 }

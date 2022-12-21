@@ -1,0 +1,277 @@
+{
+  "status": "1",
+  "data": [
+    {
+      "id": "1",
+      "content": [
+        {
+          "text": "SUMMER CLUB PRESENTS\n22 JUNE 2020",
+          "color": "#e3f2f5",
+          "fontSize": "25",
+          "fontType": "Riffic Bold",
+          "positionX": "390",
+          "positionY": "184.7222"
+        },
+        {
+          "text": "SUMMER",
+          "color": "#e3f2f5",
+          "fontSize": "120",
+          "fontType": "Riffic Bold",
+          "positionX": "390",
+          "positionY": "342.8298"
+        },
+        {
+          "text": "PARTY",
+          "color": "#52b6ac",
+          "fontSize": "120",
+          "fontType": "Riffic Bold",
+          "positionX": "390.0005",
+          "positionY": "458.6716"
+        },
+        {
+          "text": "SPECIAL PERFORMANCE BY",
+          "color": "#e3f2f5",
+          "fontSize": "30",
+          "fontType": "Riffic Bold",
+          "positionX": "390",
+          "positionY": "559.1753"
+        },
+        {
+          "text": "MIA WOLF & JOHN SMITH",
+          "color": "#52b6ac",
+          "fontSize": "40",
+          "fontType": "Riffic Bold",
+          "positionX": "390",
+          "positionY": "612.8901"
+        },
+        {
+          "text": "DOORS OPEN AT 8PM  |  TICKET $15\nFREE PARKING & DRINKS",
+          "color": "#e3f2f5",
+          "fontSize": "30",
+          "fontType": "Riffic Bold",
+          "positionX": "390",
+          "positionY": "684.2651"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//summer&pool_invitation_card_1.png",
+      "img_name": "Summer Flyer",
+      "category_id": "7"
+    },
+    {
+      "id": "2",
+      "content": [
+        {
+          "text": "28 june 2020",
+          "color": "#f48484",
+          "fontSize": "35",
+          "fontType": "Bebas Kai Regular",
+          "positionX": "390",
+          "positionY": "226.5603"
+        },
+        {
+          "text": "start\n20:30",
+          "color": "#31626c",
+          "fontSize": "25",
+          "fontType": "Bebas Kai Regular",
+          "positionX": "390.0002",
+          "positionY": "296.4485"
+        },
+        {
+          "text": "SUMMER",
+          "color": "#314049",
+          "fontSize": "120",
+          "fontType": "Bebas Kai Regular",
+          "positionX": "390.0002",
+          "positionY": "406.373"
+        },
+        {
+          "text": "PARTY",
+          "color": "#314049",
+          "fontSize": "90",
+          "fontType": "Bebas Kai Regular",
+          "positionX": "390",
+          "positionY": "493.6509"
+        },
+        {
+          "text": "special guests",
+          "color": "#f48484",
+          "fontSize": "50",
+          "fontType": "Bebas Kai Regular",
+          "positionX": "390",
+          "positionY": "594.2622"
+        },
+        {
+          "text": "Dr.JOHNSON & dr.molly",
+          "color": "#31626c",
+          "fontSize": "35",
+          "fontType": "Bebas Kai Regular",
+          "positionX": "390.0005",
+          "positionY": "639.4097"
+        },
+        {
+          "text": "<<< YOUR CLUB NAME>>>",
+          "color": "#f48484",
+          "fontSize": "25",
+          "fontType": "Bebas Kai Regular",
+          "positionX": "390",
+          "positionY": "718.8916"
+        },
+        {
+          "text": "YOUR ADDRESS HERE, 111 STREET,\nYOUR COUNTRY.",
+          "color": "#31626c",
+          "fontSize": "25",
+          "fontType": "Bebas Kai Regular",
+          "positionX": "390",
+          "positionY": "770.1875"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//summer&pool_invitation_card_2.png",
+      "img_name": "Orchids & Flamingo",
+      "category_id": "7"
+    },
+    {
+      "id": "3",
+      "content": [
+        {
+          "text": "Summer",
+          "color": "#1c75bc",
+          "fontSize": "75",
+          "fontType": "ChunkFive Print Regular",
+          "positionX": "390.0005",
+          "positionY": "252.939"
+        },
+        {
+          "text": "POOL",
+          "color": "#27aae1",
+          "fontSize": "200",
+          "fontType": "ChunkFive Print Regular",
+          "positionX": "390",
+          "positionY": "388.8755"
+        },
+        {
+          "text": "Party",
+          "color": "#1c75bc",
+          "fontSize": "80",
+          "fontType": "ChunkFive Print Regular",
+          "positionX": "390.0002",
+          "positionY": "498.7407"
+        },
+        {
+          "text": "Start at 9 AM\n@Beach Pool",
+          "color": "#5c77a0",
+          "fontSize": "35",
+          "fontType": "Coiny Regular",
+          "positionX": "390",
+          "positionY": "634.2778"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//summer&pool_invitation_card_3.png",
+      "img_name": "Snacks Pool Party",
+      "category_id": "7"
+    },
+    {
+      "id": "4",
+      "content": [
+        {
+          "text": "YOU’RE INVITED TO A",
+          "color": "#ffffff",
+          "fontSize": "25",
+          "fontType": "Open Sans Condensed Bold",
+          "positionX": "390",
+          "positionY": "174.3311"
+        },
+        {
+          "text": "Summer",
+          "color": "#006838",
+          "fontSize": "175",
+          "fontType": "Bebas Neue Regular",
+          "positionX": "390",
+          "positionY": "348.5464"
+        },
+        {
+          "text": "Party",
+          "color": "#ffffff",
+          "fontSize": "80",
+          "fontType": "Bebas Neue Regular",
+          "positionX": "390",
+          "positionY": "480.7769"
+        },
+        {
+          "text": "31.12.2017",
+          "color": "#006838",
+          "fontSize": "25",
+          "fontType": "Open Sans Condensed Bold",
+          "positionX": "390",
+          "positionY": "589.7168"
+        },
+        {
+          "text": "TICKET $125 | DOORS OPEN 10AM",
+          "color": "#ffffff",
+          "fontSize": "30",
+          "fontType": "Open Sans Condensed Bold",
+          "positionX": "390",
+          "positionY": "643.0498"
+        },
+        {
+          "text": "WWW.CLUBNAME.COM",
+          "color": "#ffffff",
+          "fontSize": "25",
+          "fontType": "Open Sans Condensed Bold",
+          "positionX": "390",
+          "positionY": "687.4858"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//summer&pool_invitation_card_4.png",
+      "img_name": "Summer party Stuff",
+      "category_id": "7"
+    },
+    {
+      "id": "5",
+      "content": [
+        {
+          "text": "Summer",
+          "color": "#ffffff",
+          "fontSize": "90",
+          "fontType": "Pacifico Regular",
+          "positionX": "390.0005",
+          "positionY": "246.7744"
+        },
+        {
+          "text": "POOL\nPARTY",
+          "color": "#1c75bc",
+          "fontSize": "130",
+          "fontType": "Nexa Rust Slab Black Shadow 01",
+          "positionX": "390.0005",
+          "positionY": "473.6416"
+        },
+        {
+          "text": "4 PM",
+          "color": "#006838",
+          "fontSize": "90",
+          "fontType": "Bebas Neue Regular",
+          "positionX": "390",
+          "positionY": "691.7036"
+        },
+        {
+          "text": "SAT. JULY 7TH",
+          "color": "#ffffff",
+          "fontSize": "65",
+          "fontType": "Bebas Neue Regular",
+          "positionX": "390",
+          "positionY": "792.688"
+        },
+        {
+          "text": "Insert address  here",
+          "color": "#ffffff",
+          "fontSize": "40",
+          "fontType": "Bebas Neue Regular",
+          "positionX": "390",
+          "positionY": "855.8027"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//summer&pool_invitation_card_5.png",
+      "img_name": "Pool Leaves",
+      "category_id": "7"
+    }
+  ]
+}

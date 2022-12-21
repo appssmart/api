@@ -1,0 +1,261 @@
+{
+  "status": "1",
+  "data": [
+    {
+      "id": "1",
+      "content": [
+        {
+          "text": "ANNUAL",
+          "color": "#0d3b5c",
+          "fontSize": "40",
+          "fontType": "Raleway Black",
+          "positionX": "390",
+          "positionY": "222.9092"
+        },
+        {
+          "text": "CHRISTMAS\nPARTY",
+          "color": "#0d3b5c",
+          "fontSize": "80",
+          "fontType": "Playfair Display Black",
+          "positionX": "390",
+          "positionY": "360.4714"
+        },
+        {
+          "text": "FREE DRINKS",
+          "color": "#0d3b5c",
+          "fontSize": "45",
+          "fontType": "Raleway Medium",
+          "positionX": "389.999",
+          "positionY": "565.8242"
+        },
+        {
+          "text": "DECEMBER",
+          "color": "#0d3b5c",
+          "fontSize": "20",
+          "fontType": "Raleway Black",
+          "positionX": "389.9998",
+          "positionY": "654.9741"
+        },
+        {
+            "text": "25",
+            "color": "#0d3b5c",
+            "fontSize": "130",
+            "fontType": "Abril Fatface Regular",
+            "positionX": "389.9998",
+            "positionY": "736.3325"
+          },
+          {
+            "text": "SIX O’CLOCK\nIN THE AFTERNOON",
+            "color": "#0d3b5c",
+            "fontSize": "20",
+            "fontType": "Raleway SemiBold",
+            "positionX": "250.0002",
+            "positionY": "847.0894"
+          },
+          {
+            "text": "LOREM HALL, NEW YORK\nNEW YORK CITY",
+            "color": "#0d3b5c",
+            "fontSize": "20",
+            "fontType": "Raleway SemiBold",
+            "positionX": "560",
+            "positionY": "847.0894"
+          }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//christmas_invitation_card_1.png",
+      "img_name": "christmas floral",
+      "category_id": "3"
+    },
+    {
+      "id": "2",
+      "content": [
+        {
+          "text": "Christmas sale",
+          "color": "#c1282d",
+          "fontSize": "90",
+          "fontType": "Nickainley Normal",
+          "positionX": "390.0002",
+          "positionY": "460.7549"
+        },
+        {
+          "text": "UP TO 50% OFF",
+          "color": "#036457",
+          "fontSize": "35",
+          "fontType": "Montserrat Bold",
+          "positionX": "389.9995",
+          "positionY": "566.0767"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet,\nconsectetuer adipiscing elit, sed diam. ",
+          "color": "#c1282d",
+          "fontSize": "22",
+          "fontType": "Montserrat Regular",
+          "positionX": "390.0002",
+          "positionY": "826.9009"
+        },
+        {
+          "text": "www.christmas.com",
+          "color": "#c1282d",
+          "fontSize": "20",
+          "fontType": "Montserrat Regular",
+          "positionX": "390.0002",
+          "positionY": "826.9009"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//christmas_invitation_card_2.png",
+      "img_name": "Sale",
+      "category_id": "3"
+    },
+    {
+      "id": "3",
+      "content": [
+        {
+          "text": "Christmas",
+          "color": "#03686d",
+          "fontSize": "90",
+          "fontType": "Alex Brush Regular",
+          "positionX": "390.0002",
+          "positionY": "240.146"
+        },
+        {
+          "text": "Toy Drive",
+          "color": "#9a1e1f",
+          "fontSize": "115",
+          "fontType": "Abril Fatface Regular",
+          "positionX": "390",
+          "positionY": "336.6563"
+        },
+        {
+          "text": "2PM - DECEMBER 15",
+          "color": "#03686d",
+          "fontSize": "30",
+          "fontType": "Gotham-Black ",
+          "positionX": "390",
+          "positionY": "419.7261"
+        },
+        {
+          "text": "Follow Us!",
+          "color": "#03686d",
+          "fontSize": "45",
+          "fontType": "Alex Brush Regular",
+          "positionX": "390",
+          "positionY": "976.3716"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//christmas_invitation_card_3.png",
+      "img_name": "Toy Drive",
+      "category_id": "3"
+    },
+    {
+      "id": "4",
+      "content": [
+        {
+          "text": "YOU’REINVITED TO A",
+          "color": "#561c0c",
+          "fontSize": "25",
+          "fontType": "Montserrat Medium",
+          "positionX": "390",
+          "positionY": "165.0745"
+        },
+        {
+          "text": "MERRY",
+          "color": "#006746",
+          "fontSize": "90",
+          "fontType": "Source Serif Pro Black",
+          "positionX": "390",
+          "positionY": "278.8555"
+        },
+        {
+          "text": "LITTLE",
+          "color": "#006746",
+          "fontSize": "60",
+          "fontType": "Source Serif Pro Regular",
+          "positionX": "389.9998",
+          "positionY": "358.5996"
+        },
+        {
+          "text": "Christmas",
+          "color": "#561c0c",
+          "fontSize": "12",
+          "fontType": "Rancho Regular",
+          "positionX": "390",
+          "positionY": "446.9219"
+        },
+        {
+          "text": "Party",
+          "color": "#561c0c",
+          "fontSize": "90",
+          "fontType": "Rancho Regular",
+          "positionX": "389.9998",
+          "positionY": "546.0715"
+        },
+        {
+          "text": "ARE PLEASED TO INVITE YOU\nTO THEIR WEDDING\nCELEBRATION",
+          "color": "#561c0c",
+          "fontSize": "20",
+          "fontType": "Montserrat Medium",
+          "positionX": "390.0002",
+          "positionY": "664.1841"
+        },
+        {
+          "text": "SATURDAY, DECEMBER 19",
+          "color": "#561c0c",
+          "fontSize": "20",
+          "fontType": "Montserrat Medium",
+          "positionX": "390",
+          "positionY": "760.5137"
+        },
+        {
+          "text": "6 PM IN THE AFTERNOON\nYOUR CITY, YOUR COUNTRY",
+          "color": "#561c0c",
+          "fontSize": "20",
+          "fontType": "Montserrat Medium",
+          "positionX": "390.0002",
+          "positionY": "841.7295"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//christmas_invitation_card_4.png",
+      "img_name": "A Merry Little Party",
+      "category_id": "3"
+    },
+    {
+      "id": "5",
+      "content": [
+        {
+          "text": "MERRY",
+          "color": "#c62127",
+          "fontSize": "50",
+          "fontType": "Averia Serif Libre Bold",
+          "positionX": "390.0002",
+          "positionY": "305.1531"
+        },
+        {
+          "text": "Christmas",
+          "color": "#004033",
+          "fontSize": "110",
+          "fontType": "Abril Fatface Regular",
+          "positionX": "390",
+          "positionY": "405.894"
+        },
+        {
+          "text": "HOLIDAY\nDINNER",
+          "color": "#c62127",
+          "fontSize": "75",
+          "fontType": "Bellefair Regular",
+          "positionX": "390",
+          "positionY": "562.9812"
+        },
+        {
+          "text": "SATURADAY, DECEMBER 20TH\nAT 5 O’CLOCK IN THE EVENING",
+          "color": "#004033",
+          "fontSize": "25",
+          "fontType": "Averia Serif Libre Regular",
+          "positionX": "390.0002",
+          "positionY": "718.9414"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//christmas_invitation_card_5.png",
+      "img_name": "Holiday Dinner",
+      "category_id": "3"
+    }
+  ]
+}

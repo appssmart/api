@@ -1,0 +1,245 @@
+{
+  "status": "1",
+  "data": [
+    {
+      "id": "1",
+      "content": [
+        {
+          "text": "Please Join Us For The",
+          "color": "#414042",
+          "fontSize": "25",
+          "fontType": "Caveat Bold",
+          "positionX": "390",
+          "positionY": "270.906"
+        },
+        {
+          "text": "Baptism",
+          "color": "#414042",
+          "fontSize": "115",
+          "fontType": "Great Vibes Regular",
+          "positionX": "390",
+          "positionY": "397.8694"
+        },
+        {
+          "text": "of our daughter",
+          "color": "#414042",
+          "fontSize": "25",
+          "fontType": "Aladin Regular",
+          "positionX": "390",
+          "positionY": "476.0437"
+        },
+        {
+          "text": "TAYLOR\nWILLIAMS",
+          "color": "#414042",
+          "fontSize": "60",
+          "fontType": "Abril Fatface Regular",
+          "positionX": "390",
+          "positionY": "597.6023"
+        },
+        {
+          "text": "Sunday, June 24, 2022 at 10 am\nst. michael’s church",
+          "color": "#414042",
+          "fontSize": "26",
+          "fontType": "Aladin Regular",
+          "positionX": "390",
+          "positionY": "745.4438"
+        },
+        {
+          "text": "412 second street, madison\nwisconin",
+          "color": "#414042",
+          "fontSize": "22",
+          "fontType": "Aladin Regular",
+          "positionX": "390",
+          "positionY": "818.2148"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//baptism and christening_invitation_card_1.png",
+      "img_name": "Beautiful Roses",
+      "category_id": "9"
+    },
+    {
+      "id": "2",
+      "content": [
+        {
+          "text": "We are pleased to\ninvite you to",
+          "color": "#3d3d3d",
+          "fontSize": "30",
+          "fontType": "BodoniXT Regular",
+          "positionX": "390.0005",
+          "positionY": "87.457"
+        },
+        {
+          "text": "Bethany´s Baptism",
+          "color": "#3d3d3d",
+          "fontSize": "110",
+          "fontType": "Great Vibes Regular",
+          "positionX": "390",
+          "positionY": "560"
+        },
+        {
+          "text": "12 March",
+          "color": "#3d3d3d",
+          "fontSize": "50",
+          "fontType": "BodoniXT Regular",
+          "positionX": "390.0005",
+          "positionY": "937.7603"
+        },
+        {
+          "text": "St. George Church",
+          "color": "#3d3d3d",
+          "fontSize": "35",
+          "fontType": "BodoniXT Regular",
+          "positionX": "390",
+          "positionY": "995.3052"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//baptism and christening_invitation_card_2.png",
+      "img_name": "Elegant Style",
+      "category_id": "9"
+    },
+    {
+      "id": "3",
+      "content": [
+        {
+          "text": "PLEASE JOIN US FOR THE",
+          "color": "#dd959e",
+          "fontSize": "25",
+          "fontType": "Quicksand Medium",
+          "positionX": "390",
+          "positionY": "393.9517"
+        },
+        {
+          "text": "BAPTISM OF",
+          "color": "#323471",
+          "fontSize": "35",
+          "fontType": "Quicksand Bold",
+          "positionX": "390",
+          "positionY": "440.689"
+        },
+        {
+          "text": "Dorothy Bates",
+          "color": "#323471",
+          "fontSize": "110",
+          "fontType": "Sacramento Regular",
+          "positionX": "390",
+          "positionY": "568.9897"
+        },
+        {
+          "text": "OCT 31, 2022\nJesus Church\n5th Av, # 1894\n10: 00 AM",
+          "color": "#dd959e",
+          "fontSize": "28",
+          "fontType": "Quicksand Medium",
+          "positionX": "390",
+          "positionY": "796.1484"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//baptism and christening_invitation_card_3.png",
+      "img_name": "Flat Flower design",
+      "category_id": "9"
+    },
+    {
+      "id": "4",
+      "content": [
+        {
+          "text": "Join us for the",
+          "color": "#004259",
+          "fontSize": "25",
+          "fontType": "Merriweather Black",
+          "positionX": "390",
+          "positionY": "396.0452"
+        },
+        {
+          "text": "baptism of our Daughter",
+          "color": "#f37d83",
+          "fontSize": "35",
+          "fontType": "Merriweather Black",
+          "positionX": "390",
+          "positionY": "445.3472"
+        },
+        {
+          "text": "Sarah Smith",
+          "color": "#ffffff",
+          "fontSize": "65",
+          "fontType": "Merriweather Black",
+          "positionX": "390.0002",
+          "positionY": "558.7708"
+        },
+        {
+          "text": "Sunday, September 27 - 2pm",
+          "color": "#f37d83",
+          "fontSize": "25",
+          "fontType": "Merriweather Black",
+          "positionX": "390",
+          "positionY": "675.3296"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetuer\nadipiscing elit, sed diam nonummy nibh\neuismod tincidunt ut.",
+          "color": "#004259",
+          "fontSize": "16",
+          "fontType": "Montserrat Medium",
+          "positionX": "390",
+          "positionY": "768.5308"
+        },
+        {
+          "text": "RSVP",
+          "color": "#004259",
+          "fontSize": "25",
+          "fontType": "Merriweather Black",
+          "positionX": "390.0002",
+          "positionY": "880.3394"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//baptism and christening_invitation_card_4.png",
+      "img_name": "Flowers & Leaves",
+      "category_id": "9"
+    },
+    {
+      "id": "5",
+      "content": [
+        {
+          "text": "With Love",
+          "color": "#9a5b25",
+          "fontSize": "60",
+          "fontType": "Lucien Schoenschriftv CAT Regular",
+          "positionX": "390",
+          "positionY": "340.7246"
+        },
+        {
+          "text": "Scott  & Emily",
+          "color": "#9a5b25",
+          "fontSize": "90",
+          "fontType": "Lucien Schoenschriftv CAT Regular",
+          "positionX": "390",
+          "positionY": "440.3474 "
+        },
+        {
+          "text": "INVITE YOU TO CELEBRETE THEIR UNION",
+          "color": "#9a5b25",
+          "fontSize": "30",
+          "fontType": "Andada Regular",
+          "positionX": "390",
+          "positionY": "555.2297"
+        },
+        {
+          "text": "Sunday, August 10th 5 pm",
+          "color": "#9a5b25",
+          "fontSize": "25",
+          "fontType": "Andada Regular",
+          "positionX": "390.0002",
+          "positionY": "622.9033"
+        },
+        {
+          "text": "Celebration To Follow\nAt The Willams Home\n101 Pine Tree Drive",
+          "color": "#9a5b25",
+          "fontSize": "20",
+          "fontType": "Andada Regular",
+          "positionX": "390",
+          "positionY": "714.3872"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//baptism and christening_invitation_card_5.png",
+      "img_name": "Modern Golden Frame",
+      "category_id": "9"
+    }
+  ]
+}

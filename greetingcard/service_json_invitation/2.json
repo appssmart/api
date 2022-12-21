@@ -5,522 +5,264 @@
       "id": "1",
       "content": [
         {
-          "text": "Save",
-          "color": "#ffffff",
-          "fontSize": "200",
-          "fontType": "Euphoria Script Regular",
-          "positionX": "366.2852",
-          "positionY": "327.325"
+          "text": "WE INVITE YOU TO CELEBRATE ",
+          "color": "#414042",
+          "fontSize": "25",
+          "fontType": "Garogier Regular",
+          "positionX": "391.4973",
+          "positionY": "266.4368"
         },
         {
-          "text": "the",
-          "color": "#ffffff",
-          "fontSize": "80",
-          "fontType": "Euphoria Script Regular",
-          "positionX": "253.4258",
-          "positionY": "458.5117"
+          "text": "BIG BANG party",
+          "color": "#414042",
+          "fontSize": "35",
+          "fontType": "Abril Fatface Regular",
+          "positionX": "390",
+          "positionY": "224.5093"
         },
         {
-          "text": "Date",
-          "color": "#ffffff",
-          "fontSize": "200",
-          "fontType": "Euphoria Script Regular",
-          "positionX": "458.1245",
-          "positionY": "513.4407"
+          "text": "KAYLEE´S",
+          "color": "#414042",
+          "fontSize": "35",
+          "fontType": "Garogier Regular",
+          "positionX": "389.9998",
+          "positionY": "348.1401"
         },
         {
-          "text": "Emma",
-          "color": "#0a1930",
-          "fontSize": "80",
-          "fontType": "Great Vibes Regular",
-          "positionX": "240.3706",
-          "positionY": "765.0015"
+          "text": "Birthday",
+          "color": "#db883d",
+          "fontSize": "170",
+          "fontType": "Lavishly Yours Regular",
+          "positionX": "390",
+          "positionY": "456.1165"
         },
         {
-            "text": "&",
-            "color": "#0a1930",
-            "fontSize": "70",
-            "fontType": "Great Vibes Regular",
+            "text": "04.05.2021",
+            "color": "#414042",
+            "fontSize": "35",
+            "fontType": "Garogier Regular",
             "positionX": "390",
-            "positionY": "767.5063"
+            "positionY": "563.0347"
           },
           {
-            "text": "David",
-            "color": "#0a1930",
-            "fontSize": "80",
-            "fontType": "Great Vibes Regular",
-            "positionX": "540.9253",
-            "positionY": "765.0015"
-          },
-          {
-            "text": "Your City",
-            "color": "#231f20",
-            "fontSize": "30",
-            "fontType": "Montserrat Regular",
-            "positionX": "181.9575",
-            "positionY": "890.6797"
-          },
-          {
-            "text": "21\n02\n2022",
-            "color": "#231f20",
-            "fontSize": "22",
-            "fontType": "Montserrat Regular",
-            "positionX": "389.9995",
-            "positionY": "889.9985"
-          },
-          {
-            "text": "Your Time",
-            "color": "#231f20",
-            "fontSize": "30",
-            "fontType": "Montserrat Regular",
-            "positionX": "587.4648",
-            "positionY": "887.7666"
+            "text": "At 9 pm o’ clock | Numbers night club\n300 westheimer rd Houston, tx",
+            "color": "#414042",
+            "fontSize": "20",
+            "fontType": "Garogier Regular",
+            "positionX": "390.0002",
+            "positionY": "878.0591"
           }
       ],
-      "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_1.png",
-	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_1_bg.png",
-      "img_name": "Balloon",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//birthday_invitation_card_1.png",
+      "img_name": "Big Bang party",
       "category_id": "2"
     },
     {
       "id": "2",
-      "content": [ 
+      "content": [
         {
-          "text": "Your Club Name",
-          "color": "#c47620",
-          "fontSize": "40",
-          "fontType": "Caveat Bold",
-          "positionX": "391.6597",
-          "positionY": "200.7146"
-        },
-        {
-          "text": "Christmas",
-          "color": "#e97817",
-          "fontSize": "155",
-          "fontType": "Chiller Regular",
+          "text": "LET’S\nHANG!",
+          "color": "#ffffff",
+          "fontSize": "120",
+          "fontType": "Kalam Regular",
           "positionX": "390",
-          "positionY": "330.6113"
+          "positionY": "374.6956"
         },
         {
-          "text": "Party",
-          "color": "#e97817",
-          "fontSize": "95",
-          "fontType": "Chiller Regular",
-          "positionX": "390",
-          "positionY": "446.2952"
-        },
-        {
-          "text": "Street Address  | 13 . 09 . 2022",
-          "color": "#2d2d2d",
-          "fontSize": "40",
-          "fontType": "Caveat SemiBold",
-          "positionX": "386.2041",
-          "positionY": "691.2339"
-        },
-        {
-          "text": "The Season Of Festival And Wonder Is Waiting For You To\nUnwarp Joy And Galety. Happy Holidays!",
-          "color": "#2d2d2d",
+          "text": "FOR AARON’S 6TH BIRTHDAY",
+          "color": "#ffffff",
           "fontSize": "30",
-          "fontType": "Caveat Regular",
-          "positionX": "389.7258",
-          "positionY": "767.7632"
+          "fontType": "Gobold High Thin",
+          "positionX": "390",
+          "positionY": "560.9043"
+        },
+        {
+          "text": "15 MAY 2021",
+          "color": "#ffffff",
+          "fontSize": "30",
+          "fontType": "Montserrat Medium",
+          "positionX": "390",
+          "positionY": "623.209"
+        },
+        {
+          "text": "123, MAIN STREET, LONDON\nPARTY START AT 09 AM",
+          "color": "#ffffff",
+          "fontSize": "25",
+          "fontType": "Montserrat SemiBold",
+          "positionX": "390.0002",
+          "positionY": "693.1934"
         }
       ],
-      "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
-	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
-      "img_name": "Balloon2",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//birthday_invitation_card_2.png",
+      "img_name": "Gift Party",
       "category_id": "2"
     },
-	{
+    {
       "id": "3",
-      "content": [ 
+      "content": [
         {
-          "text": "Your Club Name",
-          "color": "#c47620",
+          "text": "You are\ninvited to",
+          "color": "#33787e",
           "fontSize": "40",
-          "fontType": "Caveat Bold",
-          "positionX": "391.6597",
-          "positionY": "200.7146"
+          "fontType": "Fredoka One Regular",
+          "positionX": "390.0005",
+          "positionY": "338.9529"
         },
         {
-          "text": "Christmas",
-          "color": "#e97817",
-          "fontSize": "155",
-          "fontType": "Chiller Regular",
+          "text": "Noah's\nBIRTHDAY",
+          "color": "#d15c27",
+          "fontSize": "75",
+          "fontType": "Titan One Regular",
           "positionX": "390",
-          "positionY": "330.6113"
+          "positionY": "482.8496"
         },
         {
-          "text": "Party",
-          "color": "#e97817",
-          "fontSize": "95",
-          "fontType": "Chiller Regular",
-          "positionX": "390",
-          "positionY": "446.2952"
-        },
-        {
-          "text": "Street Address  | 13 . 09 . 2022",
-          "color": "#2d2d2d",
+          "text": "22 July",
+          "color": "#33787e",
           "fontSize": "40",
-          "fontType": "Caveat SemiBold",
-          "positionX": "386.2041",
-          "positionY": "691.2339"
+          "fontType": "Fredoka One Regular",
+          "positionX": "390",
+          "positionY": "604.1104"
         },
         {
-          "text": "The Season Of Festival And Wonder Is Waiting For You To\nUnwarp Joy And Galety. Happy Holidays!",
-          "color": "#2d2d2d",
-          "fontSize": "30",
-          "fontType": "Caveat Regular",
-          "positionX": "389.7258",
-          "positionY": "767.7632"
+          "text": "Starts at 2 PM",
+          "color": "#33787e",
+          "fontSize": "25",
+          "fontType": "Fredoka One Regular",
+          "positionX": "390",
+          "positionY": "648.9438"
+        },
+        {
+          "text": "Kids Kastle 815 A Wheeler\nAvenue Brockton",
+          "color": "#33787e",
+          "fontSize": "20",
+          "fontType": "Fredoka One Regular",
+          "positionX": "390",
+          "positionY": "706.4497"
+        },
+        {
+          "text": "RSVP by Adam +123456789",
+          "color": "#33787e",
+          "fontSize": "20",
+          "fontType": "Fredoka One Regular",
+          "positionX": "390",
+          "positionY": "756.894"
         }
       ],
-      "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
-	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
-      "img_name": "Balloon2",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//birthday_invitation_card_3.png",
+      "img_name": "Jungle Party",
       "category_id": "2"
     },
-	{
+    {
       "id": "4",
-      "content": [ 
+      "content": [
         {
-          "text": "Your Club Name",
-          "color": "#c47620",
-          "fontSize": "40",
-          "fontType": "Caveat Bold",
-          "positionX": "391.6597",
-          "positionY": "200.7146"
+          "text": "JOIN US TO CELEBRATE",
+          "color": "#fbe1bd",
+          "fontSize": "25",
+          "fontType": "Jost SemiBold",
+          "positionX": "389.9998",
+          "positionY": "193.2607"
         },
         {
-          "text": "Christmas",
-          "color": "#e97817",
-          "fontSize": "155",
-          "fontType": "Chiller Regular",
+          "text": "Victoria’s",
+          "color": "#1db8cd",
+          "fontSize": "120",
+          "fontType": "Nickainley Normal",
           "positionX": "390",
-          "positionY": "330.6113"
+          "positionY": "317.3813"
         },
         {
-          "text": "Party",
-          "color": "#e97817",
-          "fontSize": "95",
-          "fontType": "Chiller Regular",
+          "text": "BIRTHDAY",
+          "color": "#fbe1bd",
+          "fontSize": "55",
+          "fontType": "Jost Bold",
           "positionX": "390",
-          "positionY": "446.2952"
+          "positionY": "402.2949"
         },
         {
-          "text": "Street Address  | 13 . 09 . 2022",
-          "color": "#2d2d2d",
-          "fontSize": "40",
-          "fontType": "Caveat SemiBold",
-          "positionX": "386.2041",
-          "positionY": "691.2339"
-        },
-        {
-          "text": "The Season Of Festival And Wonder Is Waiting For You To\nUnwarp Joy And Galety. Happy Holidays!",
-          "color": "#2d2d2d",
+          "text": "24 AUGUST",
+          "color": "#d73d3c",
           "fontSize": "30",
-          "fontType": "Caveat Regular",
-          "positionX": "389.7258",
-          "positionY": "767.7632"
+          "fontType": "Jost Bold",
+          "positionX": "390",
+          "positionY": "500.7839"
+        },
+        {
+          "text": "AT NINE O’CLOCK",
+          "color": "#fbe1bd",
+          "fontSize": "20",
+          "fontType": "Jost Bold",
+          "positionX": "390",
+          "positionY": "533.4148"
+        },
+        {
+          "text": "CHOCOLATE STREET\nSTRAWBERRY PALACE",
+          "color": "#fbe1bd",
+          "fontSize": "25",
+          "fontType": "Jost SemiBold",
+          "positionX": "390",
+          "positionY": "617.0303"
         }
       ],
-      "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
-	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
-      "img_name": "Balloon2",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//birthday_invitation_card_4.png",
+      "img_name": "Hand Drawn",
       "category_id": "2"
     },
-	{
+    {
       "id": "5",
-      "content": [ 
+      "content": [
         {
-          "text": "Your Club Name",
-          "color": "#c47620",
+          "text": "CELEBRATING",
+          "color": "#422610",
+          "fontSize": "15",
+          "fontType": "Montserrat SemiBold",
+          "positionX": "390.0002",
+          "positionY": "628.5508"
+        },
+        {
+          "text": "MIA’S 5TH",
+          "color": "#422610",
           "fontSize": "40",
-          "fontType": "Caveat Bold",
-          "positionX": "391.6597",
-          "positionY": "200.7146"
+          "fontType": "Montserrat SemiBold",
+          "positionX": "389.9998",
+          "positionY": "670.2505"
         },
         {
-          "text": "Christmas",
-          "color": "#e97817",
-          "fontSize": "155",
-          "fontType": "Chiller Regular",
+          "text": "Birthday",
+          "color": "#d0b785",
+          "fontSize": "125",
+          "fontType": "Forte Regular",
           "positionX": "390",
-          "positionY": "330.6113"
+          "positionY": "760.0439"
         },
         {
-          "text": "Party",
-          "color": "#e97817",
-          "fontSize": "95",
-          "fontType": "Chiller Regular",
-          "positionX": "390",
-          "positionY": "446.2952"
+          "text": "JULY 15, 2021",
+          "color": "#422610",
+          "fontSize": "35",
+          "fontType": "Montserrat SemiBold",
+          "positionX": "389.9998",
+          "positionY": "873.1157"
         },
         {
-          "text": "Street Address  | 13 . 09 . 2022",
-          "color": "#2d2d2d",
-          "fontSize": "40",
-          "fontType": "Caveat SemiBold",
-          "positionX": "386.2041",
-          "positionY": "691.2339"
+          "text": "5:00 PM\nIA’S HOUSE",
+          "color": "#422610",
+          "fontSize": "20",
+          "fontType": "Montserrat SemiBold",
+          "positionX": "389.5518",
+          "positionY": "948.5859"
         },
         {
-          "text": "The Season Of Festival And Wonder Is Waiting For You To\nUnwarp Joy And Galety. Happy Holidays!",
-          "color": "#2d2d2d",
-          "fontSize": "30",
-          "fontType": "Caveat Regular",
-          "positionX": "389.7258",
-          "positionY": "767.7632"
+          "text": "RSVP: 000 00 000",
+          "color": "#422610",
+          "fontSize": "15",
+          "fontType": "Montserrat SemiBold",
+          "positionX": "390.0969",
+          "positionY": "1019.1367"
         }
       ],
-      "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
-	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
-      "img_name": "Balloon2",
-      "category_id": "2"
-    },
-	{
-      "id": "6",
-      "content": [ 
-        {
-          "text": "Your Club Name",
-          "color": "#c47620",
-          "fontSize": "40",
-          "fontType": "Caveat Bold",
-          "positionX": "391.6597",
-          "positionY": "200.7146"
-        },
-        {
-          "text": "Christmas",
-          "color": "#e97817",
-          "fontSize": "155",
-          "fontType": "Chiller Regular",
-          "positionX": "390",
-          "positionY": "330.6113"
-        },
-        {
-          "text": "Party",
-          "color": "#e97817",
-          "fontSize": "95",
-          "fontType": "Chiller Regular",
-          "positionX": "390",
-          "positionY": "446.2952"
-        },
-        {
-          "text": "Street Address  | 13 . 09 . 2022",
-          "color": "#2d2d2d",
-          "fontSize": "40",
-          "fontType": "Caveat SemiBold",
-          "positionX": "386.2041",
-          "positionY": "691.2339"
-        },
-        {
-          "text": "The Season Of Festival And Wonder Is Waiting For You To\nUnwarp Joy And Galety. Happy Holidays!",
-          "color": "#2d2d2d",
-          "fontSize": "30",
-          "fontType": "Caveat Regular",
-          "positionX": "389.7258",
-          "positionY": "767.7632"
-        }
-      ],
-      "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
-	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
-      "img_name": "Balloon2",
-      "category_id": "2"
-    },
-	{
-      "id": "7",
-      "content": [ 
-        {
-          "text": "Your Club Name",
-          "color": "#c47620",
-          "fontSize": "40",
-          "fontType": "Caveat Bold",
-          "positionX": "391.6597",
-          "positionY": "200.7146"
-        },
-        {
-          "text": "Christmas",
-          "color": "#e97817",
-          "fontSize": "155",
-          "fontType": "Chiller Regular",
-          "positionX": "390",
-          "positionY": "330.6113"
-        },
-        {
-          "text": "Party",
-          "color": "#e97817",
-          "fontSize": "95",
-          "fontType": "Chiller Regular",
-          "positionX": "390",
-          "positionY": "446.2952"
-        },
-        {
-          "text": "Street Address  | 13 . 09 . 2022",
-          "color": "#2d2d2d",
-          "fontSize": "40",
-          "fontType": "Caveat SemiBold",
-          "positionX": "386.2041",
-          "positionY": "691.2339"
-        },
-        {
-          "text": "The Season Of Festival And Wonder Is Waiting For You To\nUnwarp Joy And Galety. Happy Holidays!",
-          "color": "#2d2d2d",
-          "fontSize": "30",
-          "fontType": "Caveat Regular",
-          "positionX": "389.7258",
-          "positionY": "767.7632"
-        }
-      ],
-      "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
-	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
-      "img_name": "Balloon2",
-      "category_id": "2"
-    },
-	{
-      "id": "8",
-      "content": [ 
-        {
-          "text": "Your Club Name",
-          "color": "#c47620",
-          "fontSize": "40",
-          "fontType": "Caveat Bold",
-          "positionX": "391.6597",
-          "positionY": "200.7146"
-        },
-        {
-          "text": "Christmas",
-          "color": "#e97817",
-          "fontSize": "155",
-          "fontType": "Chiller Regular",
-          "positionX": "390",
-          "positionY": "330.6113"
-        },
-        {
-          "text": "Party",
-          "color": "#e97817",
-          "fontSize": "95",
-          "fontType": "Chiller Regular",
-          "positionX": "390",
-          "positionY": "446.2952"
-        },
-        {
-          "text": "Street Address  | 13 . 09 . 2022",
-          "color": "#2d2d2d",
-          "fontSize": "40",
-          "fontType": "Caveat SemiBold",
-          "positionX": "386.2041",
-          "positionY": "691.2339"
-        },
-        {
-          "text": "The Season Of Festival And Wonder Is Waiting For You To\nUnwarp Joy And Galety. Happy Holidays!",
-          "color": "#2d2d2d",
-          "fontSize": "30",
-          "fontType": "Caveat Regular",
-          "positionX": "389.7258",
-          "positionY": "767.7632"
-        }
-      ],
-      "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
-	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
-      "img_name": "Balloon2",
-      "category_id": "2"
-    },
-	{
-      "id": "9",
-      "content": [ 
-        {
-          "text": "Your Club Name",
-          "color": "#c47620",
-          "fontSize": "40",
-          "fontType": "Caveat Bold",
-          "positionX": "391.6597",
-          "positionY": "200.7146"
-        },
-        {
-          "text": "Christmas",
-          "color": "#e97817",
-          "fontSize": "155",
-          "fontType": "Chiller Regular",
-          "positionX": "390",
-          "positionY": "330.6113"
-        },
-        {
-          "text": "Party",
-          "color": "#e97817",
-          "fontSize": "95",
-          "fontType": "Chiller Regular",
-          "positionX": "390",
-          "positionY": "446.2952"
-        },
-        {
-          "text": "Street Address  | 13 . 09 . 2022",
-          "color": "#2d2d2d",
-          "fontSize": "40",
-          "fontType": "Caveat SemiBold",
-          "positionX": "386.2041",
-          "positionY": "691.2339"
-        },
-        {
-          "text": "The Season Of Festival And Wonder Is Waiting For You To\nUnwarp Joy And Galety. Happy Holidays!",
-          "color": "#2d2d2d",
-          "fontSize": "30",
-          "fontType": "Caveat Regular",
-          "positionX": "389.7258",
-          "positionY": "767.7632"
-        }
-      ],
-      "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
-	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
-      "img_name": "Balloon2",
-      "category_id": "2"
-    },
-	{
-      "id": "10",
-      "content": [ 
-        {
-          "text": "Your Club Name",
-          "color": "#c47620",
-          "fontSize": "40",
-          "fontType": "Caveat Bold",
-          "positionX": "391.6597",
-          "positionY": "200.7146"
-        },
-        {
-          "text": "Christmas",
-          "color": "#e97817",
-          "fontSize": "155",
-          "fontType": "Chiller Regular",
-          "positionX": "390",
-          "positionY": "330.6113"
-        },
-        {
-          "text": "Party",
-          "color": "#e97817",
-          "fontSize": "95",
-          "fontType": "Chiller Regular",
-          "positionX": "390",
-          "positionY": "446.2952"
-        },
-        {
-          "text": "Street Address  | 13 . 09 . 2022",
-          "color": "#2d2d2d",
-          "fontSize": "40",
-          "fontType": "Caveat SemiBold",
-          "positionX": "386.2041",
-          "positionY": "691.2339"
-        },
-        {
-          "text": "The Season Of Festival And Wonder Is Waiting For You To\nUnwarp Joy And Galety. Happy Holidays!",
-          "color": "#2d2d2d",
-          "fontSize": "30",
-          "fontType": "Caveat Regular",
-          "positionX": "389.7258",
-          "positionY": "767.7632"
-        }
-      ],
-      "img_url": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2.png",
-	  "img_url_bg": "https://raw.githubusercontent.com/appssmart/api/main/greetingcard/img/invitation_2_bg.png",
-      "img_name": "Balloon2",
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//birthday_invitation_card_5.png",
+      "img_name": "Emoji Party",
       "category_id": "2"
     }
   ]

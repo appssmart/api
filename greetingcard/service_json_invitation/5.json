@@ -1,0 +1,301 @@
+{
+  "status": "1",
+  "data": [
+    {
+      "id": "1",
+      "content": [
+        {
+          "text": "GIFT PARTY",
+          "color": "#688480",
+          "fontSize": "60",
+          "fontType": "Rubik Medium",
+          "positionX": "390",
+          "positionY": "229.1411"
+        },
+        {
+          "text": "Baby Shower",
+          "color": "#688480",
+          "fontSize": "100",
+          "fontType": "Satisfy Regular",
+          "positionX": "390",
+          "positionY": "369.2676"
+        },
+        {
+          "text": "The passage experienced a surge in popularity during the\n1960s when used. The passage experienced a surge.\nThe passage experienced a surge in popularity during the\n960s when used. The passage experienced a surge",
+          "color": "#688480",
+          "fontSize": "20",
+          "fontType": "Rubik Regular",
+          "positionX": "389.999",
+          "positionY": "628.0874"
+        },
+        {
+          "text": "15th May 2022",
+          "color": "#688480",
+          "fontSize": "45",
+          "fontType": "Satisfy Regular",
+          "positionX": "390",
+          "positionY": "794.0693"
+        },
+        {
+          "text": "23rd Street, Rose Garden",
+          "color": "#688480",
+          "fontSize": "25",
+          "fontType": "Rubik Medium",
+          "positionX": "390",
+          "positionY": "841.9336"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//babyshower_invitation_card_1.png",
+      "img_name": "Gift Prty",
+      "category_id": "5"
+    },
+    {
+      "id": "2",
+      "content": [
+        {
+          "text": "It’s a Boy!",
+          "color": "#414042",
+          "fontSize": "160",
+          "fontType": "Althea Regular",
+          "positionX": "347.7612",
+          "positionY": "280.6934"
+        },
+        {
+          "text": "BABY SHOWER",
+          "color": "#414042",
+          "fontSize": "50",
+          "fontType": "Baloo 2 SemiBold",
+          "positionX": "240",
+          "positionY": "406.6592"
+        },
+        {
+          "text": "celebrate with us...",
+          "color": "#414042",
+          "fontSize": "50",
+          "fontType": "Licorice Regular",
+          "positionX": "245.3193",
+          "positionY": "493.2417"
+        },
+        {
+          "text": "The passage experienced a surge in popularity during\nthe 1960s when used. The passage experienced a surge.\nThe passage experienced a surge in popularity. ",
+          "color": "#414042",
+          "fontSize": "20",
+          "fontType": "Baloo 2 Regular",
+          "positionX": "313.5667",
+          "positionY": "572.8269"
+        },
+        {
+          "text": "25th February",
+          "color": "#414042",
+          "fontSize": "50",
+          "fontType": "Althea Regular",
+          "positionX": "230.5588",
+          "positionY": "665.1191"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//babyshower_invitation_card_2.png",
+      "img_name": "Baby Toy Clouds",
+      "category_id": "5"
+    },
+    {
+      "id": "3",
+      "content": [
+        {
+          "text": "PLEASE JOIN US FOR",
+          "color": "#be1e2d",
+          "fontSize": "25",
+          "fontType": "Montserrat Medium",
+          "positionX": "390",
+          "positionY": "122.2957"
+        },
+        {
+          "text": "Baby Shower",
+          "color": "#27aae1",
+          "fontSize": "80",
+          "fontType": "Nickainley Normal",
+          "positionX": "390",
+          "positionY": "255.5947"
+        },
+        {
+          "text": "Sophia",
+          "color": "#2e3192",
+          "fontSize": "100",
+          "fontType": "Nathasyia script font Regular",
+          "positionX": "390",
+          "positionY": "527.1343"
+        },
+        {
+          "text": "29th july 2020",
+          "color": "#2e3192",
+          "fontSize": "30",
+          "fontType": "Montserrat Regular",
+          "positionX": "390",
+          "positionY": "693.0942"
+        },
+        {
+          "text": "START 10:00 AM",
+          "color": "#be1e2d",
+          "fontSize": "26",
+          "fontType": "Montserrat Regular",
+          "positionX": "390",
+          "positionY": "737.751"
+        },
+        {
+          "text": "Place address here\ncity here",
+          "color": "#2e3192",
+          "fontSize": "30",
+          "fontType": "Montserrat Regular",
+          "positionX": "390",
+          "positionY": "814.0708"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetuer\nadipiscing elit, sed diam nonummy nibh\neuismod tincidunt ut laoreet.",
+          "color": "#be1e2d",
+          "fontSize": "20",
+          "fontType": "Montserrat Regular",
+          "positionX": "390.0002",
+          "positionY": "909.1743"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//babyshower_invitation_card_3.png",
+      "img_name": "Lovely Rainbow",
+      "category_id": "5"
+    },
+    {
+      "id": "4",
+      "content": [
+        {
+          "text": "PLEASE JOIN US FOR A",
+          "color": "#515151",
+          "fontSize": "20",
+          "fontType": "Montserrat Bold",
+          "positionX": "390",
+          "positionY": "213.157"
+        },
+        {
+          "text": "BOY",
+          "color": "#f7941d",
+          "fontSize": "90",
+          "fontType": "Baloo 2 ExtraBold",
+          "positionX": "250.9949",
+          "positionY": "305.4341"
+        },
+        {
+          "text": "OR",
+          "color": "#4bc9f5",
+          "fontSize": "55",
+          "fontType": "Grand Hotel Regular",
+          "positionX": "390.0002",
+          "positionY": "295.4612"
+        },
+        {
+          "text": "GIRL",
+          "color": "#009444",
+          "fontSize": "90",
+          "fontType": "Baloo 2 ExtraBold",
+          "positionX": "535.1162",
+          "positionY": "305.4341"
+        },
+        {
+          "text": "Gender reveal\nParty",
+          "color": "#009444",
+          "fontSize": "35",
+          "fontType": "Montserrat Bold",
+          "positionX": "389.9998",
+          "positionY": "583.6675"
+        },
+        {
+          "text": "City &\nStreet",
+          "color": "#27aae1",
+          "fontSize": "45",
+          "fontType": "Baloo 2 Medium",
+          "positionX": "266.3865",
+          "positionY": "698.8423"
+        },
+        {
+          "text": "Aug\n20",
+          "color": "#27aae1",
+          "fontSize": "45",
+          "fontType": "Baloo 2 Medium",
+          "positionX": "409.4339",
+          "positionY": "699.4487"
+        },
+        {
+          "text": "4:00\npm",
+          "color": "#27aae1",
+          "fontSize": "45",
+          "fontType": "Baloo 2 Medium",
+          "positionX": "533.0049",
+          "positionY": "698.8423"
+        },
+        {
+          "text": "Rsvp to kim\n+123 456 789",
+          "color": "#414042",
+          "fontSize": "22",
+          "fontType": "Montserrat SemiBold",
+          "positionX": "389.9126",
+          "positionY": "818.6924"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//babyshower_invitation_card_4.png",
+      "img_name": "Gender Reveal Party",
+      "category_id": "5"
+    },
+    {
+      "id": "5",
+      "content": [
+        {
+          "text": "PLEASE JOIN US FOR A",
+          "color": "#5d666c",
+          "fontSize": "30",
+          "fontType": "Exo 2 SemiBold",
+          "positionX": "390",
+          "positionY": "174.6926"
+        },
+        {
+          "text": "BABY SHOWER",
+          "color": "#5d666c",
+          "fontSize": "70",
+          "fontType": "Exo 2 SemiBold",
+          "positionX": "390.0002",
+          "positionY": "255.3145"
+        },
+        {
+          "text": "HONORING",
+          "color": "#5d666c",
+          "fontSize": "30",
+          "fontType": "Exo 2 Bold",
+          "positionX": "390.0007",
+          "positionY": "663.3525"
+        },
+        {
+          "text": "Amelie & Miller",
+          "color": "#71c7aa",
+          "fontSize": "100",
+          "fontType": "Cookie-Regular",
+          "positionX": "390.0002",
+          "positionY": "739.6016"
+        },
+        {
+          "text": "08.10.2022\nSIX O’CLOCK IN THE AFTERNOON",
+          "color": "#5d666c",
+          "fontSize": "25",
+          "fontType": "Exo 2 Bold",
+          "positionX": "390.0002",
+          "positionY": "820.876"
+        },
+        {
+          "text": "324 STREET NAME HEAR,\nYOUR CITY",
+          "color": "#5d666c",
+          "fontSize": "25",
+          "fontType": "Exo 2 Medium",
+          "positionX": "390",
+          "positionY": "909.5244"
+        }
+      ],
+      "img_url": "https://movieplex.live/assets/images/invitation_card_maker//babyshower_invitation_card_5.png",
+      "img_name": "Pretty",
+      "category_id": "5"
+    }
+  ]
+}
